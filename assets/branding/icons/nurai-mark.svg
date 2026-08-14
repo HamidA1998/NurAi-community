@@ -1,0 +1,24 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>NurAI mark</title>
+  <desc>A crescent, guided N-shaped doorway, orbit, and reserved gold point.</desc>
+  <path
+    d="M32 7C20 9 11 19 11 31C11 44 20 54 33 56C24 51 20 42 21 33C22 22 29 14 39 11C37 8.5 34.5 7.1 32 7Z"
+    fill="#CFAE69"
+  />
+  <path
+    d="M25 46V18L44 46V18"
+    fill="none"
+    stroke="#F3F0E8"
+    stroke-width="5.4"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M14 38C26 51 47 52 57 33"
+    fill="none"
+    stroke="#56B394"
+    stroke-width="4.2"
+    stroke-linecap="round"
+  />
+  <circle cx="54" cy="14" r="1.8" fill="#CFAE69" />
+</svg>

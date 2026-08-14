@@ -1,0 +1,3872 @@
+{
+  "id": "bukhari",
+  "name": "Sahih Al-Bukhari",
+  "arabicName": "صحيح البخاري",
+  "compiler": "Imam Muhammad ibn Ismail al-Bukhari",
+  "totalHadiths": 7563,
+  "description": "The most authentic collection of hadith, compiled by Imam al-Bukhari over 16 years. It contains 7,563 hadith including repetitions.",
+  "sourcePolicy": "source_index_only_no_local_hadith_text",
+  "originalLocalRows": 411,
+  "verifiedSourceRows": 408,
+  "omittedUnverifiedRows": 3,
+  "chapters": [
+    {
+      "name": "Book of Revelation",
+      "arabicName": "كتاب بدء الوحي",
+      "hadiths": [
+        {
+          "id": 1,
+          "originalReference": "Bukhari 1",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1",
+          "sourceUrl": "https://sunnah.com/bukhari:1",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 2,
+          "originalReference": "Bukhari 3",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3",
+          "sourceUrl": "https://sunnah.com/bukhari:3",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 3,
+          "originalReference": "Bukhari 4",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 4",
+          "sourceUrl": "https://sunnah.com/bukhari:4",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 4,
+          "originalReference": "Bukhari 5",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5",
+          "sourceUrl": "https://sunnah.com/bukhari:5",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 5,
+          "originalReference": "Bukhari 6",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6",
+          "sourceUrl": "https://sunnah.com/bukhari:6",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 6,
+          "originalReference": "Bukhari 7",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 7",
+          "sourceUrl": "https://sunnah.com/bukhari:7",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 7,
+          "originalReference": "Bukhari 2",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2",
+          "sourceUrl": "https://sunnah.com/bukhari:2",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 8,
+          "originalReference": "Bukhari 7274",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 7274",
+          "sourceUrl": "https://sunnah.com/bukhari:7274",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 9,
+          "originalReference": "Bukhari 4982",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 4982",
+          "sourceUrl": "https://sunnah.com/bukhari:4982",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 10,
+          "originalReference": "Bukhari 4953",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 4953",
+          "sourceUrl": "https://sunnah.com/bukhari:4953",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 11,
+          "originalReference": "Bukhari 8",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 8",
+          "sourceUrl": "https://sunnah.com/bukhari:8",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 12,
+          "originalReference": "Bukhari 50",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 50",
+          "sourceUrl": "https://sunnah.com/bukhari:50",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 13,
+          "originalReference": "Bukhari 3560",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3560",
+          "sourceUrl": "https://sunnah.com/bukhari:3560",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 14,
+          "originalReference": "Bukhari 3",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3",
+          "sourceUrl": "https://sunnah.com/bukhari:3",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 15,
+          "originalReference": "Bukhari 1358",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1358",
+          "sourceUrl": "https://sunnah.com/bukhari:1358",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Faith",
+      "arabicName": "كتاب الإيمان",
+      "hadiths": [
+        {
+          "id": 16,
+          "originalReference": "Bukhari 9",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 9",
+          "sourceUrl": "https://sunnah.com/bukhari:9",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 17,
+          "originalReference": "Bukhari 10",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 10",
+          "sourceUrl": "https://sunnah.com/bukhari:10",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 18,
+          "originalReference": "Bukhari 13",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 13",
+          "sourceUrl": "https://sunnah.com/bukhari:13",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 19,
+          "originalReference": "Bukhari 14",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 14",
+          "sourceUrl": "https://sunnah.com/bukhari:14",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 20,
+          "originalReference": "Bukhari 16",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 16",
+          "sourceUrl": "https://sunnah.com/bukhari:16",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 21,
+          "originalReference": "Bukhari 17",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 17",
+          "sourceUrl": "https://sunnah.com/bukhari:17",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 22,
+          "originalReference": "Bukhari 3435",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3435",
+          "sourceUrl": "https://sunnah.com/bukhari:3435",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 23,
+          "originalReference": "Bukhari 26",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 26",
+          "sourceUrl": "https://sunnah.com/bukhari:26",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 24,
+          "originalReference": "Bukhari 35",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 35",
+          "sourceUrl": "https://sunnah.com/bukhari:35",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 25,
+          "originalReference": "Bukhari 38",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 38",
+          "sourceUrl": "https://sunnah.com/bukhari:38",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 26,
+          "originalReference": "Bukhari 41",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 41",
+          "sourceUrl": "https://sunnah.com/bukhari:41",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 27,
+          "originalReference": "Bukhari 2697",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2697",
+          "sourceUrl": "https://sunnah.com/bukhari:2697",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 28,
+          "originalReference": "Bukhari 48",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 48",
+          "sourceUrl": "https://sunnah.com/bukhari:48",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 29,
+          "originalReference": "Bukhari 5827",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5827",
+          "sourceUrl": "https://sunnah.com/bukhari:5827",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 30,
+          "originalReference": "Bukhari 2856",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2856",
+          "sourceUrl": "https://sunnah.com/bukhari:2856",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 31,
+          "originalReference": "Bukhari 25",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 25",
+          "sourceUrl": "https://sunnah.com/bukhari:25",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 32,
+          "originalReference": "Bukhari 21",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 21",
+          "sourceUrl": "https://sunnah.com/bukhari:21",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Knowledge",
+      "arabicName": "كتاب العلم",
+      "hadiths": [
+        {
+          "id": 33,
+          "originalReference": "Bukhari 71",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 71",
+          "sourceUrl": "https://sunnah.com/bukhari:71",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 34,
+          "originalReference": "Bukhari 73",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 73",
+          "sourceUrl": "https://sunnah.com/bukhari:73",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 35,
+          "originalReference": "Bukhari 79",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 79",
+          "sourceUrl": "https://sunnah.com/bukhari:79",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 36,
+          "originalReference": "Bukhari 69",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 69",
+          "sourceUrl": "https://sunnah.com/bukhari:69",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 37,
+          "originalReference": "Bukhari 80",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 80",
+          "sourceUrl": "https://sunnah.com/bukhari:80",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 38,
+          "originalReference": "Bukhari 3461",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3461",
+          "sourceUrl": "https://sunnah.com/bukhari:3461",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 39,
+          "originalReference": "Bukhari 82",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 82",
+          "sourceUrl": "https://sunnah.com/bukhari:82",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 40,
+          "originalReference": "Bukhari 99",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 99",
+          "sourceUrl": "https://sunnah.com/bukhari:99",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 41,
+          "originalReference": "Bukhari 5027",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5027",
+          "sourceUrl": "https://sunnah.com/bukhari:5027",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 42,
+          "originalReference": "Bukhari 7195",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 7195",
+          "sourceUrl": "https://sunnah.com/bukhari:7195",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 43,
+          "originalReference": "Bukhari (related in Muslim 2699)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2699",
+          "sourceUrl": "https://sunnah.com/muslim:2699",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 44,
+          "originalReference": "Bukhari (related in Abu Dawud 3658)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3658",
+          "sourceUrl": "https://sunnah.com/abudawud:3658",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 45,
+          "originalReference": "Bukhari (related in Ibn Majah 224)",
+          "sourceCollectionId": "ibn_majah",
+          "sourceCollectionName": "Sunan Ibn Majah",
+          "sourceReference": "Sunan Ibn Majah 224",
+          "sourceUrl": "https://sunnah.com/ibnmajah:224",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 46,
+          "originalReference": "Bukhari (related in Muslim 2638)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2638",
+          "sourceUrl": "https://sunnah.com/muslim:2638",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 47,
+          "originalReference": "Bukhari 2697",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2697",
+          "sourceUrl": "https://sunnah.com/bukhari:2697",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Ablutions",
+      "arabicName": "كتاب الوضوء",
+      "hadiths": [
+        {
+          "id": 48,
+          "originalReference": "Bukhari 135",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 135",
+          "sourceUrl": "https://sunnah.com/bukhari:135",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 49,
+          "originalReference": "Bukhari 159",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 159",
+          "sourceUrl": "https://sunnah.com/bukhari:159",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 50,
+          "originalReference": "Bukhari 136",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 136",
+          "sourceUrl": "https://sunnah.com/bukhari:136",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 51,
+          "originalReference": "Bukhari 216",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 216",
+          "sourceUrl": "https://sunnah.com/bukhari:216",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 52,
+          "originalReference": "Bukhari 201",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 201",
+          "sourceUrl": "https://sunnah.com/bukhari:201",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 53,
+          "originalReference": "Bukhari 168",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 168",
+          "sourceUrl": "https://sunnah.com/bukhari:168",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 54,
+          "originalReference": "Bukhari 162",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 162",
+          "sourceUrl": "https://sunnah.com/bukhari:162",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 55,
+          "originalReference": "Bukhari 176",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 176",
+          "sourceUrl": "https://sunnah.com/bukhari:176",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 56,
+          "originalReference": "Bukhari 185",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 185",
+          "sourceUrl": "https://sunnah.com/bukhari:185",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 57,
+          "originalReference": "Bukhari 159",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 159",
+          "sourceUrl": "https://sunnah.com/bukhari:159",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 58,
+          "originalReference": "Bukhari 150",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 150",
+          "sourceUrl": "https://sunnah.com/bukhari:150",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 59,
+          "originalReference": "Bukhari 172",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 172",
+          "sourceUrl": "https://sunnah.com/bukhari:172",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 60,
+          "originalReference": "Bukhari (related in Muslim 251)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 251",
+          "sourceUrl": "https://sunnah.com/muslim:251",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 61,
+          "originalReference": "Bukhari (related in Muslim 224)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 224",
+          "sourceUrl": "https://sunnah.com/muslim:224",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 62,
+          "originalReference": "Bukhari (related in Muslim 227)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 227",
+          "sourceUrl": "https://sunnah.com/muslim:227",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Prayer",
+      "arabicName": "كتاب الصلاة",
+      "hadiths": [
+        {
+          "id": 63,
+          "originalReference": "Bukhari 527",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 527",
+          "sourceUrl": "https://sunnah.com/bukhari:527",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 64,
+          "originalReference": "Bukhari 528",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 528",
+          "sourceUrl": "https://sunnah.com/bukhari:528",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 65,
+          "originalReference": "Bukhari 636",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 636",
+          "sourceUrl": "https://sunnah.com/bukhari:636",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 66,
+          "originalReference": "Bukhari (related in Muslim 725)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 725",
+          "sourceUrl": "https://sunnah.com/muslim:725",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 67,
+          "originalReference": "Bukhari 657",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 657",
+          "sourceUrl": "https://sunnah.com/bukhari:657",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 68,
+          "originalReference": "Bukhari 654",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 654",
+          "sourceUrl": "https://sunnah.com/bukhari:654",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 69,
+          "originalReference": "Bukhari 723",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 723",
+          "sourceUrl": "https://sunnah.com/bukhari:723",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 70,
+          "originalReference": "Bukhari 780",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 780",
+          "sourceUrl": "https://sunnah.com/bukhari:780",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 71,
+          "originalReference": "Bukhari (related in Muslim 395)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 395",
+          "sourceUrl": "https://sunnah.com/muslim:395",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 72,
+          "originalReference": "Bukhari 759",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 759",
+          "sourceUrl": "https://sunnah.com/bukhari:759",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 73,
+          "originalReference": "Bukhari 531",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 531",
+          "sourceUrl": "https://sunnah.com/bukhari:531",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 74,
+          "originalReference": "Bukhari (related in Muslim 233)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 233",
+          "sourceUrl": "https://sunnah.com/muslim:233",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 75,
+          "originalReference": "Bukhari 647",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 647",
+          "sourceUrl": "https://sunnah.com/bukhari:647",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 76,
+          "originalReference": "Bukhari 631",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 631",
+          "sourceUrl": "https://sunnah.com/bukhari:631",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 77,
+          "originalReference": "Bukhari 689",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 689",
+          "sourceUrl": "https://sunnah.com/bukhari:689",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 78,
+          "originalReference": "Bukhari (related in Muslim 656)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 656",
+          "sourceUrl": "https://sunnah.com/muslim:656",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Call to Prayer",
+      "arabicName": "كتاب الأذان",
+      "hadiths": [
+        {
+          "id": 79,
+          "originalReference": "Bukhari 608",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 608",
+          "sourceUrl": "https://sunnah.com/bukhari:608",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 80,
+          "originalReference": "Bukhari (related in Muslim 387)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 387",
+          "sourceUrl": "https://sunnah.com/muslim:387",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 81,
+          "originalReference": "Bukhari 611",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 611",
+          "sourceUrl": "https://sunnah.com/bukhari:611",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 82,
+          "originalReference": "Bukhari 614",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 614",
+          "sourceUrl": "https://sunnah.com/bukhari:614",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 83,
+          "originalReference": "Bukhari (related in Abu Dawud 521)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 521",
+          "sourceUrl": "https://sunnah.com/abudawud:521",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 84,
+          "originalReference": "Bukhari 645",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 645",
+          "sourceUrl": "https://sunnah.com/bukhari:645",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 85,
+          "originalReference": "Bukhari 633",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 633",
+          "sourceUrl": "https://sunnah.com/bukhari:633",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 86,
+          "originalReference": "Bukhari 657",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 657",
+          "sourceUrl": "https://sunnah.com/bukhari:657",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 87,
+          "originalReference": "Bukhari 637",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 637",
+          "sourceUrl": "https://sunnah.com/bukhari:637",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 88,
+          "originalReference": "Bukhari 664",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 664",
+          "sourceUrl": "https://sunnah.com/bukhari:664",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 89,
+          "originalReference": "Bukhari 615",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 615",
+          "sourceUrl": "https://sunnah.com/bukhari:615",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 90,
+          "originalReference": "Bukhari 631",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 631",
+          "sourceUrl": "https://sunnah.com/bukhari:631",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 91,
+          "originalReference": "Bukhari (related in Abu Dawud 564)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 564",
+          "sourceUrl": "https://sunnah.com/abudawud:564",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 92,
+          "originalReference": "Bukhari 647",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 647",
+          "sourceUrl": "https://sunnah.com/bukhari:647",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 93,
+          "originalReference": "Bukhari (related in Tirmidhi 4)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 4",
+          "sourceUrl": "https://sunnah.com/tirmidhi:4",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Friday Prayer",
+      "arabicName": "كتاب الجمعة",
+      "hadiths": [
+        {
+          "id": 94,
+          "originalReference": "Bukhari (related in Muslim 854)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 854",
+          "sourceUrl": "https://sunnah.com/muslim:854",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 95,
+          "originalReference": "Bukhari 883",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 883",
+          "sourceUrl": "https://sunnah.com/bukhari:883",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 96,
+          "originalReference": "Bukhari 935",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 935",
+          "sourceUrl": "https://sunnah.com/bukhari:935",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 97,
+          "originalReference": "Bukhari 877",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 877",
+          "sourceUrl": "https://sunnah.com/bukhari:877",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 98,
+          "originalReference": "Bukhari 929",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 929",
+          "sourceUrl": "https://sunnah.com/bukhari:929",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 99,
+          "originalReference": "Bukhari (related in Abu Dawud 1052)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 1052",
+          "sourceUrl": "https://sunnah.com/abudawud:1052",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 100,
+          "originalReference": "Bukhari 3584",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3584",
+          "sourceUrl": "https://sunnah.com/bukhari:3584",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 101,
+          "originalReference": "Bukhari 920",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 920",
+          "sourceUrl": "https://sunnah.com/bukhari:920",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 102,
+          "originalReference": "Bukhari 883",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 883",
+          "sourceUrl": "https://sunnah.com/bukhari:883",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 103,
+          "originalReference": "Bukhari 897",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 897",
+          "sourceUrl": "https://sunnah.com/bukhari:897",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 104,
+          "originalReference": "Bukhari 934",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 934",
+          "sourceUrl": "https://sunnah.com/bukhari:934",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 105,
+          "originalReference": "Bukhari 936",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 936",
+          "sourceUrl": "https://sunnah.com/bukhari:936",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 106,
+          "originalReference": "Bukhari 902",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 902",
+          "sourceUrl": "https://sunnah.com/bukhari:902",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 107,
+          "originalReference": "Bukhari (related in Abu Dawud 345)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 345",
+          "sourceUrl": "https://sunnah.com/abudawud:345",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 108,
+          "originalReference": "Bukhari 920",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 920",
+          "sourceUrl": "https://sunnah.com/bukhari:920",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Fear Prayer",
+      "arabicName": "كتاب صلاة الخوف",
+      "hadiths": [
+        {
+          "id": 109,
+          "originalReference": "Bukhari 942",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 942",
+          "sourceUrl": "https://sunnah.com/bukhari:942",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 110,
+          "originalReference": "Bukhari 4131",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 4131",
+          "sourceUrl": "https://sunnah.com/bukhari:4131",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 111,
+          "originalReference": "Bukhari (related in Muslim 840)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 840",
+          "sourceUrl": "https://sunnah.com/muslim:840",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 112,
+          "originalReference": "Bukhari 4127",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 4127",
+          "sourceUrl": "https://sunnah.com/bukhari:4127",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 113,
+          "originalReference": "Bukhari 943",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 943",
+          "sourceUrl": "https://sunnah.com/bukhari:943",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 115,
+          "originalReference": "Bukhari 942",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 942",
+          "sourceUrl": "https://sunnah.com/bukhari:942",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 116,
+          "originalReference": "Bukhari (related in Abu Dawud 1249)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 1249",
+          "sourceUrl": "https://sunnah.com/abudawud:1249",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Funerals",
+      "arabicName": "كتاب الجنائز",
+      "hadiths": [
+        {
+          "id": 117,
+          "originalReference": "Bukhari 5671",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5671",
+          "sourceUrl": "https://sunnah.com/bukhari:5671",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 118,
+          "originalReference": "Bukhari 1315",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1315",
+          "sourceUrl": "https://sunnah.com/bukhari:1315",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 119,
+          "originalReference": "Bukhari 1325",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1325",
+          "sourceUrl": "https://sunnah.com/bukhari:1325",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 120,
+          "originalReference": "Bukhari 1393",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1393",
+          "sourceUrl": "https://sunnah.com/bukhari:1393",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 121,
+          "originalReference": "Bukhari 1283",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1283",
+          "sourceUrl": "https://sunnah.com/bukhari:1283",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 122,
+          "originalReference": "Bukhari 1239",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1239",
+          "sourceUrl": "https://sunnah.com/bukhari:1239",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 123,
+          "originalReference": "Bukhari 1379",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1379",
+          "sourceUrl": "https://sunnah.com/bukhari:1379",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 124,
+          "originalReference": "Bukhari 1338",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1338",
+          "sourceUrl": "https://sunnah.com/bukhari:1338",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 125,
+          "originalReference": "Bukhari 1333",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1333",
+          "sourceUrl": "https://sunnah.com/bukhari:1333",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 126,
+          "originalReference": "Bukhari 1264",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1264",
+          "sourceUrl": "https://sunnah.com/bukhari:1264",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 127,
+          "originalReference": "Bukhari 1286",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1286",
+          "sourceUrl": "https://sunnah.com/bukhari:1286",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 128,
+          "originalReference": "Bukhari (related in Tirmidhi 2307)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2307",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2307",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 129,
+          "originalReference": "Bukhari 1358",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1358",
+          "sourceUrl": "https://sunnah.com/bukhari:1358",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 130,
+          "originalReference": "Bukhari (related in Abu Dawud 3162)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3162",
+          "sourceUrl": "https://sunnah.com/abudawud:3162",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 131,
+          "originalReference": "Bukhari 1325",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1325",
+          "sourceUrl": "https://sunnah.com/bukhari:1325",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Zakat",
+      "arabicName": "كتاب الزكاة",
+      "hadiths": [
+        {
+          "id": 132,
+          "originalReference": "Bukhari 1395",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1395",
+          "sourceUrl": "https://sunnah.com/bukhari:1395",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 133,
+          "originalReference": "Bukhari 1403",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1403",
+          "sourceUrl": "https://sunnah.com/bukhari:1403",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 134,
+          "originalReference": "Bukhari 1417",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1417",
+          "sourceUrl": "https://sunnah.com/bukhari:1417",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 135,
+          "originalReference": "Bukhari 1427",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1427",
+          "sourceUrl": "https://sunnah.com/bukhari:1427",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 136,
+          "originalReference": "Bukhari 1423",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1423",
+          "sourceUrl": "https://sunnah.com/bukhari:1423",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 137,
+          "originalReference": "Bukhari 1442",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1442",
+          "sourceUrl": "https://sunnah.com/bukhari:1442",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 138,
+          "originalReference": "Bukhari 1419",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1419",
+          "sourceUrl": "https://sunnah.com/bukhari:1419",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 139,
+          "originalReference": "Bukhari 1503",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1503",
+          "sourceUrl": "https://sunnah.com/bukhari:1503",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 140,
+          "originalReference": "Bukhari 1410",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1410",
+          "sourceUrl": "https://sunnah.com/bukhari:1410",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 141,
+          "originalReference": "Bukhari 1433",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1433",
+          "sourceUrl": "https://sunnah.com/bukhari:1433",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 142,
+          "originalReference": "Bukhari (related in Muslim 2588)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2588",
+          "sourceUrl": "https://sunnah.com/muslim:2588",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 143,
+          "originalReference": "Bukhari 1445",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1445",
+          "sourceUrl": "https://sunnah.com/bukhari:1445",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 144,
+          "originalReference": "Bukhari 1411",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1411",
+          "sourceUrl": "https://sunnah.com/bukhari:1411",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 145,
+          "originalReference": "Bukhari 1421",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1421",
+          "sourceUrl": "https://sunnah.com/bukhari:1421",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 146,
+          "originalReference": "Bukhari (related in Muslim 2588)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2588",
+          "sourceUrl": "https://sunnah.com/muslim:2588",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Fasting",
+      "arabicName": "كتاب الصوم",
+      "hadiths": [
+        {
+          "id": 147,
+          "originalReference": "Bukhari 1899",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1899",
+          "sourceUrl": "https://sunnah.com/bukhari:1899",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 148,
+          "originalReference": "Bukhari 1903",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1903",
+          "sourceUrl": "https://sunnah.com/bukhari:1903",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 149,
+          "originalReference": "Bukhari 1904",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1904",
+          "sourceUrl": "https://sunnah.com/bukhari:1904",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 150,
+          "originalReference": "Bukhari 1896",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1896",
+          "sourceUrl": "https://sunnah.com/bukhari:1896",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 151,
+          "originalReference": "Bukhari 1901",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1901",
+          "sourceUrl": "https://sunnah.com/bukhari:1901",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 152,
+          "originalReference": "Bukhari 2024",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2024",
+          "sourceUrl": "https://sunnah.com/bukhari:2024",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 153,
+          "originalReference": "Bukhari 2020",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2020",
+          "sourceUrl": "https://sunnah.com/bukhari:2020",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 154,
+          "originalReference": "Bukhari 1904",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1904",
+          "sourceUrl": "https://sunnah.com/bukhari:1904",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 155,
+          "originalReference": "Bukhari 1923",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1923",
+          "sourceUrl": "https://sunnah.com/bukhari:1923",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 156,
+          "originalReference": "Bukhari 1957",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1957",
+          "sourceUrl": "https://sunnah.com/bukhari:1957",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 157,
+          "originalReference": "Bukhari 1933",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1933",
+          "sourceUrl": "https://sunnah.com/bukhari:1933",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 158,
+          "originalReference": "Bukhari 1918",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1918",
+          "sourceUrl": "https://sunnah.com/bukhari:1918",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 159,
+          "originalReference": "Bukhari 1914",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1914",
+          "sourceUrl": "https://sunnah.com/bukhari:1914",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 160,
+          "originalReference": "Bukhari 1927",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1927",
+          "sourceUrl": "https://sunnah.com/bukhari:1927",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 161,
+          "originalReference": "Bukhari 1901",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1901",
+          "sourceUrl": "https://sunnah.com/bukhari:1901",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Hajj",
+      "arabicName": "كتاب الحج",
+      "hadiths": [
+        {
+          "id": 162,
+          "originalReference": "Bukhari 1521",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1521",
+          "sourceUrl": "https://sunnah.com/bukhari:1521",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 163,
+          "originalReference": "Bukhari 1520",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1520",
+          "sourceUrl": "https://sunnah.com/bukhari:1520",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 164,
+          "originalReference": "Bukhari 1782",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1782",
+          "sourceUrl": "https://sunnah.com/bukhari:1782",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 165,
+          "originalReference": "Bukhari 1607",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1607",
+          "sourceUrl": "https://sunnah.com/bukhari:1607",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 166,
+          "originalReference": "Bukhari 1773",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1773",
+          "sourceUrl": "https://sunnah.com/bukhari:1773",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 167,
+          "originalReference": "Bukhari 1603",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1603",
+          "sourceUrl": "https://sunnah.com/bukhari:1603",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 168,
+          "originalReference": "Bukhari 1546",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1546",
+          "sourceUrl": "https://sunnah.com/bukhari:1546",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 169,
+          "originalReference": "Bukhari 1599",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1599",
+          "sourceUrl": "https://sunnah.com/bukhari:1599",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 170,
+          "originalReference": "Bukhari 1755",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1755",
+          "sourceUrl": "https://sunnah.com/bukhari:1755",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 171,
+          "originalReference": "Bukhari (related in Muslim 1337)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1337",
+          "sourceUrl": "https://sunnah.com/muslim:1337",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 172,
+          "originalReference": "Bukhari (related in Muslim 1348)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1348",
+          "sourceUrl": "https://sunnah.com/muslim:1348",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 173,
+          "originalReference": "Bukhari 1519",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1519",
+          "sourceUrl": "https://sunnah.com/bukhari:1519",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 174,
+          "originalReference": "Bukhari (related in Muslim 1218)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1218",
+          "sourceUrl": "https://sunnah.com/muslim:1218",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 175,
+          "originalReference": "Bukhari (related in Ibn Majah 3062)",
+          "sourceCollectionId": "ibn_majah",
+          "sourceCollectionName": "Sunan Ibn Majah",
+          "sourceReference": "Sunan Ibn Majah 3062",
+          "sourceUrl": "https://sunnah.com/ibnmajah:3062",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 176,
+          "originalReference": "Bukhari 1862",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1862",
+          "sourceUrl": "https://sunnah.com/bukhari:1862",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Jihad",
+      "arabicName": "كتاب الجهاد",
+      "hadiths": [
+        {
+          "id": 177,
+          "originalReference": "Bukhari 2785",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2785",
+          "sourceUrl": "https://sunnah.com/bukhari:2785",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 178,
+          "originalReference": "Bukhari 2792",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2792",
+          "sourceUrl": "https://sunnah.com/bukhari:2792",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 179,
+          "originalReference": "Bukhari 2843",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2843",
+          "sourceUrl": "https://sunnah.com/bukhari:2843",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 180,
+          "originalReference": "Bukhari 2793",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2793",
+          "sourceUrl": "https://sunnah.com/bukhari:2793",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 181,
+          "originalReference": "Bukhari 2817",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2817",
+          "sourceUrl": "https://sunnah.com/bukhari:2817",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 182,
+          "originalReference": "Bukhari 2818",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2818",
+          "sourceUrl": "https://sunnah.com/bukhari:2818",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 183,
+          "originalReference": "Bukhari 2810",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2810",
+          "sourceUrl": "https://sunnah.com/bukhari:2810",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 184,
+          "originalReference": "Bukhari 3029",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3029",
+          "sourceUrl": "https://sunnah.com/bukhari:3029",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 185,
+          "originalReference": "Bukhari 2797",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2797",
+          "sourceUrl": "https://sunnah.com/bukhari:2797",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 186,
+          "originalReference": "Bukhari 2787",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2787",
+          "sourceUrl": "https://sunnah.com/bukhari:2787",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 187,
+          "originalReference": "Bukhari (related in Muslim 1910)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1910",
+          "sourceUrl": "https://sunnah.com/muslim:1910",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 188,
+          "originalReference": "Bukhari 2787",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2787",
+          "sourceUrl": "https://sunnah.com/bukhari:2787",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 189,
+          "originalReference": "Bukhari 2966",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2966",
+          "sourceUrl": "https://sunnah.com/bukhari:2966",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 190,
+          "originalReference": "Bukhari 2365",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2365",
+          "sourceUrl": "https://sunnah.com/bukhari:2365",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 191,
+          "originalReference": "Bukhari 2843",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2843",
+          "sourceUrl": "https://sunnah.com/bukhari:2843",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Beginning of Creation",
+      "arabicName": "كتاب بدء الخلق",
+      "hadiths": [
+        {
+          "id": 192,
+          "originalReference": "Bukhari 3194",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3194",
+          "sourceUrl": "https://sunnah.com/bukhari:3194",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 193,
+          "originalReference": "Bukhari 6000",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6000",
+          "sourceUrl": "https://sunnah.com/bukhari:6000",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 194,
+          "originalReference": "Bukhari 3326",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3326",
+          "sourceUrl": "https://sunnah.com/bukhari:3326",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 195,
+          "originalReference": "Bukhari 3208",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3208",
+          "sourceUrl": "https://sunnah.com/bukhari:3208",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 196,
+          "originalReference": "Bukhari 3320",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3320",
+          "sourceUrl": "https://sunnah.com/bukhari:3320",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 197,
+          "originalReference": "Bukhari 3431",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3431",
+          "sourceUrl": "https://sunnah.com/bukhari:3431",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 198,
+          "originalReference": "Bukhari 3289",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3289",
+          "sourceUrl": "https://sunnah.com/bukhari:3289",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 199,
+          "originalReference": "Bukhari 3303",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3303",
+          "sourceUrl": "https://sunnah.com/bukhari:3303",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 200,
+          "originalReference": "Bukhari 3245",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3245",
+          "sourceUrl": "https://sunnah.com/bukhari:3245",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 201,
+          "originalReference": "Bukhari (related in Muslim 2996)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2996",
+          "sourceUrl": "https://sunnah.com/muslim:2996",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 202,
+          "originalReference": "Bukhari 4830",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 4830",
+          "sourceUrl": "https://sunnah.com/bukhari:4830",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 203,
+          "originalReference": "Bukhari (related in Muslim 2577)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2577",
+          "sourceUrl": "https://sunnah.com/muslim:2577",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 204,
+          "originalReference": "Bukhari (related in Muslim 2611)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2611",
+          "sourceUrl": "https://sunnah.com/muslim:2611",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 205,
+          "originalReference": "Bukhari 3326",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3326",
+          "sourceUrl": "https://sunnah.com/bukhari:3326",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 206,
+          "originalReference": "Bukhari (related in Muslim 2996)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2996",
+          "sourceUrl": "https://sunnah.com/muslim:2996",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of the Prophets",
+      "arabicName": "كتاب الأنبياء",
+      "hadiths": [
+        {
+          "id": 207,
+          "originalReference": "Bukhari 3443",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3443",
+          "sourceUrl": "https://sunnah.com/bukhari:3443",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 208,
+          "originalReference": "Bukhari 3349",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3349",
+          "sourceUrl": "https://sunnah.com/bukhari:3349",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 209,
+          "originalReference": "Bukhari 3356",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3356",
+          "sourceUrl": "https://sunnah.com/bukhari:3356",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 210,
+          "originalReference": "Bukhari 3319",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3319",
+          "sourceUrl": "https://sunnah.com/bukhari:3319",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 211,
+          "originalReference": "Bukhari 3404",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3404",
+          "sourceUrl": "https://sunnah.com/bukhari:3404",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 212,
+          "originalReference": "Bukhari 3535",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3535",
+          "sourceUrl": "https://sunnah.com/bukhari:3535",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 213,
+          "originalReference": "Bukhari 3409",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3409",
+          "sourceUrl": "https://sunnah.com/bukhari:3409",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 214,
+          "originalReference": "Bukhari 3413",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3413",
+          "sourceUrl": "https://sunnah.com/bukhari:3413",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 215,
+          "originalReference": "Bukhari 3394",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3394",
+          "sourceUrl": "https://sunnah.com/bukhari:3394",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 216,
+          "originalReference": "Bukhari 3207",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3207",
+          "sourceUrl": "https://sunnah.com/bukhari:3207",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 217,
+          "originalReference": "Bukhari 2466",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2466",
+          "sourceUrl": "https://sunnah.com/bukhari:2466",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 218,
+          "originalReference": "Bukhari 3414",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3414",
+          "sourceUrl": "https://sunnah.com/bukhari:3414",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 219,
+          "originalReference": "Bukhari 3424",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3424",
+          "sourceUrl": "https://sunnah.com/bukhari:3424",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 220,
+          "originalReference": "Bukhari 3416",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3416",
+          "sourceUrl": "https://sunnah.com/bukhari:3416",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 221,
+          "originalReference": "Bukhari (related in Tirmidhi 3462)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 3462",
+          "sourceUrl": "https://sunnah.com/tirmidhi:3462",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Merits of the Companions",
+      "arabicName": "كتاب فضائل الصحابة",
+      "hadiths": [
+        {
+          "id": 222,
+          "originalReference": "Bukhari 3651",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3651",
+          "sourceUrl": "https://sunnah.com/bukhari:3651",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 223,
+          "originalReference": "Bukhari 3654",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3654",
+          "sourceUrl": "https://sunnah.com/bukhari:3654",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 224,
+          "originalReference": "Bukhari 3689",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3689",
+          "sourceUrl": "https://sunnah.com/bukhari:3689",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 225,
+          "originalReference": "Bukhari 3702",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3702",
+          "sourceUrl": "https://sunnah.com/bukhari:3702",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 226,
+          "originalReference": "Bukhari 3792",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3792",
+          "sourceUrl": "https://sunnah.com/bukhari:3792",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 227,
+          "originalReference": "Bukhari 3714",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3714",
+          "sourceUrl": "https://sunnah.com/bukhari:3714",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 228,
+          "originalReference": "Bukhari 3673",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3673",
+          "sourceUrl": "https://sunnah.com/bukhari:3673",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 229,
+          "originalReference": "Bukhari (related in Tirmidhi 3791)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 3791",
+          "sourceUrl": "https://sunnah.com/tirmidhi:3791",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 230,
+          "originalReference": "Bukhari 3744",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3744",
+          "sourceUrl": "https://sunnah.com/bukhari:3744",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 231,
+          "originalReference": "Bukhari 3655",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3655",
+          "sourceUrl": "https://sunnah.com/bukhari:3655",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 232,
+          "originalReference": "Bukhari (related in Muslim 2964)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2964",
+          "sourceUrl": "https://sunnah.com/muslim:2964",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 233,
+          "originalReference": "Bukhari 3689",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3689",
+          "sourceUrl": "https://sunnah.com/bukhari:3689",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 234,
+          "originalReference": "Bukhari (related in Tirmidhi 3866)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 3866",
+          "sourceUrl": "https://sunnah.com/tirmidhi:3866",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 235,
+          "originalReference": "Bukhari (related in Tirmidhi 3696)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 3696",
+          "sourceUrl": "https://sunnah.com/tirmidhi:3696",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 236,
+          "originalReference": "Bukhari (related in Muslim 27)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 27",
+          "sourceUrl": "https://sunnah.com/muslim:27",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Marriage",
+      "arabicName": "كتاب النكاح",
+      "hadiths": [
+        {
+          "id": 237,
+          "originalReference": "Bukhari 5066",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5066",
+          "sourceUrl": "https://sunnah.com/bukhari:5066",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 238,
+          "originalReference": "Bukhari 5063",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5063",
+          "sourceUrl": "https://sunnah.com/bukhari:5063",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 239,
+          "originalReference": "Bukhari 5090",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5090",
+          "sourceUrl": "https://sunnah.com/bukhari:5090",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 240,
+          "originalReference": "Bukhari 3331",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3331",
+          "sourceUrl": "https://sunnah.com/bukhari:3331",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 241,
+          "originalReference": "Bukhari (related in Tirmidhi 3895)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 3895",
+          "sourceUrl": "https://sunnah.com/tirmidhi:3895",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 242,
+          "originalReference": "Bukhari 5136",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5136",
+          "sourceUrl": "https://sunnah.com/bukhari:5136",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 243,
+          "originalReference": "Bukhari 5188",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5188",
+          "sourceUrl": "https://sunnah.com/bukhari:5188",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 244,
+          "originalReference": "Bukhari (related in Muslim 1469)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1469",
+          "sourceUrl": "https://sunnah.com/muslim:1469",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 245,
+          "originalReference": "Bukhari 676",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 676",
+          "sourceUrl": "https://sunnah.com/bukhari:676",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 246,
+          "originalReference": "Bukhari 5142",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5142",
+          "sourceUrl": "https://sunnah.com/bukhari:5142",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 247,
+          "originalReference": "Bukhari (related in Tirmidhi 1162)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1162",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1162",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 248,
+          "originalReference": "Bukhari (related in Muslim 2328)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2328",
+          "sourceUrl": "https://sunnah.com/muslim:2328",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 249,
+          "originalReference": "Bukhari 5126",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5126",
+          "sourceUrl": "https://sunnah.com/bukhari:5126",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 250,
+          "originalReference": "Bukhari (related in Tirmidhi 1163)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1163",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1163",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Divorce",
+      "arabicName": "كتاب الطلاق",
+      "hadiths": [
+        {
+          "id": 252,
+          "originalReference": "Bukhari (related in Abu Dawud 2178)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2178",
+          "sourceUrl": "https://sunnah.com/abudawud:2178",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 253,
+          "originalReference": "Bukhari 5260",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5260",
+          "sourceUrl": "https://sunnah.com/bukhari:5260",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 254,
+          "originalReference": "Bukhari 5273",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5273",
+          "sourceUrl": "https://sunnah.com/bukhari:5273",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 255,
+          "originalReference": "Bukhari 5251",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5251",
+          "sourceUrl": "https://sunnah.com/bukhari:5251",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 256,
+          "originalReference": "Bukhari (related in Abu Dawud 2194)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2194",
+          "sourceUrl": "https://sunnah.com/abudawud:2194",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 257,
+          "originalReference": "Bukhari 5282",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5282",
+          "sourceUrl": "https://sunnah.com/bukhari:5282",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 258,
+          "originalReference": "Bukhari (related in Muslim 1472)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1472",
+          "sourceUrl": "https://sunnah.com/muslim:1472",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 259,
+          "originalReference": "Bukhari 5151",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5151",
+          "sourceUrl": "https://sunnah.com/bukhari:5151",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 260,
+          "originalReference": "Bukhari (related in Abu Dawud 2226)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2226",
+          "sourceUrl": "https://sunnah.com/abudawud:2226",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 261,
+          "originalReference": "Bukhari 5261",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5261",
+          "sourceUrl": "https://sunnah.com/bukhari:5261",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 262,
+          "originalReference": "Bukhari (related in Muslim 1480)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1480",
+          "sourceUrl": "https://sunnah.com/muslim:1480",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 263,
+          "originalReference": "Bukhari 5259",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5259",
+          "sourceUrl": "https://sunnah.com/bukhari:5259",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Food and Meals",
+      "arabicName": "كتاب الأطعمة",
+      "hadiths": [
+        {
+          "id": 264,
+          "originalReference": "Bukhari 5409",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5409",
+          "sourceUrl": "https://sunnah.com/bukhari:5409",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 265,
+          "originalReference": "Bukhari 5376",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5376",
+          "sourceUrl": "https://sunnah.com/bukhari:5376",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 266,
+          "originalReference": "Bukhari (related in Muslim 2059)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2059",
+          "sourceUrl": "https://sunnah.com/muslim:2059",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 267,
+          "originalReference": "Bukhari 5379",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5379",
+          "sourceUrl": "https://sunnah.com/bukhari:5379",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 268,
+          "originalReference": "Bukhari 5416",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5416",
+          "sourceUrl": "https://sunnah.com/bukhari:5416",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 269,
+          "originalReference": "Bukhari 5386",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5386",
+          "sourceUrl": "https://sunnah.com/bukhari:5386",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 270,
+          "originalReference": "Bukhari (related in Muslim 2052)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2052",
+          "sourceUrl": "https://sunnah.com/muslim:2052",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 271,
+          "originalReference": "Bukhari (related in Abu Dawud 3767)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3767",
+          "sourceUrl": "https://sunnah.com/abudawud:3767",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 272,
+          "originalReference": "Bukhari (related in Muslim 2020)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2020",
+          "sourceUrl": "https://sunnah.com/muslim:2020",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 273,
+          "originalReference": "Bukhari (related in Muslim 2012)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2012",
+          "sourceUrl": "https://sunnah.com/muslim:2012",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 274,
+          "originalReference": "Bukhari (related in Tirmidhi 2360)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2360",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2360",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 275,
+          "originalReference": "Bukhari (related in Abu Dawud 2355)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2355",
+          "sourceUrl": "https://sunnah.com/abudawud:2355",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Good Manners",
+      "arabicName": "كتاب الأدب",
+      "hadiths": [
+        {
+          "id": 276,
+          "originalReference": "Bukhari 5971",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5971",
+          "sourceUrl": "https://sunnah.com/bukhari:5971",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 277,
+          "originalReference": "Bukhari 6018",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6018",
+          "sourceUrl": "https://sunnah.com/bukhari:6018",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 278,
+          "originalReference": "Bukhari (related in Muslim 2626)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2626",
+          "sourceUrl": "https://sunnah.com/muslim:2626",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 279,
+          "originalReference": "Bukhari 6114",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6114",
+          "sourceUrl": "https://sunnah.com/bukhari:6114",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 280,
+          "originalReference": "Bukhari 6064",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6064",
+          "sourceUrl": "https://sunnah.com/bukhari:6064",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 281,
+          "originalReference": "Bukhari 6011",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6011",
+          "sourceUrl": "https://sunnah.com/bukhari:6011",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 282,
+          "originalReference": "Bukhari 2442",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2442",
+          "sourceUrl": "https://sunnah.com/bukhari:2442",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 283,
+          "originalReference": "Bukhari 6125",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6125",
+          "sourceUrl": "https://sunnah.com/bukhari:6125",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 284,
+          "originalReference": "Bukhari (related in Muslim 2594)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2594",
+          "sourceUrl": "https://sunnah.com/muslim:2594",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 285,
+          "originalReference": "Bukhari 6065",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6065",
+          "sourceUrl": "https://sunnah.com/bukhari:6065",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 286,
+          "originalReference": "Bukhari (related in Abu Dawud 4912)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4912",
+          "sourceUrl": "https://sunnah.com/abudawud:4912",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 287,
+          "originalReference": "Bukhari (related in Tirmidhi 1956)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1956",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1956",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 288,
+          "originalReference": "Bukhari (related in Muslim 2551)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2551",
+          "sourceUrl": "https://sunnah.com/muslim:2551",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 289,
+          "originalReference": "Bukhari 6675",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6675",
+          "sourceUrl": "https://sunnah.com/bukhari:6675",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 290,
+          "originalReference": "Bukhari (related in Abu Dawud 4903)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4903",
+          "sourceUrl": "https://sunnah.com/abudawud:4903",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Seeking Permission",
+      "arabicName": "كتاب الاستئذان",
+      "hadiths": [
+        {
+          "id": 291,
+          "originalReference": "Bukhari 6245",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6245",
+          "sourceUrl": "https://sunnah.com/bukhari:6245",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 292,
+          "originalReference": "Bukhari 6229",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6229",
+          "sourceUrl": "https://sunnah.com/bukhari:6229",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 293,
+          "originalReference": "Bukhari (related in Muslim 54)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 54",
+          "sourceUrl": "https://sunnah.com/muslim:54",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 294,
+          "originalReference": "Bukhari 6236",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6236",
+          "sourceUrl": "https://sunnah.com/bukhari:6236",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 295,
+          "originalReference": "Bukhari 6231",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6231",
+          "sourceUrl": "https://sunnah.com/bukhari:6231",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 296,
+          "originalReference": "Bukhari 1240",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1240",
+          "sourceUrl": "https://sunnah.com/bukhari:1240",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 297,
+          "originalReference": "Bukhari 6077",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6077",
+          "sourceUrl": "https://sunnah.com/bukhari:6077",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 298,
+          "originalReference": "Bukhari 6902",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6902",
+          "sourceUrl": "https://sunnah.com/bukhari:6902",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 299,
+          "originalReference": "Bukhari (related in Muslim 1431)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1431",
+          "sourceUrl": "https://sunnah.com/muslim:1431",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 300,
+          "originalReference": "Bukhari 6232",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6232",
+          "sourceUrl": "https://sunnah.com/bukhari:6232",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 301,
+          "originalReference": "Bukhari (related in Tirmidhi 2698)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2698",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2698",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 302,
+          "originalReference": "Bukhari 6224",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6224",
+          "sourceUrl": "https://sunnah.com/bukhari:6224",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Invocations",
+      "arabicName": "كتاب الدعوات",
+      "hadiths": [
+        {
+          "id": 303,
+          "originalReference": "Bukhari 7405",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 7405",
+          "sourceUrl": "https://sunnah.com/bukhari:7405",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 304,
+          "originalReference": "Bukhari 6340",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6340",
+          "sourceUrl": "https://sunnah.com/bukhari:6340",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 305,
+          "originalReference": "Bukhari 6339",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6339",
+          "sourceUrl": "https://sunnah.com/bukhari:6339",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 306,
+          "originalReference": "Bukhari 6407",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6407",
+          "sourceUrl": "https://sunnah.com/bukhari:6407",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 307,
+          "originalReference": "Bukhari 6406",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6406",
+          "sourceUrl": "https://sunnah.com/bukhari:6406",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 308,
+          "originalReference": "Bukhari 6405",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6405",
+          "sourceUrl": "https://sunnah.com/bukhari:6405",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 309,
+          "originalReference": "Bukhari 6306",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6306",
+          "sourceUrl": "https://sunnah.com/bukhari:6306",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 310,
+          "originalReference": "Bukhari 6403",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6403",
+          "sourceUrl": "https://sunnah.com/bukhari:6403",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 311,
+          "originalReference": "Bukhari 6384",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6384",
+          "sourceUrl": "https://sunnah.com/bukhari:6384",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 312,
+          "originalReference": "Bukhari 6369",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6369",
+          "sourceUrl": "https://sunnah.com/bukhari:6369",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 313,
+          "originalReference": "Bukhari 6377",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6377",
+          "sourceUrl": "https://sunnah.com/bukhari:6377",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 314,
+          "originalReference": "Bukhari 834",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 834",
+          "sourceUrl": "https://sunnah.com/bukhari:834",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 315,
+          "originalReference": "Bukhari (related in Tirmidhi 3370)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 3370",
+          "sourceUrl": "https://sunnah.com/tirmidhi:3370",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 316,
+          "originalReference": "Bukhari 6320",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6320",
+          "sourceUrl": "https://sunnah.com/bukhari:6320",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 317,
+          "originalReference": "Bukhari 6345",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6345",
+          "sourceUrl": "https://sunnah.com/bukhari:6345",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Heart-Softeners",
+      "arabicName": "كتاب الرقاق",
+      "hadiths": [
+        {
+          "id": 318,
+          "originalReference": "Bukhari 6490",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6490",
+          "sourceUrl": "https://sunnah.com/bukhari:6490",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 319,
+          "originalReference": "Bukhari 6439",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6439",
+          "sourceUrl": "https://sunnah.com/bukhari:6439",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 320,
+          "originalReference": "Bukhari (related in Muslim 2956)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2956",
+          "sourceUrl": "https://sunnah.com/muslim:2956",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 321,
+          "originalReference": "Bukhari 6416",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6416",
+          "sourceUrl": "https://sunnah.com/bukhari:6416",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 322,
+          "originalReference": "Bukhari 3244",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3244",
+          "sourceUrl": "https://sunnah.com/bukhari:3244",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 323,
+          "originalReference": "Bukhari 6462",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6462",
+          "sourceUrl": "https://sunnah.com/bukhari:6462",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 324,
+          "originalReference": "Bukhari 6487",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6487",
+          "sourceUrl": "https://sunnah.com/bukhari:6487",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 325,
+          "originalReference": "Bukhari 6446",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6446",
+          "sourceUrl": "https://sunnah.com/bukhari:6446",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 326,
+          "originalReference": "Bukhari (related in Muslim 2564)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2564",
+          "sourceUrl": "https://sunnah.com/muslim:2564",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 327,
+          "originalReference": "Bukhari 6506",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6506",
+          "sourceUrl": "https://sunnah.com/bukhari:6506",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 328,
+          "originalReference": "Bukhari 6507",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6507",
+          "sourceUrl": "https://sunnah.com/bukhari:6507",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 329,
+          "originalReference": "Bukhari (related in Tirmidhi 2307)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2307",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2307",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 330,
+          "originalReference": "Bukhari (related in Muslim 1905)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1905",
+          "sourceUrl": "https://sunnah.com/muslim:1905",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 331,
+          "originalReference": "Bukhari 6565",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6565",
+          "sourceUrl": "https://sunnah.com/bukhari:6565",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 332,
+          "originalReference": "Bukhari 6519",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6519",
+          "sourceUrl": "https://sunnah.com/bukhari:6519",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Destiny",
+      "arabicName": "كتاب القدر",
+      "hadiths": [
+        {
+          "id": 333,
+          "originalReference": "Bukhari 6605",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6605",
+          "sourceUrl": "https://sunnah.com/bukhari:6605",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 334,
+          "originalReference": "Bukhari 3208",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3208",
+          "sourceUrl": "https://sunnah.com/bukhari:3208",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 335,
+          "originalReference": "Bukhari 6614",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6614",
+          "sourceUrl": "https://sunnah.com/bukhari:6614",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 336,
+          "originalReference": "Bukhari (related in Muslim 2664)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2664",
+          "sourceUrl": "https://sunnah.com/muslim:2664",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 337,
+          "originalReference": "Bukhari 6594",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6594",
+          "sourceUrl": "https://sunnah.com/bukhari:6594",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 338,
+          "originalReference": "Bukhari 6595",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6595",
+          "sourceUrl": "https://sunnah.com/bukhari:6595",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 339,
+          "originalReference": "Bukhari 6596",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6596",
+          "sourceUrl": "https://sunnah.com/bukhari:6596",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 340,
+          "originalReference": "Bukhari (related in Muslim 2664)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2664",
+          "sourceUrl": "https://sunnah.com/muslim:2664",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 341,
+          "originalReference": "Bukhari 6616",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6616",
+          "sourceUrl": "https://sunnah.com/bukhari:6616",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 343,
+          "originalReference": "Bukhari (related in Ibn Majah 2144)",
+          "sourceCollectionId": "ibn_majah",
+          "sourceCollectionName": "Sunan Ibn Majah",
+          "sourceReference": "Sunan Ibn Majah 2144",
+          "sourceUrl": "https://sunnah.com/ibnmajah:2144",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 344,
+          "originalReference": "Bukhari 6018",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6018",
+          "sourceUrl": "https://sunnah.com/bukhari:6018",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Oaths and Vows",
+      "arabicName": "كتاب الأيمان والنذور",
+      "hadiths": [
+        {
+          "id": 345,
+          "originalReference": "Bukhari 6622",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6622",
+          "sourceUrl": "https://sunnah.com/bukhari:6622",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 346,
+          "originalReference": "Bukhari 6646",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6646",
+          "sourceUrl": "https://sunnah.com/bukhari:6646",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 347,
+          "originalReference": "Bukhari 6696",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6696",
+          "sourceUrl": "https://sunnah.com/bukhari:6696",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 348,
+          "originalReference": "Bukhari 6692",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6692",
+          "sourceUrl": "https://sunnah.com/bukhari:6692",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 349,
+          "originalReference": "Bukhari 6623",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6623",
+          "sourceUrl": "https://sunnah.com/bukhari:6623",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 350,
+          "originalReference": "Bukhari 6650",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6650",
+          "sourceUrl": "https://sunnah.com/bukhari:6650",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 351,
+          "originalReference": "Bukhari 6632",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6632",
+          "sourceUrl": "https://sunnah.com/bukhari:6632",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 352,
+          "originalReference": "Bukhari 6624",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6624",
+          "sourceUrl": "https://sunnah.com/bukhari:6624",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Inheritance",
+      "arabicName": "كتاب الفرائض",
+      "hadiths": [
+        {
+          "id": 353,
+          "originalReference": "Bukhari 6732",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6732",
+          "sourceUrl": "https://sunnah.com/bukhari:6732",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 354,
+          "originalReference": "Bukhari 2742",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2742",
+          "sourceUrl": "https://sunnah.com/bukhari:2742",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 355,
+          "originalReference": "Bukhari 6764",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6764",
+          "sourceUrl": "https://sunnah.com/bukhari:6764",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 356,
+          "originalReference": "Bukhari 2298",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2298",
+          "sourceUrl": "https://sunnah.com/bukhari:2298",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 357,
+          "originalReference": "Bukhari 2738",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2738",
+          "sourceUrl": "https://sunnah.com/bukhari:2738",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 358,
+          "originalReference": "Bukhari (related in Ibn Majah 2719)",
+          "sourceCollectionId": "ibn_majah",
+          "sourceCollectionName": "Sunan Ibn Majah",
+          "sourceReference": "Sunan Ibn Majah 2719",
+          "sourceUrl": "https://sunnah.com/ibnmajah:2719",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 359,
+          "originalReference": "Bukhari 1952",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1952",
+          "sourceUrl": "https://sunnah.com/bukhari:1952",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 360,
+          "originalReference": "Bukhari (related in Muslim 118)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 118",
+          "sourceUrl": "https://sunnah.com/muslim:118",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Punishments",
+      "arabicName": "كتاب الحدود",
+      "hadiths": [
+        {
+          "id": 361,
+          "originalReference": "Bukhari 6789",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6789",
+          "sourceUrl": "https://sunnah.com/bukhari:6789",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 362,
+          "originalReference": "Bukhari 3475",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3475",
+          "sourceUrl": "https://sunnah.com/bukhari:3475",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 363,
+          "originalReference": "Bukhari 2766",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2766",
+          "sourceUrl": "https://sunnah.com/bukhari:2766",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 364,
+          "originalReference": "Bukhari 6819",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6819",
+          "sourceUrl": "https://sunnah.com/bukhari:6819",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 365,
+          "originalReference": "Bukhari (related in Tirmidhi 1424)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1424",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1424",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 366,
+          "originalReference": "Bukhari 6815",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6815",
+          "sourceUrl": "https://sunnah.com/bukhari:6815",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 367,
+          "originalReference": "Bukhari 6783",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6783",
+          "sourceUrl": "https://sunnah.com/bukhari:6783",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 368,
+          "originalReference": "Bukhari 6922",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6922",
+          "sourceUrl": "https://sunnah.com/bukhari:6922",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Blood Money",
+      "arabicName": "كتاب الديات",
+      "hadiths": [
+        {
+          "id": 369,
+          "originalReference": "Bukhari 6878",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6878",
+          "sourceUrl": "https://sunnah.com/bukhari:6878",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 370,
+          "originalReference": "Bukhari 6047",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6047",
+          "sourceUrl": "https://sunnah.com/bukhari:6047",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 371,
+          "originalReference": "Bukhari 1741",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1741",
+          "sourceUrl": "https://sunnah.com/bukhari:1741",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 372,
+          "originalReference": "Bukhari (related in Abu Dawud 4403)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4403",
+          "sourceUrl": "https://sunnah.com/abudawud:4403",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 373,
+          "originalReference": "Bukhari 2703",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2703",
+          "sourceUrl": "https://sunnah.com/bukhari:2703",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 374,
+          "originalReference": "Bukhari 5778",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5778",
+          "sourceUrl": "https://sunnah.com/bukhari:5778",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 375,
+          "originalReference": "Bukhari 6910",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6910",
+          "sourceUrl": "https://sunnah.com/bukhari:6910",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 376,
+          "originalReference": "Bukhari 6907",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6907",
+          "sourceUrl": "https://sunnah.com/bukhari:6907",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Interpretation of Dreams",
+      "arabicName": "كتاب التعبير",
+      "hadiths": [
+        {
+          "id": 377,
+          "originalReference": "Bukhari 6983",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6983",
+          "sourceUrl": "https://sunnah.com/bukhari:6983",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 378,
+          "originalReference": "Bukhari 6984",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6984",
+          "sourceUrl": "https://sunnah.com/bukhari:6984",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 379,
+          "originalReference": "Bukhari 6993",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6993",
+          "sourceUrl": "https://sunnah.com/bukhari:6993",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 380,
+          "originalReference": "Bukhari (related in Muslim 2263)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2263",
+          "sourceUrl": "https://sunnah.com/muslim:2263",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 381,
+          "originalReference": "Bukhari 6990",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6990",
+          "sourceUrl": "https://sunnah.com/bukhari:6990",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 382,
+          "originalReference": "Bukhari 6985",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6985",
+          "sourceUrl": "https://sunnah.com/bukhari:6985",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 383,
+          "originalReference": "Bukhari 6994",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6994",
+          "sourceUrl": "https://sunnah.com/bukhari:6994",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 384,
+          "originalReference": "Bukhari 3",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3",
+          "sourceUrl": "https://sunnah.com/bukhari:3",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Trials and Afflictions",
+      "arabicName": "كتاب الفتن",
+      "hadiths": [
+        {
+          "id": 385,
+          "originalReference": "Bukhari 7121",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 7121",
+          "sourceUrl": "https://sunnah.com/bukhari:7121",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 386,
+          "originalReference": "Bukhari (related in Muslim 118)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 118",
+          "sourceUrl": "https://sunnah.com/muslim:118",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 387,
+          "originalReference": "Bukhari 4635",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 4635",
+          "sourceUrl": "https://sunnah.com/bukhari:4635",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 388,
+          "originalReference": "Bukhari 7061",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 7061",
+          "sourceUrl": "https://sunnah.com/bukhari:7061",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 389,
+          "originalReference": "Bukhari 7093",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 7093",
+          "sourceUrl": "https://sunnah.com/bukhari:7093",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 390,
+          "originalReference": "Bukhari 7081",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 7081",
+          "sourceUrl": "https://sunnah.com/bukhari:7081",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 391,
+          "originalReference": "Bukhari 7084",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 7084",
+          "sourceUrl": "https://sunnah.com/bukhari:7084",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 392,
+          "originalReference": "Bukhari 2083",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2083",
+          "sourceUrl": "https://sunnah.com/bukhari:2083",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 393,
+          "originalReference": "Bukhari 1412",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1412",
+          "sourceUrl": "https://sunnah.com/bukhari:1412",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 394,
+          "originalReference": "Bukhari 7118",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 7118",
+          "sourceUrl": "https://sunnah.com/bukhari:7118",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 395,
+          "originalReference": "Bukhari 7062",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 7062",
+          "sourceUrl": "https://sunnah.com/bukhari:7062",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 396,
+          "originalReference": "Bukhari 80",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 80",
+          "sourceUrl": "https://sunnah.com/bukhari:80",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Monotheism",
+      "arabicName": "كتاب التوحيد",
+      "hadiths": [
+        {
+          "id": 397,
+          "originalReference": "Bukhari 7392",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 7392",
+          "sourceUrl": "https://sunnah.com/bukhari:7392",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 398,
+          "originalReference": "Bukhari 7405",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 7405",
+          "sourceUrl": "https://sunnah.com/bukhari:7405",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 399,
+          "originalReference": "Bukhari 6309",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6309",
+          "sourceUrl": "https://sunnah.com/bukhari:6309",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 400,
+          "originalReference": "Bukhari 6502",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6502",
+          "sourceUrl": "https://sunnah.com/bukhari:6502",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 401,
+          "originalReference": "Bukhari 7485",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 7485",
+          "sourceUrl": "https://sunnah.com/bukhari:7485",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 402,
+          "originalReference": "Bukhari 7378",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 7378",
+          "sourceUrl": "https://sunnah.com/bukhari:7378",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 403,
+          "originalReference": "Bukhari 6000",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6000",
+          "sourceUrl": "https://sunnah.com/bukhari:6000",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 404,
+          "originalReference": "Bukhari 7536",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 7536",
+          "sourceUrl": "https://sunnah.com/bukhari:7536",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 405,
+          "originalReference": "Bukhari 7404",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 7404",
+          "sourceUrl": "https://sunnah.com/bukhari:7404",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 406,
+          "originalReference": "Bukhari 7507",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 7507",
+          "sourceUrl": "https://sunnah.com/bukhari:7507",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 407,
+          "originalReference": "Bukhari 1145",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1145",
+          "sourceUrl": "https://sunnah.com/bukhari:1145",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 408,
+          "originalReference": "Bukhari 6507",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6507",
+          "sourceUrl": "https://sunnah.com/bukhari:6507",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 409,
+          "originalReference": "Bukhari (related in Muslim 2566)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2566",
+          "sourceUrl": "https://sunnah.com/muslim:2566",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 410,
+          "originalReference": "Bukhari 3209",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3209",
+          "sourceUrl": "https://sunnah.com/bukhari:3209",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 411,
+          "originalReference": "Bukhari 7483",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 7483",
+          "sourceUrl": "https://sunnah.com/bukhari:7483",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    }
+  ]
+}

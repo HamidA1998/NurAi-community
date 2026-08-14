@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>BGTaskSchedulerPermittedIdentifiers</key>
+    <array>
+      <string>uk.co.eliteautomations.nurai.widget-refresh</string>
+    </array>
+    <key>CADisableMinimumFrameDurationOnPhone</key>
+    <true/>
+    <key>CFBundleAllowMixedLocalizations</key>
+    <true/>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>$(DEVELOPMENT_LANGUAGE)</string>
+    <key>CFBundleDisplayName</key>
+    <string>NurAI</string>
+    <key>CFBundleExecutable</key>
+    <string>$(EXECUTABLE_NAME)</string>
+    <key>CFBundleIdentifier</key>
+    <string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>$(PRODUCT_NAME)</string>
+    <key>CFBundlePackageType</key>
+    <string>$(PRODUCT_BUNDLE_PACKAGE_TYPE)</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.1.8</string>
+    <key>CFBundleSignature</key>
+    <string>????</string>
+    <key>CFBundleURLTypes</key>
+    <array>
+      <dict>
+        <key>CFBundleURLSchemes</key>
+        <array>
+          <string>nurai</string>
+          <string>uk.co.eliteautomations.nurai</string>
+        </array>
+      </dict>
+      <dict>
+        <key>CFBundleURLSchemes</key>
+        <array>
+          <string>exp+nurai</string>
+        </array>
+      </dict>
+    </array>
+    <key>CFBundleVersion</key>
+    <string>145</string>
+    <key>ITSAppUsesNonExemptEncryption</key>
+    <false/>
+    <key>LSMinimumSystemVersion</key>
+    <string>12.0</string>
+    <key>LSRequiresIPhoneOS</key>
+    <true/>
+    <key>NSAlarmKitUsageDescription</key>
+    <string>Allow NurAI to play your selected Athan at prayer time, even when Silent Mode or Focus is on.</string>
+    <key>NSAppTransportSecurity</key>
+    <dict>
+      <key>NSAllowsArbitraryLoads</key>
+      <false/>
+      <key>NSAllowsLocalNetworking</key>
+      <true/>
+    </dict>
+    <key>NSCameraUsageDescription</key>
+    <string>NurAI uses your camera to scan QR codes, share content, and scan meal photos for estimated ingredients and calories.</string>
+    <key>NSFaceIDUsageDescription</key>
+    <string>NurAI uses Face ID to protect your privacy and secure app access.</string>
+    <key>NSHealthShareUsageDescription</key>
+    <string>NurAI reads selected Apple Health data, such as steps, sleep, heart rate, workouts, active energy, and mindful minutes, only with your permission to build gentle Muslim self-care reminders.</string>
+    <key>NSHealthUpdateUsageDescription</key>
+    <string>NurAI writes selected wellbeing actions only when you explicitly allow it, such as mindful minutes or workout-related self-care records.</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>Allow $(PRODUCT_NAME) to access your location</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>NurAI uses your location to show nearby mosques and accurate prayer times.</string>
+    <key>NSMotionUsageDescription</key>
+    <string>Allow $(PRODUCT_NAME) to access your device motion</string>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>NurAI may save shareable Islamic content or health reflection cards when you choose to export them.</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>NurAI lets you choose a private profile photo, shareable Islamic content, or a meal photo when you ask.</string>
+    <key>NSSupportsLiveActivities</key>
+    <true/>
+    <key>RCTNewArchEnabled</key>
+    <true/>
+    <key>UIBackgroundModes</key>
+    <array>
+      <string>remote-notification</string>
+      <string>audio</string>
+      <string>fetch</string>
+    </array>
+    <key>UILaunchStoryboardName</key>
+    <string>SplashScreen</string>
+    <key>UIRequiredDeviceCapabilities</key>
+    <array>
+      <string>arm64</string>
+    </array>
+    <key>UIRequiresFullScreen</key>
+    <false/>
+    <key>UIStatusBarStyle</key>
+    <string>UIStatusBarStyleDefault</string>
+    <key>UISupportedInterfaceOrientations</key>
+    <array>
+      <string>UIInterfaceOrientationPortrait</string>
+      <string>UIInterfaceOrientationPortraitUpsideDown</string>
+    </array>
+    <key>UISupportedInterfaceOrientations~ipad</key>
+    <array>
+      <string>UIInterfaceOrientationPortrait</string>
+      <string>UIInterfaceOrientationPortraitUpsideDown</string>
+      <string>UIInterfaceOrientationLandscapeLeft</string>
+      <string>UIInterfaceOrientationLandscapeRight</string>
+    </array>
+    <key>UIUserInterfaceStyle</key>
+    <string>Dark</string>
+    <key>UIViewControllerBasedStatusBarAppearance</key>
+    <false/>
+  </dict>
+</plist>

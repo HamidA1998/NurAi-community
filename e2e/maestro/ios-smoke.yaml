@@ -1,0 +1,146 @@
+appId: uk.co.eliteautomations.nurai
+name: NurAI iPhone release smoke
+---
+- launchApp:
+    clearState: true
+
+# All five customer tabs mount and expose their primary surface.
+- extendedWaitUntil:
+    visible:
+      id: tab-home
+    timeout: 30000
+- assertVisible:
+    id: tab-explore
+- assertVisible:
+    id: tab-quran
+- assertVisible:
+    id: tab-community
+- assertVisible:
+    id: tab-more
+- tapOn:
+    id: tab-explore
+- extendedWaitUntil:
+    visible:
+      id: explore-search
+    timeout: 15000
+- tapOn:
+    id: tab-quran
+- extendedWaitUntil:
+    visible:
+      id: quran-home-mode-control-read
+    timeout: 15000
+- tapOn:
+    id: tab-community
+- tapOn:
+    id: tab-more
+- assertVisible: More
+- tapOn:
+    id: button-more-prayer-alerts
+- swipe:
+    start: 50%, 82%
+    end: 50%, 22%
+    duration: 550
+- swipe:
+    start: 50%, 82%
+    end: 50%, 22%
+    duration: 550
+- assertVisible:
+    id: button-refresh-athan-delivery
+- tapOn: Go back
+
+# Prayer completion persists through the normal Home route.
+- tapOn:
+    id: tab-home
+- scrollUntilVisible:
+    element:
+      id: home-nur-ai-context-card
+    direction: DOWN
+    timeout: 20000
+- tapOn:
+    id: home-nur-ai-context-card
+- extendedWaitUntil:
+    visible:
+      id: input-personal-guide-message
+    timeout: 20000
+- tapOn: Go back
+- scrollUntilVisible:
+    element:
+      id: tile-prayer
+    direction: DOWN
+    timeout: 20000
+- tapOn:
+    id: tile-prayer
+- extendedWaitUntil:
+    visible:
+      id: prayer-toggle-fajr
+    timeout: 20000
+- tapOn:
+    id: prayer-toggle-fajr
+- assertVisible: 1/5 protected
+- tapOn:
+    id: button-prayer-back
+
+# Open the flagship reader's Ayah Study sheet and close it with the visible control.
+- tapOn:
+    id: tab-quran
+- tapOn:
+    id: button-continue-quran
+- extendedWaitUntil:
+    visible:
+      id: quran-study-verse-1
+    timeout: 30000
+- tapOn:
+    id: quran-study-verse-1
+- extendedWaitUntil:
+    visible:
+      id: button-close-ayah-study
+    timeout: 15000
+- tapOn:
+    id: button-close-ayah-study
+- assertNotVisible:
+    id: button-close-ayah-study
+- tapOn:
+    id: button-back
+
+# Community audience selection remains reachable and operable.
+- tapOn:
+    id: tab-community
+- extendedWaitUntil:
+    visible:
+      id: button-gender-male
+    timeout: 15000
+- tapOn:
+    id: button-gender-male
+
+# More routes to Health, Health opens Personal Guide, and a failed message retries.
+- tapOn:
+    id: tab-more
+- scrollUntilVisible:
+    element:
+      id: button-more-health
+    direction: DOWN
+    timeout: 15000
+- tapOn:
+    id: button-more-health
+- extendedWaitUntil:
+    visible:
+      id: muslim-health-smart-briefing
+    timeout: 30000
+- tapOn:
+    id: muslim-health-smart-briefing
+- extendedWaitUntil:
+    visible:
+      id: input-personal-guide-message
+    timeout: 20000
+- tapOn:
+    id: input-personal-guide-message
+- eraseText: 500
+- inputText: "[smoke:retry-once]"
+- tapOn: Send message
+- extendedWaitUntil:
+    visible: Not sent
+    timeout: 15000
+- tapOn: Retry message
+- extendedWaitUntil:
+    notVisible: Not sent
+    timeout: 20000

@@ -1,0 +1,51 @@
+services:
+  - type: web
+    name: nurai-muslim
+    runtime: node
+    plan: free
+    buildCommand: npm ci && npm run expo:static:build && npm run server:build
+    startCommand: npm run server:prod
+    healthCheckPath: /
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: "5000"
+      - key: NURAI_DEPLOYMENT_URL
+        sync: false
+      - key: DATABASE_URL
+        sync: false
+      - key: SESSION_SECRET
+        sync: false
+      - key: AI_INTEGRATIONS_OPENAI_API_KEY
+        sync: false
+      - key: NURAI_DEPLOYED_AI_SMOKE_SECRET
+        sync: false
+      - key: NURAI_LOCAL_AI_BASE_URL
+        sync: false
+      - key: NURAI_LOCAL_AI_API_KEY
+        sync: false
+      - key: NURAI_LOCAL_TEXT_MODEL
+        sync: false
+      - key: NURAI_LOCAL_AI_MODELS
+        sync: false
+      - key: NURAI_ALLOW_LOCAL_RELIGIOUS_AI
+        value: "false"
+      - key: NURAI_ALLOW_LOCAL_SENSITIVE_AI
+        value: "false"
+      - key: REVENUECAT_SECRET_API_KEY
+        sync: false
+      - key: EXPO_PUBLIC_REVENUECAT_KEY
+        sync: false
+      - key: EXPO_PUBLIC_REVENUECAT_ANDROID_KEY
+        sync: false
+      - key: REVENUECAT_WEBHOOK_AUTHORIZATION
+        sync: false
+      - key: GOOGLE_PLACES_API_KEY
+        sync: false
+      - key: GOOGLE_CLOUD_PROJECT_ID
+        sync: false
+      - key: NURAI_ALLOW_CLIENT_TIER_FOR_PAID_API
+        value: "false"

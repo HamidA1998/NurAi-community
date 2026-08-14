@@ -1,0 +1,1 @@
+export { registerScholarAgentRoutes } from "./routes";

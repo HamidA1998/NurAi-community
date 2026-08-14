@@ -1,0 +1,1382 @@
+{
+  "id": "abu_dawud",
+  "name": "Sunan Abu Dawud",
+  "arabicName": "سنن أبي داود",
+  "compiler": "Imam Abu Dawud Sulaiman",
+  "totalHadiths": 5274,
+  "description": "One of the six major hadith collections, compiled by Imam Abu Dawud. It focuses on hadith of legal significance and is arranged by topic.",
+  "sourcePolicy": "source_index_only_no_local_hadith_text",
+  "originalLocalRows": 144,
+  "verifiedSourceRows": 140,
+  "omittedUnverifiedRows": 4,
+  "chapters": [
+    {
+      "name": "Book of Purification",
+      "arabicName": "كتاب الطهارة",
+      "hadiths": [
+        {
+          "id": 729,
+          "originalReference": "Abu Dawud 46",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 46",
+          "sourceUrl": "https://sunnah.com/abudawud:46",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 730,
+          "originalReference": "Abu Dawud 47 (related in Nasa'i 5)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 47",
+          "sourceUrl": "https://sunnah.com/abudawud:47",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 731,
+          "originalReference": "Abu Dawud 103",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 103",
+          "sourceUrl": "https://sunnah.com/abudawud:103",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 732,
+          "originalReference": "Abu Dawud 71",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 71",
+          "sourceUrl": "https://sunnah.com/abudawud:71",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 733,
+          "originalReference": "Abu Dawud 95",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 95",
+          "sourceUrl": "https://sunnah.com/abudawud:95",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 734,
+          "originalReference": "Abu Dawud 142",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 142",
+          "sourceUrl": "https://sunnah.com/abudawud:142",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 735,
+          "originalReference": "Abu Dawud 101",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 101",
+          "sourceUrl": "https://sunnah.com/abudawud:101",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 736,
+          "originalReference": "Abu Dawud 4140",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4140",
+          "sourceUrl": "https://sunnah.com/abudawud:4140",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 737,
+          "originalReference": "Abu Dawud 140",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 140",
+          "sourceUrl": "https://sunnah.com/abudawud:140",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 738,
+          "originalReference": "Abu Dawud 111",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 111",
+          "sourceUrl": "https://sunnah.com/abudawud:111",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Prayer",
+      "arabicName": "كتاب الصلاة",
+      "hadiths": [
+        {
+          "id": 739,
+          "originalReference": "Abu Dawud 857",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 857",
+          "sourceUrl": "https://sunnah.com/abudawud:857",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 740,
+          "originalReference": "Abu Dawud 689",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 689",
+          "sourceUrl": "https://sunnah.com/abudawud:689",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 741,
+          "originalReference": "Abu Dawud 59",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 59",
+          "sourceUrl": "https://sunnah.com/abudawud:59",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 742,
+          "originalReference": "Abu Dawud 467",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 467",
+          "sourceUrl": "https://sunnah.com/abudawud:467",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 743,
+          "originalReference": "Abu Dawud 572",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 572",
+          "sourceUrl": "https://sunnah.com/abudawud:572",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 744,
+          "originalReference": "Abu Dawud 521",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 521",
+          "sourceUrl": "https://sunnah.com/abudawud:521",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 745,
+          "originalReference": "Abu Dawud 822",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 822",
+          "sourceUrl": "https://sunnah.com/abudawud:822",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 746,
+          "originalReference": "Abu Dawud 856",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 856",
+          "sourceUrl": "https://sunnah.com/abudawud:856",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 747,
+          "originalReference": "Abu Dawud 840",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 840",
+          "sourceUrl": "https://sunnah.com/abudawud:840",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 748,
+          "originalReference": "Abu Dawud 950",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 950",
+          "sourceUrl": "https://sunnah.com/abudawud:950",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Zakat",
+      "arabicName": "كتاب الزكاة",
+      "hadiths": [
+        {
+          "id": 749,
+          "originalReference": "Abu Dawud 1594",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 1594",
+          "sourceUrl": "https://sunnah.com/abudawud:1594",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 750,
+          "originalReference": "Abu Dawud 1609",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 1609",
+          "sourceUrl": "https://sunnah.com/abudawud:1609",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 751,
+          "originalReference": "Abu Dawud 1626",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 1626",
+          "sourceUrl": "https://sunnah.com/abudawud:1626",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 752,
+          "originalReference": "Abu Dawud 5243",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 5243",
+          "sourceUrl": "https://sunnah.com/abudawud:5243",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 753,
+          "originalReference": "Abu Dawud 1641",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 1641",
+          "sourceUrl": "https://sunnah.com/abudawud:1641",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 754,
+          "originalReference": "Abu Dawud 1677",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 1677",
+          "sourceUrl": "https://sunnah.com/abudawud:1677",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 755,
+          "originalReference": "Abu Dawud 1634",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 1634",
+          "sourceUrl": "https://sunnah.com/abudawud:1634",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 756,
+          "originalReference": "Abu Dawud 2490 (related)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2490",
+          "sourceUrl": "https://sunnah.com/abudawud:2490",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Fasting",
+      "arabicName": "كتاب الصوم",
+      "hadiths": [
+        {
+          "id": 757,
+          "originalReference": "Abu Dawud 2320",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2320",
+          "sourceUrl": "https://sunnah.com/abudawud:2320",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 758,
+          "originalReference": "Abu Dawud 2353",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2353",
+          "sourceUrl": "https://sunnah.com/abudawud:2353",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 759,
+          "originalReference": "Abu Dawud 2344",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2344",
+          "sourceUrl": "https://sunnah.com/abudawud:2344",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 760,
+          "originalReference": "Abu Dawud 2400",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2400",
+          "sourceUrl": "https://sunnah.com/abudawud:2400",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 761,
+          "originalReference": "Abu Dawud 2362",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2362",
+          "sourceUrl": "https://sunnah.com/abudawud:2362",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 762,
+          "originalReference": "Abu Dawud 2458",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2458",
+          "sourceUrl": "https://sunnah.com/abudawud:2458",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 763,
+          "originalReference": "Abu Dawud 2421",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2421",
+          "sourceUrl": "https://sunnah.com/abudawud:2421",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 764,
+          "originalReference": "Abu Dawud 2433",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2433",
+          "sourceUrl": "https://sunnah.com/abudawud:2433",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Hajj",
+      "arabicName": "كتاب الحج",
+      "hadiths": [
+        {
+          "id": 765,
+          "originalReference": "Abu Dawud 1988",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 1988",
+          "sourceUrl": "https://sunnah.com/abudawud:1988",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 766,
+          "originalReference": "Abu Dawud 1936",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 1936",
+          "sourceUrl": "https://sunnah.com/abudawud:1936",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 767,
+          "originalReference": "Abu Dawud (related in Muslim 1348)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1348",
+          "sourceUrl": "https://sunnah.com/muslim:1348",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 768,
+          "originalReference": "Abu Dawud (related in Ibn Majah 2892)",
+          "sourceCollectionId": "ibn_majah",
+          "sourceCollectionName": "Sunan Ibn Majah",
+          "sourceReference": "Sunan Ibn Majah 2892",
+          "sourceUrl": "https://sunnah.com/ibnmajah:2892",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 769,
+          "originalReference": "Abu Dawud (related in Nasa'i 2631)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 2631",
+          "sourceUrl": "https://sunnah.com/nasai:2631",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 770,
+          "originalReference": "Abu Dawud 1731 (related)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 1731",
+          "sourceUrl": "https://sunnah.com/abudawud:1731",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 771,
+          "originalReference": "Abu Dawud 1770",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 1770",
+          "sourceUrl": "https://sunnah.com/abudawud:1770",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Marriage",
+      "arabicName": "كتاب النكاح",
+      "hadiths": [
+        {
+          "id": 773,
+          "originalReference": "Abu Dawud (related in Tirmidhi 1084)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1084",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1084",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 774,
+          "originalReference": "Abu Dawud 2092",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2092",
+          "sourceUrl": "https://sunnah.com/abudawud:2092",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 775,
+          "originalReference": "Abu Dawud (related in Muslim 1467)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1467",
+          "sourceUrl": "https://sunnah.com/muslim:1467",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 776,
+          "originalReference": "Abu Dawud 1723",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 1723",
+          "sourceUrl": "https://sunnah.com/abudawud:1723",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 777,
+          "originalReference": "Abu Dawud (related in Ibn Majah 1968)",
+          "sourceCollectionId": "ibn_majah",
+          "sourceCollectionName": "Sunan Ibn Majah",
+          "sourceReference": "Sunan Ibn Majah 1968",
+          "sourceUrl": "https://sunnah.com/ibnmajah:1968",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 778,
+          "originalReference": "Abu Dawud 2140",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2140",
+          "sourceUrl": "https://sunnah.com/abudawud:2140",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 779,
+          "originalReference": "Abu Dawud (related in Muslim 1218)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1218",
+          "sourceUrl": "https://sunnah.com/muslim:1218",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 780,
+          "originalReference": "Abu Dawud (related in Tirmidhi 1162)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1162",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1162",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Jihad",
+      "arabicName": "كتاب الجهاد",
+      "hadiths": [
+        {
+          "id": 781,
+          "originalReference": "Abu Dawud 4344",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4344",
+          "sourceUrl": "https://sunnah.com/abudawud:4344",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 782,
+          "originalReference": "Abu Dawud (related in Bukhari 26)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 26",
+          "sourceUrl": "https://sunnah.com/bukhari:26",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 783,
+          "originalReference": "Abu Dawud (related in Muslim 1910)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1910",
+          "sourceUrl": "https://sunnah.com/muslim:1910",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 784,
+          "originalReference": "Abu Dawud 2504",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2504",
+          "sourceUrl": "https://sunnah.com/abudawud:2504",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 785,
+          "originalReference": "Abu Dawud 2500 (related)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2500",
+          "sourceUrl": "https://sunnah.com/abudawud:2500",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 786,
+          "originalReference": "Abu Dawud 2631",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2631",
+          "sourceUrl": "https://sunnah.com/abudawud:2631",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 787,
+          "originalReference": "Abu Dawud (related in Muslim 1904)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1904",
+          "sourceUrl": "https://sunnah.com/muslim:1904",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 788,
+          "originalReference": "Abu Dawud 2500",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2500",
+          "sourceUrl": "https://sunnah.com/abudawud:2500",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Sacrifices",
+      "arabicName": "كتاب الأضاحي",
+      "hadiths": [
+        {
+          "id": 789,
+          "originalReference": "Abu Dawud 2794",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2794",
+          "sourceUrl": "https://sunnah.com/abudawud:2794",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 790,
+          "originalReference": "Abu Dawud 2797",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2797",
+          "sourceUrl": "https://sunnah.com/abudawud:2797",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 791,
+          "originalReference": "Abu Dawud 2791",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2791",
+          "sourceUrl": "https://sunnah.com/abudawud:2791",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 792,
+          "originalReference": "Abu Dawud 2815",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2815",
+          "sourceUrl": "https://sunnah.com/abudawud:2815",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 793,
+          "originalReference": "Abu Dawud 1769",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 1769",
+          "sourceUrl": "https://sunnah.com/abudawud:1769",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 794,
+          "originalReference": "Abu Dawud 2816",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2816",
+          "sourceUrl": "https://sunnah.com/abudawud:2816",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 795,
+          "originalReference": "Abu Dawud 2800",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2800",
+          "sourceUrl": "https://sunnah.com/abudawud:2800",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 796,
+          "originalReference": "Abu Dawud (related in Ibn Majah 3123)",
+          "sourceCollectionId": "ibn_majah",
+          "sourceCollectionName": "Sunan Ibn Majah",
+          "sourceReference": "Sunan Ibn Majah 3123",
+          "sourceUrl": "https://sunnah.com/ibnmajah:3123",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Hunting",
+      "arabicName": "كتاب الصيد",
+      "hadiths": [
+        {
+          "id": 797,
+          "originalReference": "Abu Dawud 2847",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2847",
+          "sourceUrl": "https://sunnah.com/abudawud:2847",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 798,
+          "originalReference": "Abu Dawud 2845",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2845",
+          "sourceUrl": "https://sunnah.com/abudawud:2845",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 799,
+          "originalReference": "Abu Dawud 2821",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2821",
+          "sourceUrl": "https://sunnah.com/abudawud:2821",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 800,
+          "originalReference": "Abu Dawud 3807",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3807",
+          "sourceUrl": "https://sunnah.com/abudawud:3807",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 801,
+          "originalReference": "Abu Dawud 2852",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2852",
+          "sourceUrl": "https://sunnah.com/abudawud:2852",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 802,
+          "originalReference": "Abu Dawud 3803",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3803",
+          "sourceUrl": "https://sunnah.com/abudawud:3803",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Manners",
+      "arabicName": "كتاب الأدب",
+      "hadiths": [
+        {
+          "id": 803,
+          "originalReference": "Abu Dawud (related in Muslim 2137)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2137",
+          "sourceUrl": "https://sunnah.com/muslim:2137",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 804,
+          "originalReference": "Abu Dawud 4974",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4974",
+          "sourceUrl": "https://sunnah.com/abudawud:4974",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 805,
+          "originalReference": "Abu Dawud 4912",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4912",
+          "sourceUrl": "https://sunnah.com/abudawud:4912",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 806,
+          "originalReference": "Abu Dawud (related in Tirmidhi 1956)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1956",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1956",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 807,
+          "originalReference": "Abu Dawud (related in Muslim 2594)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2594",
+          "sourceUrl": "https://sunnah.com/muslim:2594",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 808,
+          "originalReference": "Abu Dawud (related in Bukhari 6133)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6133",
+          "sourceUrl": "https://sunnah.com/bukhari:6133",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 809,
+          "originalReference": "Abu Dawud (related in Muslim 2319)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2319",
+          "sourceUrl": "https://sunnah.com/muslim:2319",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 810,
+          "originalReference": "Abu Dawud 4796",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4796",
+          "sourceUrl": "https://sunnah.com/abudawud:4796",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 811,
+          "originalReference": "Abu Dawud (related in Bukhari 6018)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6018",
+          "sourceUrl": "https://sunnah.com/bukhari:6018",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 812,
+          "originalReference": "Abu Dawud 4799",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4799",
+          "sourceUrl": "https://sunnah.com/abudawud:4799",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Medicine",
+      "arabicName": "كتاب الطب",
+      "hadiths": [
+        {
+          "id": 813,
+          "originalReference": "Abu Dawud 3855",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3855",
+          "sourceUrl": "https://sunnah.com/abudawud:3855",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 814,
+          "originalReference": "Abu Dawud 3855",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3855",
+          "sourceUrl": "https://sunnah.com/abudawud:3855",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 815,
+          "originalReference": "Abu Dawud 4586",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4586",
+          "sourceUrl": "https://sunnah.com/abudawud:4586",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 816,
+          "originalReference": "Abu Dawud 3857 (related in Bukhari 5680)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3857",
+          "sourceUrl": "https://sunnah.com/abudawud:3857",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 817,
+          "originalReference": "Abu Dawud (related in Bukhari 5683)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5683",
+          "sourceUrl": "https://sunnah.com/bukhari:5683",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 818,
+          "originalReference": "Abu Dawud 3879",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3879",
+          "sourceUrl": "https://sunnah.com/abudawud:3879",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 819,
+          "originalReference": "Abu Dawud 3902",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3902",
+          "sourceUrl": "https://sunnah.com/abudawud:3902",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 820,
+          "originalReference": "Abu Dawud 3891",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3891",
+          "sourceUrl": "https://sunnah.com/abudawud:3891",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Knowledge",
+      "arabicName": "كتاب العلم",
+      "hadiths": [
+        {
+          "id": 821,
+          "originalReference": "Abu Dawud 3658",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3658",
+          "sourceUrl": "https://sunnah.com/abudawud:3658",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 822,
+          "originalReference": "Abu Dawud (related in Bukhari 71)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 71",
+          "sourceUrl": "https://sunnah.com/bukhari:71",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 823,
+          "originalReference": "Abu Dawud 3641",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3641",
+          "sourceUrl": "https://sunnah.com/abudawud:3641",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 824,
+          "originalReference": "Abu Dawud 2880",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2880",
+          "sourceUrl": "https://sunnah.com/abudawud:2880",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 825,
+          "originalReference": "Abu Dawud 3641",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3641",
+          "sourceUrl": "https://sunnah.com/abudawud:3641",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 826,
+          "originalReference": "Abu Dawud 4609",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4609",
+          "sourceUrl": "https://sunnah.com/abudawud:4609",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 827,
+          "originalReference": "Abu Dawud 3660",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3660",
+          "sourceUrl": "https://sunnah.com/abudawud:3660",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 828,
+          "originalReference": "Abu Dawud (related in Ibn Majah 224)",
+          "sourceCollectionId": "ibn_majah",
+          "sourceCollectionName": "Sunan Ibn Majah",
+          "sourceReference": "Sunan Ibn Majah 224",
+          "sourceUrl": "https://sunnah.com/ibnmajah:224",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Drinks",
+      "arabicName": "كتاب الأشربة",
+      "hadiths": [
+        {
+          "id": 829,
+          "originalReference": "Abu Dawud 3679",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3679",
+          "sourceUrl": "https://sunnah.com/abudawud:3679",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 830,
+          "originalReference": "Abu Dawud 3681",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3681",
+          "sourceUrl": "https://sunnah.com/abudawud:3681",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 831,
+          "originalReference": "Abu Dawud 3727",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3727",
+          "sourceUrl": "https://sunnah.com/abudawud:3727",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 832,
+          "originalReference": "Abu Dawud (related in Tirmidhi 1885)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1885",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1885",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 833,
+          "originalReference": "Abu Dawud 3721",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3721",
+          "sourceUrl": "https://sunnah.com/abudawud:3721",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 834,
+          "originalReference": "Abu Dawud (related in Muslim 2024)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2024",
+          "sourceUrl": "https://sunnah.com/muslim:2024",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 835,
+          "originalReference": "Abu Dawud 3726",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3726",
+          "sourceUrl": "https://sunnah.com/abudawud:3726",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 836,
+          "originalReference": "Abu Dawud 3721",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3721",
+          "sourceUrl": "https://sunnah.com/abudawud:3721",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Foods",
+      "arabicName": "كتاب الأطعمة",
+      "hadiths": [
+        {
+          "id": 837,
+          "originalReference": "Abu Dawud 3767",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3767",
+          "sourceUrl": "https://sunnah.com/abudawud:3767",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 838,
+          "originalReference": "Abu Dawud 3767",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3767",
+          "sourceUrl": "https://sunnah.com/abudawud:3767",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 839,
+          "originalReference": "Abu Dawud (related in Bukhari 5409)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5409",
+          "sourceUrl": "https://sunnah.com/bukhari:5409",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 840,
+          "originalReference": "Abu Dawud 3731",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3731",
+          "sourceUrl": "https://sunnah.com/abudawud:3731",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 841,
+          "originalReference": "Abu Dawud 3776",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3776",
+          "sourceUrl": "https://sunnah.com/abudawud:3776",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 842,
+          "originalReference": "Abu Dawud (related in Bukhari 5379)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5379",
+          "sourceUrl": "https://sunnah.com/bukhari:5379",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 843,
+          "originalReference": "Abu Dawud (related in Muslim 2059)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2059",
+          "sourceUrl": "https://sunnah.com/muslim:2059",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 844,
+          "originalReference": "Abu Dawud 3764",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3764",
+          "sourceUrl": "https://sunnah.com/abudawud:3764",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Clothing",
+      "arabicName": "كتاب اللباس",
+      "hadiths": [
+        {
+          "id": 845,
+          "originalReference": "Abu Dawud 4093",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4093",
+          "sourceUrl": "https://sunnah.com/abudawud:4093",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 846,
+          "originalReference": "Abu Dawud 4085",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4085",
+          "sourceUrl": "https://sunnah.com/abudawud:4085",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 847,
+          "originalReference": "Abu Dawud 4139",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4139",
+          "sourceUrl": "https://sunnah.com/abudawud:4139",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 848,
+          "originalReference": "Abu Dawud 4057",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4057",
+          "sourceUrl": "https://sunnah.com/abudawud:4057",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 849,
+          "originalReference": "Abu Dawud 4061",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4061",
+          "sourceUrl": "https://sunnah.com/abudawud:4061",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 850,
+          "originalReference": "Abu Dawud 4029",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4029",
+          "sourceUrl": "https://sunnah.com/abudawud:4029",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 852,
+          "originalReference": "Abu Dawud (related in Tirmidhi 2481)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2481",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2481",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Combing the Hair",
+      "arabicName": "كتاب الترجل",
+      "hadiths": [
+        {
+          "id": 853,
+          "originalReference": "Abu Dawud 4163",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4163",
+          "sourceUrl": "https://sunnah.com/abudawud:4163",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 854,
+          "originalReference": "Abu Dawud 4140",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4140",
+          "sourceUrl": "https://sunnah.com/abudawud:4140",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 855,
+          "originalReference": "Abu Dawud 4159",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4159",
+          "sourceUrl": "https://sunnah.com/abudawud:4159",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 856,
+          "originalReference": "Abu Dawud 4195",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4195",
+          "sourceUrl": "https://sunnah.com/abudawud:4195",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 857,
+          "originalReference": "Abu Dawud 4203",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4203",
+          "sourceUrl": "https://sunnah.com/abudawud:4203",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 858,
+          "originalReference": "Abu Dawud 4163",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4163",
+          "sourceUrl": "https://sunnah.com/abudawud:4163",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Battles",
+      "arabicName": "كتاب المغازي",
+      "hadiths": [
+        {
+          "id": 859,
+          "originalReference": "Abu Dawud (related in Bukhari 6503)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6503",
+          "sourceUrl": "https://sunnah.com/bukhari:6503",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 860,
+          "originalReference": "Abu Dawud (related in Bukhari 4091)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 4091",
+          "sourceUrl": "https://sunnah.com/bukhari:4091",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 862,
+          "originalReference": "Abu Dawud (related in Bukhari 3957)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3957",
+          "sourceUrl": "https://sunnah.com/bukhari:3957",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 863,
+          "originalReference": "Abu Dawud (related in Bukhari 335)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 335",
+          "sourceUrl": "https://sunnah.com/bukhari:335",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 864,
+          "originalReference": "Abu Dawud (related in Muslim 1357)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1357",
+          "sourceUrl": "https://sunnah.com/muslim:1357",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Sunnah",
+      "arabicName": "كتاب السنة",
+      "hadiths": [
+        {
+          "id": 865,
+          "originalReference": "Abu Dawud 4607",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4607",
+          "sourceUrl": "https://sunnah.com/abudawud:4607",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 866,
+          "originalReference": "Abu Dawud (related in Bukhari 7280)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 7280",
+          "sourceUrl": "https://sunnah.com/bukhari:7280",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 867,
+          "originalReference": "Abu Dawud (related in Muslim 1337)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1337",
+          "sourceUrl": "https://sunnah.com/muslim:1337",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 868,
+          "originalReference": "Abu Dawud (related in Bukhari 2697)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2697",
+          "sourceUrl": "https://sunnah.com/bukhari:2697",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 869,
+          "originalReference": "Abu Dawud 4607",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4607",
+          "sourceUrl": "https://sunnah.com/abudawud:4607",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 870,
+          "originalReference": "Abu Dawud 4609",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4609",
+          "sourceUrl": "https://sunnah.com/abudawud:4609",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 871,
+          "originalReference": "Abu Dawud (related in Muslim 867)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 867",
+          "sourceUrl": "https://sunnah.com/muslim:867",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    }
+  ]
+}

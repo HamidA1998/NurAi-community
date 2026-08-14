@@ -1,0 +1,1 @@
+export { registerTafsirRoutes } from "./routes";

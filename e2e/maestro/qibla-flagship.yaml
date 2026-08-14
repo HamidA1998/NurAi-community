@@ -1,0 +1,41 @@
+appId: uk.co.eliteautomations.nurai
+name: Qibla flagship compass
+tags:
+  - ios
+  - qibla
+---
+- openLink: nurai://qibla
+- extendedWaitUntil:
+    visible:
+      id: qibla-compass-instrument
+    timeout: 15000
+- assertVisible:
+    id: text-facing-qibla
+- assertVisible:
+    id: qibla-origin-marker
+- assertVisible:
+    id: qibla-alignment-target
+- assertVisible:
+    id: qibla-destination-marker
+- assertVisible:
+    id: qibla-reading-summary
+- assertVisible:
+    id: button-change-location
+- takeScreenshot: qibla-compass
+- tapOn:
+    id: button-qibla-accuracy-help
+- assertVisible: Accuracy and privacy
+- takeScreenshot: qibla-accuracy-privacy
+- tapOn:
+    id: button-change-location
+- assertVisible:
+    id: modal-location-picker
+- assertVisible:
+    id: button-use-gps
+- assertVisible:
+    id: input-location-search
+- assertVisible:
+    id: button-close-location
+- takeScreenshot: qibla-location-picker
+- tapOn:
+    id: button-close-location

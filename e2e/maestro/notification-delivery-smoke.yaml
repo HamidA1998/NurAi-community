@@ -1,0 +1,47 @@
+appId: uk.co.eliteautomations.nurai
+name: NurAI notification delivery smoke
+---
+- launchApp:
+    clearState: true
+- extendedWaitUntil:
+    visible:
+      id: tab-more
+    timeout: 30000
+- tapOn:
+    id: tab-more
+- scrollUntilVisible:
+    element:
+      id: button-more-prayer-alerts
+    direction: DOWN
+    timeout: 15000
+- tapOn:
+    id: button-more-prayer-alerts
+- swipe:
+    start: 50%, 82%
+    end: 50%, 22%
+    duration: 550
+- swipe:
+    start: 50%, 82%
+    end: 50%, 22%
+    duration: 550
+- assertVisible:
+    id: button-refresh-athan-delivery
+- tapOn:
+    id: button-test-athan-alarm
+- runFlow:
+    when:
+      visible: Allow
+    commands:
+      - tapOn: Allow
+- waitForAnimationToEnd:
+    timeout: 3000
+- scrollUntilVisible:
+    element:
+      id: notification-delivery-feedback
+    direction: DOWN
+    timeout: 15000
+- extendedWaitUntil:
+    visible:
+      id: notification-delivery-feedback
+    timeout: 15000
+- assertVisible: "Test scheduled for one minute from now using.*"

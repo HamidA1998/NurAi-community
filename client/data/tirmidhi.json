@@ -1,0 +1,1619 @@
+{
+  "id": "tirmidhi",
+  "name": "Jami At-Tirmidhi",
+  "arabicName": "جامع الترمذي",
+  "compiler": "Imam Abu Isa at-Tirmidhi",
+  "totalHadiths": 3956,
+  "description": "A collection of hadith compiled by Imam at-Tirmidhi. It is unique in that it contains grading of hadiths and commentary on their chains of narration.",
+  "sourcePolicy": "source_index_only_no_local_hadith_text",
+  "originalLocalRows": 166,
+  "verifiedSourceRows": 163,
+  "omittedUnverifiedRows": 3,
+  "chapters": [
+    {
+      "name": "Book of Purification",
+      "arabicName": "كتاب الطهارة",
+      "hadiths": [
+        {
+          "id": 873,
+          "originalReference": "Tirmidhi 22",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 22",
+          "sourceUrl": "https://sunnah.com/tirmidhi:22",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 874,
+          "originalReference": "Tirmidhi 23",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 23",
+          "sourceUrl": "https://sunnah.com/tirmidhi:23",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 875,
+          "originalReference": "Tirmidhi 3",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 3",
+          "sourceUrl": "https://sunnah.com/tirmidhi:3",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 876,
+          "originalReference": "Tirmidhi 25",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 25",
+          "sourceUrl": "https://sunnah.com/tirmidhi:25",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 877,
+          "originalReference": "Tirmidhi 1",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 878,
+          "originalReference": "Tirmidhi 607 (related)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 607",
+          "sourceUrl": "https://sunnah.com/tirmidhi:607",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 879,
+          "originalReference": "Tirmidhi 58 (related)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 58",
+          "sourceUrl": "https://sunnah.com/tirmidhi:58",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 880,
+          "originalReference": "Tirmidhi 38",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 38",
+          "sourceUrl": "https://sunnah.com/tirmidhi:38",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Prayer",
+      "arabicName": "كتاب الصلاة",
+      "hadiths": [
+        {
+          "id": 881,
+          "originalReference": "Tirmidhi 3579 (related in Muslim 482)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 3579",
+          "sourceUrl": "https://sunnah.com/tirmidhi:3579",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 882,
+          "originalReference": "Tirmidhi 2618 (related in Muslim 82)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2618",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2618",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 883,
+          "originalReference": "Tirmidhi 413",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 413",
+          "sourceUrl": "https://sunnah.com/tirmidhi:413",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 884,
+          "originalReference": "Tirmidhi 170 (related in Bukhari 527)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 170",
+          "sourceUrl": "https://sunnah.com/tirmidhi:170",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 885,
+          "originalReference": "Tirmidhi 250",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 250",
+          "sourceUrl": "https://sunnah.com/tirmidhi:250",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 886,
+          "originalReference": "Tirmidhi (related in Bukhari 657)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 657",
+          "sourceUrl": "https://sunnah.com/bukhari:657",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 887,
+          "originalReference": "Tirmidhi 2616",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2616",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2616",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 888,
+          "originalReference": "Tirmidhi 215",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 215",
+          "sourceUrl": "https://sunnah.com/tirmidhi:215",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Friday Prayer",
+      "arabicName": "كتاب الجمعة",
+      "hadiths": [
+        {
+          "id": 889,
+          "originalReference": "Tirmidhi 488",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 488",
+          "sourceUrl": "https://sunnah.com/tirmidhi:488",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 890,
+          "originalReference": "Tirmidhi 488 (related in Abu Dawud 1047)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 488",
+          "sourceUrl": "https://sunnah.com/tirmidhi:488",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 891,
+          "originalReference": "Tirmidhi 491",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 491",
+          "sourceUrl": "https://sunnah.com/tirmidhi:491",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 892,
+          "originalReference": "Tirmidhi 500",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 500",
+          "sourceUrl": "https://sunnah.com/tirmidhi:500",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 893,
+          "originalReference": "Tirmidhi 496",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 496",
+          "sourceUrl": "https://sunnah.com/tirmidhi:496",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 894,
+          "originalReference": "Tirmidhi 512",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 512",
+          "sourceUrl": "https://sunnah.com/tirmidhi:512",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 895,
+          "originalReference": "Tirmidhi (related in Abu Dawud 1047)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 1047",
+          "sourceUrl": "https://sunnah.com/abudawud:1047",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 896,
+          "originalReference": "Tirmidhi (related in Ibn Majah 1084)",
+          "sourceCollectionId": "ibn_majah",
+          "sourceCollectionName": "Sunan Ibn Majah",
+          "sourceReference": "Sunan Ibn Majah 1084",
+          "sourceUrl": "https://sunnah.com/ibnmajah:1084",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Fasting",
+      "arabicName": "كتاب الصيام",
+      "hadiths": [
+        {
+          "id": 897,
+          "originalReference": "Tirmidhi 682",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 682",
+          "sourceUrl": "https://sunnah.com/tirmidhi:682",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 898,
+          "originalReference": "Tirmidhi 683",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 683",
+          "sourceUrl": "https://sunnah.com/tirmidhi:683",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 899,
+          "originalReference": "Tirmidhi 766 (related in Bukhari 1904)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 766",
+          "sourceUrl": "https://sunnah.com/tirmidhi:766",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 900,
+          "originalReference": "Tirmidhi 699",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 699",
+          "sourceUrl": "https://sunnah.com/tirmidhi:699",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 901,
+          "originalReference": "Tirmidhi 707",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 707",
+          "sourceUrl": "https://sunnah.com/tirmidhi:707",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 902,
+          "originalReference": "Tirmidhi 764",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 764",
+          "sourceUrl": "https://sunnah.com/tirmidhi:764",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 903,
+          "originalReference": "Tirmidhi 759",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 759",
+          "sourceUrl": "https://sunnah.com/tirmidhi:759",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 904,
+          "originalReference": "Tirmidhi 792",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 792",
+          "sourceUrl": "https://sunnah.com/tirmidhi:792",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Zakat",
+      "arabicName": "كتاب الزكاة",
+      "hadiths": [
+        {
+          "id": 905,
+          "originalReference": "Tirmidhi 2325",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2325",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2325",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 906,
+          "originalReference": "Tirmidhi 2616",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2616",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2616",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 907,
+          "originalReference": "Tirmidhi 2326 (related in Bukhari 1426)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2326",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2326",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 908,
+          "originalReference": "Tirmidhi 2416 (related in Bukhari 1417)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2416",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2416",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 909,
+          "originalReference": "Tirmidhi 661 (related)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 661",
+          "sourceUrl": "https://sunnah.com/tirmidhi:661",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 910,
+          "originalReference": "Tirmidhi 658",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 658",
+          "sourceUrl": "https://sunnah.com/tirmidhi:658",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 911,
+          "originalReference": "Tirmidhi 2325",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2325",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2325",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 912,
+          "originalReference": "Tirmidhi (related in Bukhari 1442)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1442",
+          "sourceUrl": "https://sunnah.com/bukhari:1442",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Hajj",
+      "arabicName": "كتاب الحج",
+      "hadiths": [
+        {
+          "id": 913,
+          "originalReference": "Tirmidhi 933",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 933",
+          "sourceUrl": "https://sunnah.com/tirmidhi:933",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 914,
+          "originalReference": "Tirmidhi 811",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 811",
+          "sourceUrl": "https://sunnah.com/tirmidhi:811",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 915,
+          "originalReference": "Tirmidhi 810",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 810",
+          "sourceUrl": "https://sunnah.com/tirmidhi:810",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 916,
+          "originalReference": "Tirmidhi (related in Muslim 1348)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1348",
+          "sourceUrl": "https://sunnah.com/muslim:1348",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 917,
+          "originalReference": "Tirmidhi 939",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 939",
+          "sourceUrl": "https://sunnah.com/tirmidhi:939",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 918,
+          "originalReference": "Tirmidhi 1658 (related)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1658",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1658",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 919,
+          "originalReference": "Tirmidhi (related in Ibn Majah 2892)",
+          "sourceCollectionId": "ibn_majah",
+          "sourceCollectionName": "Sunan Ibn Majah",
+          "sourceReference": "Sunan Ibn Majah 2892",
+          "sourceUrl": "https://sunnah.com/ibnmajah:2892",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 920,
+          "originalReference": "Tirmidhi (related in Bukhari 1520)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1520",
+          "sourceUrl": "https://sunnah.com/bukhari:1520",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Funerals",
+      "arabicName": "كتاب الجنائز",
+      "hadiths": [
+        {
+          "id": 921,
+          "originalReference": "Tirmidhi 2307",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2307",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2307",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 922,
+          "originalReference": "Tirmidhi 971 (related in Bukhari 5671)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 971",
+          "sourceUrl": "https://sunnah.com/tirmidhi:971",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 923,
+          "originalReference": "Tirmidhi 1376 (related in Muslim 1631)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1376",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1376",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 924,
+          "originalReference": "Tirmidhi 1015",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1015",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1015",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 925,
+          "originalReference": "Tirmidhi 1040",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1040",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1040",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 926,
+          "originalReference": "Tirmidhi 996",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 996",
+          "sourceUrl": "https://sunnah.com/tirmidhi:996",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 927,
+          "originalReference": "Tirmidhi (related in Bukhari 1286)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1286",
+          "sourceUrl": "https://sunnah.com/bukhari:1286",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 928,
+          "originalReference": "Tirmidhi 1058",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1058",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1058",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Marriage",
+      "arabicName": "كتاب النكاح",
+      "hadiths": [
+        {
+          "id": 929,
+          "originalReference": "Tirmidhi 1084",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1084",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1084",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 930,
+          "originalReference": "Tirmidhi 1162",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1162",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1162",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 931,
+          "originalReference": "Tirmidhi 3895",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 3895",
+          "sourceUrl": "https://sunnah.com/tirmidhi:3895",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 932,
+          "originalReference": "Tirmidhi 1086 (related)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1086",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1086",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 933,
+          "originalReference": "Tirmidhi (related in Ibn Majah 1968)",
+          "sourceCollectionId": "ibn_majah",
+          "sourceCollectionName": "Sunan Ibn Majah",
+          "sourceReference": "Sunan Ibn Majah 1968",
+          "sourceUrl": "https://sunnah.com/ibnmajah:1968",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 934,
+          "originalReference": "Tirmidhi 1163",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1163",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1163",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 935,
+          "originalReference": "Tirmidhi (related in Ibn Majah 1977)",
+          "sourceCollectionId": "ibn_majah",
+          "sourceCollectionName": "Sunan Ibn Majah",
+          "sourceReference": "Sunan Ibn Majah 1977",
+          "sourceUrl": "https://sunnah.com/ibnmajah:1977",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 936,
+          "originalReference": "Tirmidhi (related in Muslim 1218)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1218",
+          "sourceUrl": "https://sunnah.com/muslim:1218",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Suckling",
+      "arabicName": "كتاب الرضاع",
+      "hadiths": [
+        {
+          "id": 937,
+          "originalReference": "Tirmidhi 1147",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1147",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1147",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 938,
+          "originalReference": "Tirmidhi 1148",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1148",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1148",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 939,
+          "originalReference": "Tirmidhi 1150",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1150",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1150",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 940,
+          "originalReference": "Tirmidhi 1152",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1152",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1152",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 941,
+          "originalReference": "Tirmidhi (related in Muslim 1452)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1452",
+          "sourceUrl": "https://sunnah.com/muslim:1452",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 942,
+          "originalReference": "Tirmidhi 1145 (related)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1145",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1145",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Manners",
+      "arabicName": "كتاب الأدب",
+      "hadiths": [
+        {
+          "id": 943,
+          "originalReference": "Tirmidhi 2500 (related in Bukhari 6018)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2500",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2500",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 944,
+          "originalReference": "Tirmidhi 1833 (related in Muslim 2626)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1833",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1833",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 945,
+          "originalReference": "Tirmidhi 2002",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2002",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2002",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 946,
+          "originalReference": "Tirmidhi 2389 (related in Muslim 2553)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2389",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2389",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 947,
+          "originalReference": "Tirmidhi 2020 (related in Bukhari 6114)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2020",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2020",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 948,
+          "originalReference": "Tirmidhi 2018",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2018",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2018",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 949,
+          "originalReference": "Tirmidhi (related in Abu Dawud 4798)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4798",
+          "sourceUrl": "https://sunnah.com/abudawud:4798",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 950,
+          "originalReference": "Tirmidhi 2009 (related in Bukhari 9)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2009",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2009",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Food",
+      "arabicName": "كتاب الأطعمة",
+      "hadiths": [
+        {
+          "id": 951,
+          "originalReference": "Tirmidhi 2031 (related in Bukhari 5409)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2031",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2031",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 952,
+          "originalReference": "Tirmidhi 1857 (related in Bukhari 5376)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1857",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1857",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 953,
+          "originalReference": "Tirmidhi (related in Bukhari 5379)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5379",
+          "sourceUrl": "https://sunnah.com/bukhari:5379",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 954,
+          "originalReference": "Tirmidhi 1820 (related in Muslim 2059)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1820",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1820",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 955,
+          "originalReference": "Tirmidhi 1841 (related in Muslim 2051)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1841",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1841",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 956,
+          "originalReference": "Tirmidhi 2357 (related in Bukhari 5416)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2357",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2357",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 957,
+          "originalReference": "Tirmidhi 1818 (related in Bukhari 5393)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1818",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1818",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 958,
+          "originalReference": "Tirmidhi (related in Abu Dawud 3764)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3764",
+          "sourceUrl": "https://sunnah.com/abudawud:3764",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Clothing",
+      "arabicName": "كتاب اللباس",
+      "hadiths": [
+        {
+          "id": 960,
+          "originalReference": "Tirmidhi 1731",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1731",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1731",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 961,
+          "originalReference": "Tirmidhi 1786",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1786",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1786",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 962,
+          "originalReference": "Tirmidhi 1720",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1720",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1720",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 963,
+          "originalReference": "Tirmidhi 1720",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1720",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1720",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 964,
+          "originalReference": "Tirmidhi 2812",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2812",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2812",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Seeking Permission",
+      "arabicName": "كتاب الاستئذان",
+      "hadiths": [
+        {
+          "id": 965,
+          "originalReference": "Tirmidhi 2688 (related in Muslim 54)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2688",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2688",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 966,
+          "originalReference": "Tirmidhi 2698",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2698",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2698",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 967,
+          "originalReference": "Tirmidhi 2703 (related in Bukhari 6231)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2703",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2703",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 968,
+          "originalReference": "Tirmidhi (related in Bukhari 6245)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6245",
+          "sourceUrl": "https://sunnah.com/bukhari:6245",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 969,
+          "originalReference": "Tirmidhi (related in Muslim 1431)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1431",
+          "sourceUrl": "https://sunnah.com/muslim:1431",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 970,
+          "originalReference": "Tirmidhi 1956",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1956",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1956",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Righteousness",
+      "arabicName": "كتاب البر والصلة",
+      "hadiths": [
+        {
+          "id": 971,
+          "originalReference": "Tirmidhi 1930 (related in Muslim 2699)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1930",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1930",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 972,
+          "originalReference": "Tirmidhi 1927 (related in Muslim 2586)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1927",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1927",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 973,
+          "originalReference": "Tirmidhi 1922 (related in Muslim 2319)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1922",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1922",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 974,
+          "originalReference": "Tirmidhi 1927 (related in Muslim 2564)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1927",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1927",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 975,
+          "originalReference": "Tirmidhi 1988 (related in Bukhari 6064)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1988",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1988",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 977,
+          "originalReference": "Tirmidhi (related in Muslim 1005)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1005",
+          "sourceUrl": "https://sunnah.com/muslim:1005",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 978,
+          "originalReference": "Tirmidhi 2500 (related in Bukhari 2442)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2500",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2500",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Medicine",
+      "arabicName": "كتاب الطب",
+      "hadiths": [
+        {
+          "id": 979,
+          "originalReference": "Tirmidhi 2038",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2038",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2038",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 980,
+          "originalReference": "Tirmidhi (related in Bukhari 5678)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5678",
+          "sourceUrl": "https://sunnah.com/bukhari:5678",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 981,
+          "originalReference": "Tirmidhi 2065",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2065",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2065",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 982,
+          "originalReference": "Tirmidhi 2050 (related in Bukhari 5680)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2050",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2050",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 983,
+          "originalReference": "Tirmidhi 2062 (related in Bukhari 5740)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2062",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2062",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 984,
+          "originalReference": "Tirmidhi 2058 (related in Bukhari 5735)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2058",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2058",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Inheritance",
+      "arabicName": "كتاب الفرائض",
+      "hadiths": [
+        {
+          "id": 985,
+          "originalReference": "Tirmidhi 2098 (related in Bukhari 6732)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2098",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2098",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 986,
+          "originalReference": "Tirmidhi (related in Ibn Majah 2719)",
+          "sourceCollectionId": "ibn_majah",
+          "sourceCollectionName": "Sunan Ibn Majah",
+          "sourceReference": "Sunan Ibn Majah 2719",
+          "sourceUrl": "https://sunnah.com/ibnmajah:2719",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 987,
+          "originalReference": "Tirmidhi 2107 (related in Bukhari 6764)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2107",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2107",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 988,
+          "originalReference": "Tirmidhi 1376",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1376",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1376",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 989,
+          "originalReference": "Tirmidhi 2116 (related)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2116",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2116",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 990,
+          "originalReference": "Tirmidhi (related in Muslim 1619)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1619",
+          "sourceUrl": "https://sunnah.com/muslim:1619",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Supplication",
+      "arabicName": "كتاب الدعوات",
+      "hadiths": [
+        {
+          "id": 991,
+          "originalReference": "Tirmidhi 3372",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 3372",
+          "sourceUrl": "https://sunnah.com/tirmidhi:3372",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 992,
+          "originalReference": "Tirmidhi 3370",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 3370",
+          "sourceUrl": "https://sunnah.com/tirmidhi:3370",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 993,
+          "originalReference": "Tirmidhi 3556",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 3556",
+          "sourceUrl": "https://sunnah.com/tirmidhi:3556",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 994,
+          "originalReference": "Tirmidhi 3387 (related in Bukhari 6340)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 3387",
+          "sourceUrl": "https://sunnah.com/tirmidhi:3387",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 995,
+          "originalReference": "Tirmidhi 3548",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 3548",
+          "sourceUrl": "https://sunnah.com/tirmidhi:3548",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 996,
+          "originalReference": "Tirmidhi 3598",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 3598",
+          "sourceUrl": "https://sunnah.com/tirmidhi:3598",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 997,
+          "originalReference": "Tirmidhi 3604",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 3604",
+          "sourceUrl": "https://sunnah.com/tirmidhi:3604",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 998,
+          "originalReference": "Tirmidhi 3382",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 3382",
+          "sourceUrl": "https://sunnah.com/tirmidhi:3382",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Merits and Virtues",
+      "arabicName": "كتاب المناقب",
+      "hadiths": [
+        {
+          "id": 1000,
+          "originalReference": "Tirmidhi 2015 (related in Muslim 2309)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2015",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2015",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1001,
+          "originalReference": "Tirmidhi (related in Muslim 746)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 746",
+          "sourceUrl": "https://sunnah.com/muslim:746",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1002,
+          "originalReference": "Tirmidhi 1553 (related in Muslim 523)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1553",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1553",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1003,
+          "originalReference": "Tirmidhi (related in Bukhari 335)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 335",
+          "sourceUrl": "https://sunnah.com/bukhari:335",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1004,
+          "originalReference": "Tirmidhi (related in Muslim 196)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 196",
+          "sourceUrl": "https://sunnah.com/muslim:196",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1005,
+          "originalReference": "Tirmidhi 3615 (related in Muslim 2278)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 3615",
+          "sourceUrl": "https://sunnah.com/tirmidhi:3615",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1006,
+          "originalReference": "Tirmidhi 3859 (related in Bukhari 3651)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 3859",
+          "sourceUrl": "https://sunnah.com/tirmidhi:3859",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Knowledge",
+      "arabicName": "كتاب العلم",
+      "hadiths": [
+        {
+          "id": 1007,
+          "originalReference": "Tirmidhi (related in Ibn Majah 224)",
+          "sourceCollectionId": "ibn_majah",
+          "sourceCollectionName": "Sunan Ibn Majah",
+          "sourceReference": "Sunan Ibn Majah 224",
+          "sourceUrl": "https://sunnah.com/ibnmajah:224",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1008,
+          "originalReference": "Tirmidhi 2646 (related in Muslim 2699)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2646",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2646",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1009,
+          "originalReference": "Tirmidhi 2649 (related in Abu Dawud 3658)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2649",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2649",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1010,
+          "originalReference": "Tirmidhi 2645 (related in Bukhari 71)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2645",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2645",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1011,
+          "originalReference": "Tirmidhi 2658",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2658",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2658",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1012,
+          "originalReference": "Tirmidhi 2322",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2322",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2322",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Destiny",
+      "arabicName": "كتاب القدر",
+      "hadiths": [
+        {
+          "id": 1013,
+          "originalReference": "Tirmidhi (related in Ibn Majah 2144)",
+          "sourceCollectionId": "ibn_majah",
+          "sourceCollectionName": "Sunan Ibn Majah",
+          "sourceReference": "Sunan Ibn Majah 2144",
+          "sourceUrl": "https://sunnah.com/ibnmajah:2144",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1014,
+          "originalReference": "Tirmidhi (related in Muslim 2664)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2664",
+          "sourceUrl": "https://sunnah.com/muslim:2664",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1015,
+          "originalReference": "Tirmidhi 2516",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2516",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2516",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1016,
+          "originalReference": "Tirmidhi (related in Bukhari 6605)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6605",
+          "sourceUrl": "https://sunnah.com/bukhari:6605",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1017,
+          "originalReference": "Tirmidhi (related in Muslim 2664)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2664",
+          "sourceUrl": "https://sunnah.com/muslim:2664",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1018,
+          "originalReference": "Tirmidhi 2396",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2396",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2396",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Tribulations",
+      "arabicName": "كتاب الفتن",
+      "hadiths": [
+        {
+          "id": 1019,
+          "originalReference": "Tirmidhi (related in Muslim 118)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 118",
+          "sourceUrl": "https://sunnah.com/muslim:118",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1020,
+          "originalReference": "Tirmidhi (related in Muslim 144)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 144",
+          "sourceUrl": "https://sunnah.com/muslim:144",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1021,
+          "originalReference": "Tirmidhi 2195",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2195",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2195",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1022,
+          "originalReference": "Tirmidhi 2260",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2260",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2260",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1023,
+          "originalReference": "Tirmidhi (related in Bukhari 80)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 80",
+          "sourceUrl": "https://sunnah.com/bukhari:80",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1024,
+          "originalReference": "Tirmidhi (related in Bukhari 7115)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 7115",
+          "sourceUrl": "https://sunnah.com/bukhari:7115",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Dreams",
+      "arabicName": "كتاب الرؤيا",
+      "hadiths": [
+        {
+          "id": 1025,
+          "originalReference": "Tirmidhi 2277 (related in Bukhari 6984)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2277",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2277",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1026,
+          "originalReference": "Tirmidhi 2271 (related in Bukhari 6983)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2271",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2271",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1027,
+          "originalReference": "Tirmidhi 2276 (related in Bukhari 6993)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2276",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2276",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1028,
+          "originalReference": "Tirmidhi 2271 (related in Bukhari 6990)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2271",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2271",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1029,
+          "originalReference": "Tirmidhi (related in Bukhari 6984)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6984",
+          "sourceUrl": "https://sunnah.com/bukhari:6984",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1030,
+          "originalReference": "Tirmidhi 2280 (related in Muslim 2263)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2280",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2280",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Descriptions of Paradise",
+      "arabicName": "كتاب صفة الجنة",
+      "hadiths": [
+        {
+          "id": 1031,
+          "originalReference": "Tirmidhi 3292 (related in Bukhari 3244)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 3292",
+          "sourceUrl": "https://sunnah.com/tirmidhi:3292",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1032,
+          "originalReference": "Tirmidhi 2537 (related in Bukhari 3245)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2537",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2537",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1033,
+          "originalReference": "Tirmidhi 2523 (related in Muslim 2826)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2523",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2523",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1034,
+          "originalReference": "Tirmidhi 2525 (related in Bukhari 2793)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2525",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2525",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1035,
+          "originalReference": "Tirmidhi (related in Muslim 2831)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2831",
+          "sourceUrl": "https://sunnah.com/muslim:2831",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1036,
+          "originalReference": "Tirmidhi 2559 (related in Bukhari 6487)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2559",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2559",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1037,
+          "originalReference": "Tirmidhi 2562 (related in Muslim 2836)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2562",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2562",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1038,
+          "originalReference": "Tirmidhi (related in Bukhari 6569)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6569",
+          "sourceUrl": "https://sunnah.com/bukhari:6569",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>NurAI Quran mark</title>
+  <path d="M2.9 5.85C6.15 5.075 9.175 5.8 12 8.025V19.575C9.325 17.725 6.3 17.05 2.9 17.825V5.85Z" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M21.1 5.85C17.85 5.075 14.825 5.8 12 8.025V19.575C14.675 17.725 17.7 17.05 21.1 17.825V5.85Z" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M12 8.025V19.575" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" opacity=".78"/>
+  <path d="M5.05 8.625C6.825 8.45 8.375 8.8 9.725 9.675M5.05 11.425C6.825 11.25 8.375 11.6 9.725 12.475M18.95 8.625C17.175 8.45 15.625 8.8 14.275 9.675M18.95 11.425C17.175 11.25 15.625 11.6 14.275 12.475" stroke="currentColor" stroke-width="1" stroke-linecap="round" opacity=".48"/>
+  <path d="M2.9 19.775C6.25 19.05 9.275 19.7 12 21.4C14.725 19.7 17.75 19.05 21.1 19.775" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" opacity=".68"/>
+</svg>

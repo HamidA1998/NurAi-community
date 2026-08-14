@@ -1,0 +1,60 @@
+# Keep EAS native build archives small and focused.
+.git/
+.expo/
+node_modules/
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.tsbuildinfo
+
+# Generated build outputs
+build/
+dist/
+server_dist/
+static-build/
+web-build/
+tmp/
+output/
+
+# Local assistant/editor state and handoff notes are not application source.
+.claude/
+NURAI_CHANGES_SUMMARY.md
+
+# Keep the native projects in EAS uploads. NurAI ships native iOS targets
+# such as the WidgetKit extension; excluding ios/ makes TestFlight builds
+# silently omit NurAIWidgets.appex.
+android/
+
+# Local Xcode build output / CocoaPods — regenerated fresh by EAS in the cloud.
+# ios/build (DerivedData) can be several GB and blows past the 2GB limit.
+ios/build/
+ios/Pods/
+ios/DerivedData/
+**/DerivedData/
+*.xcarchive
+
+# Marketing / video tooling — not part of the app binary.
+marketing/
+
+# Local-only secrets and credentials
+.env
+.env.*
+!.env.example
+!.env.*.example
+.env*.local
+*.pem
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*service-account*.json
+google-play*.json
+google-service-account*.json
+
+# Large local artifacts and release audit packets are not needed in the app binary.
+attached_assets/
+docs/audit/
+CONTENT_COMPLETION_AUDIT.md
+HADITH_SOURCE_AUDIT.md
+LIBRARY_QA.md
+NurAI-Muslim-threat-model.md

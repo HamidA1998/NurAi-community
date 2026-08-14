@@ -1,0 +1,1487 @@
+{
+  "id": "nasai",
+  "name": "Sunan An-Nasa'i",
+  "arabicName": "سنن النسائي",
+  "compiler": "Imam Ahmad an-Nasa'i",
+  "totalHadiths": 5758,
+  "description": "One of the six major hadith collections, compiled by Imam an-Nasa'i. It is considered the least criticized of the Sunan collections for its strict methodology.",
+  "sourcePolicy": "source_index_only_no_local_hadith_text",
+  "originalLocalRows": 152,
+  "verifiedSourceRows": 147,
+  "omittedUnverifiedRows": 5,
+  "chapters": [
+    {
+      "name": "Book of Purification",
+      "arabicName": "كتاب الطهارة",
+      "hadiths": [
+        {
+          "id": 1039,
+          "originalReference": "Nasa'i 7",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 7",
+          "sourceUrl": "https://sunnah.com/nasai:7",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1040,
+          "originalReference": "Nasa'i 103",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 103",
+          "sourceUrl": "https://sunnah.com/nasai:103",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1041,
+          "originalReference": "Nasa'i 1",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 1",
+          "sourceUrl": "https://sunnah.com/nasai:1",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1042,
+          "originalReference": "Nasa'i 5",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 5",
+          "sourceUrl": "https://sunnah.com/nasai:5",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1043,
+          "originalReference": "Nasa'i (related in Muslim 223)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 223",
+          "sourceUrl": "https://sunnah.com/muslim:223",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1044,
+          "originalReference": "Nasa'i 84",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 84",
+          "sourceUrl": "https://sunnah.com/nasai:84",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Water",
+      "arabicName": "كتاب المياه",
+      "hadiths": [
+        {
+          "id": 1045,
+          "originalReference": "Nasa'i 326 (related in Abu Dawud 66)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 326",
+          "sourceUrl": "https://sunnah.com/nasai:326",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1046,
+          "originalReference": "Nasa'i 327",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 327",
+          "sourceUrl": "https://sunnah.com/nasai:327",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1048,
+          "originalReference": "Nasa'i 220 (related in Muslim 283)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 220",
+          "sourceUrl": "https://sunnah.com/nasai:220",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1049,
+          "originalReference": "Nasa'i 231",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 231",
+          "sourceUrl": "https://sunnah.com/nasai:231",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Menstruation",
+      "arabicName": "كتاب الحيض",
+      "hadiths": [
+        {
+          "id": 1051,
+          "originalReference": "Nasa'i 383 (related in Muslim 299)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 383",
+          "sourceUrl": "https://sunnah.com/nasai:383",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1052,
+          "originalReference": "Nasa'i 384 (related in Bukhari 297)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 384",
+          "sourceUrl": "https://sunnah.com/nasai:384",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1053,
+          "originalReference": "Nasa'i 373 (related in Muslim 332)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 373",
+          "sourceUrl": "https://sunnah.com/nasai:373",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1054,
+          "originalReference": "Nasa'i 362 (related in Bukhari 306)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 362",
+          "sourceUrl": "https://sunnah.com/nasai:362",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1055,
+          "originalReference": "Nasa'i 385 (related in Bukhari 296)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 385",
+          "sourceUrl": "https://sunnah.com/nasai:385",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1056,
+          "originalReference": "Nasa'i (related in Muslim 890)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 890",
+          "sourceUrl": "https://sunnah.com/muslim:890",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Bathing",
+      "arabicName": "كتاب الغسل",
+      "hadiths": [
+        {
+          "id": 1057,
+          "originalReference": "Nasa'i 1374 (related in Bukhari 858)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 1374",
+          "sourceUrl": "https://sunnah.com/nasai:1374",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1058,
+          "originalReference": "Nasa'i 416 (related in Bukhari 201)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 416",
+          "sourceUrl": "https://sunnah.com/nasai:416",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1059,
+          "originalReference": "Nasa'i 192 (related in Muslim 348)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 192",
+          "sourceUrl": "https://sunnah.com/nasai:192",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1060,
+          "originalReference": "Nasa'i 417",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 417",
+          "sourceUrl": "https://sunnah.com/nasai:417",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1061,
+          "originalReference": "Nasa'i 418 (related in Bukhari 257)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 418",
+          "sourceUrl": "https://sunnah.com/nasai:418",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1062,
+          "originalReference": "Nasa'i (related in Abu Dawud 248)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 248",
+          "sourceUrl": "https://sunnah.com/abudawud:248",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Prayer",
+      "arabicName": "كتاب الصلاة",
+      "hadiths": [
+        {
+          "id": 1063,
+          "originalReference": "Nasa'i 461 (related in Muslim 233)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 461",
+          "sourceUrl": "https://sunnah.com/nasai:461",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1064,
+          "originalReference": "Nasa'i 609 (related in Bukhari 527)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 609",
+          "sourceUrl": "https://sunnah.com/nasai:609",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1065,
+          "originalReference": "Nasa'i (related in Bukhari 657)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 657",
+          "sourceUrl": "https://sunnah.com/bukhari:657",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1066,
+          "originalReference": "Nasa'i (related in Muslim 656)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 656",
+          "sourceUrl": "https://sunnah.com/muslim:656",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1067,
+          "originalReference": "Nasa'i 1137 (related in Muslim 482)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 1137",
+          "sourceUrl": "https://sunnah.com/nasai:1137",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1068,
+          "originalReference": "Nasa'i (related in Muslim 82)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 82",
+          "sourceUrl": "https://sunnah.com/muslim:82",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1069,
+          "originalReference": "Nasa'i 810 (related in Bukhari 723)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 810",
+          "sourceUrl": "https://sunnah.com/nasai:810",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1070,
+          "originalReference": "Nasa'i (related in Bukhari 647)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 647",
+          "sourceUrl": "https://sunnah.com/bukhari:647",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Times of Prayer",
+      "arabicName": "كتاب المواقيت",
+      "hadiths": [
+        {
+          "id": 1071,
+          "originalReference": "Nasa'i 522",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 522",
+          "sourceUrl": "https://sunnah.com/nasai:522",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1072,
+          "originalReference": "Nasa'i 499 (related in Bukhari 534)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 499",
+          "sourceUrl": "https://sunnah.com/nasai:499",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1073,
+          "originalReference": "Nasa'i 546 (related in Bukhari 578)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 546",
+          "sourceUrl": "https://sunnah.com/nasai:546",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1074,
+          "originalReference": "Nasa'i 613 (related in Muslim 684)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 613",
+          "sourceUrl": "https://sunnah.com/nasai:613",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1075,
+          "originalReference": "Nasa'i 552 (related in Bukhari 580)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 552",
+          "sourceUrl": "https://sunnah.com/nasai:552",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1076,
+          "originalReference": "Nasa'i (related in Bukhari 527)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 527",
+          "sourceUrl": "https://sunnah.com/bukhari:527",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Adhan",
+      "arabicName": "كتاب الأذان",
+      "hadiths": [
+        {
+          "id": 1077,
+          "originalReference": "Nasa'i 667 (related in Bukhari 608)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 667",
+          "sourceUrl": "https://sunnah.com/nasai:667",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1078,
+          "originalReference": "Nasa'i 669 (related in Bukhari 611)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 669",
+          "sourceUrl": "https://sunnah.com/nasai:669",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1079,
+          "originalReference": "Nasa'i (related in Bukhari 614)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 614",
+          "sourceUrl": "https://sunnah.com/bukhari:614",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1080,
+          "originalReference": "Nasa'i (related in Abu Dawud 521)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 521",
+          "sourceUrl": "https://sunnah.com/abudawud:521",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1081,
+          "originalReference": "Nasa'i (related in Muslim 387)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 387",
+          "sourceUrl": "https://sunnah.com/muslim:387",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1082,
+          "originalReference": "Nasa'i (related in Bukhari 633)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 633",
+          "sourceUrl": "https://sunnah.com/bukhari:633",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Mosques",
+      "arabicName": "كتاب المساجد",
+      "hadiths": [
+        {
+          "id": 1083,
+          "originalReference": "Nasa'i 688 (related in Muslim 533)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 688",
+          "sourceUrl": "https://sunnah.com/nasai:688",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1084,
+          "originalReference": "Nasa'i (related in Muslim 671)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 671",
+          "sourceUrl": "https://sunnah.com/muslim:671",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1085,
+          "originalReference": "Nasa'i 701 (related in Muslim 669)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 701",
+          "sourceUrl": "https://sunnah.com/nasai:701",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1086,
+          "originalReference": "Nasa'i (related in Muslim 442)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 442",
+          "sourceUrl": "https://sunnah.com/muslim:442",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1087,
+          "originalReference": "Nasa'i (related in Muslim 564)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 564",
+          "sourceUrl": "https://sunnah.com/muslim:564",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1088,
+          "originalReference": "Nasa'i (related in Muslim 521)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 521",
+          "sourceUrl": "https://sunnah.com/muslim:521",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Qiblah",
+      "arabicName": "كتاب القبلة",
+      "hadiths": [
+        {
+          "id": 1089,
+          "originalReference": "Nasa'i (related in Tirmidhi 342)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 342",
+          "sourceUrl": "https://sunnah.com/tirmidhi:342",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1090,
+          "originalReference": "Nasa'i (related in Bukhari 399)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 399",
+          "sourceUrl": "https://sunnah.com/bukhari:399",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1091,
+          "originalReference": "Nasa'i (related in Bukhari 403)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 403",
+          "sourceUrl": "https://sunnah.com/bukhari:403",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1093,
+          "originalReference": "Nasa'i (related in Bukhari 394)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 394",
+          "sourceUrl": "https://sunnah.com/bukhari:394",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1094,
+          "originalReference": "Nasa'i (related in Bukhari 144)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 144",
+          "sourceUrl": "https://sunnah.com/bukhari:144",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Leading Prayer",
+      "arabicName": "كتاب الإمامة",
+      "hadiths": [
+        {
+          "id": 1095,
+          "originalReference": "Nasa'i (related in Bukhari 689)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 689",
+          "sourceUrl": "https://sunnah.com/bukhari:689",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1096,
+          "originalReference": "Nasa'i (related in Bukhari 631)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 631",
+          "sourceUrl": "https://sunnah.com/bukhari:631",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1097,
+          "originalReference": "Nasa'i 810",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 810",
+          "sourceUrl": "https://sunnah.com/nasai:810",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1098,
+          "originalReference": "Nasa'i 824 (related in Bukhari 703)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 824",
+          "sourceUrl": "https://sunnah.com/nasai:824",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1099,
+          "originalReference": "Nasa'i (related in Bukhari 664)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 664",
+          "sourceUrl": "https://sunnah.com/bukhari:664",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1100,
+          "originalReference": "Nasa'i 780 (related in Muslim 673)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 780",
+          "sourceUrl": "https://sunnah.com/nasai:780",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Night Prayer",
+      "arabicName": "كتاب قيام الليل",
+      "hadiths": [
+        {
+          "id": 1101,
+          "originalReference": "Nasa'i 1613 (related in Muslim 1163)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 1613",
+          "sourceUrl": "https://sunnah.com/nasai:1613",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1102,
+          "originalReference": "Nasa'i 1697 (related in Muslim 736)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 1697",
+          "sourceUrl": "https://sunnah.com/nasai:1697",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1103,
+          "originalReference": "Nasa'i 1614 (related in Bukhari 1145)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 1614",
+          "sourceUrl": "https://sunnah.com/nasai:1614",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1104,
+          "originalReference": "Nasa'i (related in Muslim 756)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 756",
+          "sourceUrl": "https://sunnah.com/muslim:756",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1105,
+          "originalReference": "Nasa'i 1688",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 1688",
+          "sourceUrl": "https://sunnah.com/nasai:1688",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1106,
+          "originalReference": "Nasa'i 1684 (related in Muslim 755)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 1684",
+          "sourceUrl": "https://sunnah.com/nasai:1684",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Eclipse Prayer",
+      "arabicName": "كتاب الكسوف",
+      "hadiths": [
+        {
+          "id": 1107,
+          "originalReference": "Nasa'i 1467 (related in Bukhari 1044)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 1467",
+          "sourceUrl": "https://sunnah.com/nasai:1467",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1108,
+          "originalReference": "Nasa'i (related in Bukhari 1048)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1048",
+          "sourceUrl": "https://sunnah.com/bukhari:1048",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1109,
+          "originalReference": "Nasa'i (related in Bukhari 1059)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1059",
+          "sourceUrl": "https://sunnah.com/bukhari:1059",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1110,
+          "originalReference": "Nasa'i 1470",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 1470",
+          "sourceUrl": "https://sunnah.com/nasai:1470",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1111,
+          "originalReference": "Nasa'i 1476 (related in Bukhari 1052)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 1476",
+          "sourceUrl": "https://sunnah.com/nasai:1476",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1112,
+          "originalReference": "Nasa'i (related in Bukhari 1058)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1058",
+          "sourceUrl": "https://sunnah.com/bukhari:1058",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Seeking Rain",
+      "arabicName": "كتاب الاستسقاء",
+      "hadiths": [
+        {
+          "id": 1113,
+          "originalReference": "Nasa'i 1515 (related in Bukhari 1013)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 1515",
+          "sourceUrl": "https://sunnah.com/nasai:1515",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1114,
+          "originalReference": "Nasa'i (related in Bukhari 1032)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1032",
+          "sourceUrl": "https://sunnah.com/bukhari:1032",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1115,
+          "originalReference": "Nasa'i 1505 (related in Bukhari 1011)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 1505",
+          "sourceUrl": "https://sunnah.com/nasai:1505",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1116,
+          "originalReference": "Nasa'i 1509 (related in Bukhari 1012)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 1509",
+          "sourceUrl": "https://sunnah.com/nasai:1509",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1118,
+          "originalReference": "Nasa'i (related in Muslim 2904)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2904",
+          "sourceUrl": "https://sunnah.com/muslim:2904",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Eid Prayers",
+      "arabicName": "كتاب صلاة العيدين",
+      "hadiths": [
+        {
+          "id": 1119,
+          "originalReference": "Nasa'i 1545 (related in Bukhari 953)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 1545",
+          "sourceUrl": "https://sunnah.com/nasai:1545",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1120,
+          "originalReference": "Nasa'i 1559 (related in Muslim 890)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 1559",
+          "sourceUrl": "https://sunnah.com/nasai:1559",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1121,
+          "originalReference": "Nasa'i (related in Bukhari 986)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 986",
+          "sourceUrl": "https://sunnah.com/bukhari:986",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1122,
+          "originalReference": "Nasa'i (related in Muslim 888)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 888",
+          "sourceUrl": "https://sunnah.com/muslim:888",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1123,
+          "originalReference": "Nasa'i (related in Bukhari 956)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 956",
+          "sourceUrl": "https://sunnah.com/bukhari:956",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1124,
+          "originalReference": "Nasa'i (related in Muslim 1141)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1141",
+          "sourceUrl": "https://sunnah.com/muslim:1141",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Fasting",
+      "arabicName": "كتاب الصيام",
+      "hadiths": [
+        {
+          "id": 1125,
+          "originalReference": "Nasa'i 2098 (related in Bukhari 1899)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 2098",
+          "sourceUrl": "https://sunnah.com/nasai:2098",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1126,
+          "originalReference": "Nasa'i 2200 (related in Bukhari 1901)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 2200",
+          "sourceUrl": "https://sunnah.com/nasai:2200",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1127,
+          "originalReference": "Nasa'i 2236 (related in Bukhari 1896)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 2236",
+          "sourceUrl": "https://sunnah.com/nasai:2236",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1128,
+          "originalReference": "Nasa'i 2146 (related in Bukhari 1923)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 2146",
+          "sourceUrl": "https://sunnah.com/nasai:2146",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1129,
+          "originalReference": "Nasa'i 2273 (related in Bukhari 1933)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 2273",
+          "sourceUrl": "https://sunnah.com/nasai:2273",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1130,
+          "originalReference": "Nasa'i (related in Bukhari 2024)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2024",
+          "sourceUrl": "https://sunnah.com/bukhari:2024",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Zakat",
+      "arabicName": "كتاب الزكاة",
+      "hadiths": [
+        {
+          "id": 1131,
+          "originalReference": "Nasa'i 2523 (related in Bukhari 1410)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 2523",
+          "sourceUrl": "https://sunnah.com/nasai:2523",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1132,
+          "originalReference": "Nasa'i (related in Bukhari 1417)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1417",
+          "sourceUrl": "https://sunnah.com/bukhari:1417",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1133,
+          "originalReference": "Nasa'i (related in Bukhari 1427)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1427",
+          "sourceUrl": "https://sunnah.com/bukhari:1427",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1134,
+          "originalReference": "Nasa'i 2501 (related in Bukhari 1503)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 2501",
+          "sourceUrl": "https://sunnah.com/nasai:2501",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1135,
+          "originalReference": "Nasa'i (related in Muslim 2588)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2588",
+          "sourceUrl": "https://sunnah.com/muslim:2588",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1136,
+          "originalReference": "Nasa'i (related in Bukhari 1423)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1423",
+          "sourceUrl": "https://sunnah.com/bukhari:1423",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Hajj",
+      "arabicName": "كتاب الحج",
+      "hadiths": [
+        {
+          "id": 1137,
+          "originalReference": "Nasa'i 2627 (related in Bukhari 1521)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 2627",
+          "sourceUrl": "https://sunnah.com/nasai:2627",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1138,
+          "originalReference": "Nasa'i 2630 (related in Bukhari 1773)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 2630",
+          "sourceUrl": "https://sunnah.com/nasai:2630",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1139,
+          "originalReference": "Nasa'i 2631 (related in Bukhari 1782)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 2631",
+          "sourceUrl": "https://sunnah.com/nasai:2631",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1140,
+          "originalReference": "Nasa'i (related in Muslim 1297)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1297",
+          "sourceUrl": "https://sunnah.com/muslim:1297",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1141,
+          "originalReference": "Nasa'i (related in Muslim 1348)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1348",
+          "sourceUrl": "https://sunnah.com/muslim:1348",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1142,
+          "originalReference": "Nasa'i (related in Bukhari 1603)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1603",
+          "sourceUrl": "https://sunnah.com/bukhari:1603",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Jihad",
+      "arabicName": "كتاب الجهاد",
+      "hadiths": [
+        {
+          "id": 1143,
+          "originalReference": "Nasa'i 3097 (related in Muslim 1910)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 3097",
+          "sourceUrl": "https://sunnah.com/nasai:3097",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1144,
+          "originalReference": "Nasa'i 3120 (related in Muslim 1880)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 3120",
+          "sourceUrl": "https://sunnah.com/nasai:3120",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1145,
+          "originalReference": "Nasa'i (related in Bukhari 2818)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2818",
+          "sourceUrl": "https://sunnah.com/bukhari:2818",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1146,
+          "originalReference": "Nasa'i (related in Muslim 1904)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1904",
+          "sourceUrl": "https://sunnah.com/muslim:1904",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1147,
+          "originalReference": "Nasa'i (related in Bukhari 2892)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2892",
+          "sourceUrl": "https://sunnah.com/bukhari:2892",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1148,
+          "originalReference": "Nasa'i (related in Bukhari 2843)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2843",
+          "sourceUrl": "https://sunnah.com/bukhari:2843",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Marriage",
+      "arabicName": "كتاب النكاح",
+      "hadiths": [
+        {
+          "id": 1149,
+          "originalReference": "Nasa'i 3209 (related in Bukhari 5066)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 3209",
+          "sourceUrl": "https://sunnah.com/nasai:3209",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1150,
+          "originalReference": "Nasa'i 3227 (related in Bukhari 5090)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 3227",
+          "sourceUrl": "https://sunnah.com/nasai:3227",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1151,
+          "originalReference": "Nasa'i (related in Bukhari 3331)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 3331",
+          "sourceUrl": "https://sunnah.com/bukhari:3331",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1152,
+          "originalReference": "Nasa'i (related in Tirmidhi 3895)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 3895",
+          "sourceUrl": "https://sunnah.com/tirmidhi:3895",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1153,
+          "originalReference": "Nasa'i 3261 (related in Bukhari 5136)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 3261",
+          "sourceUrl": "https://sunnah.com/nasai:3261",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1154,
+          "originalReference": "Nasa'i (related in Muslim 1218)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1218",
+          "sourceUrl": "https://sunnah.com/muslim:1218",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Divorce",
+      "arabicName": "كتاب الطلاق",
+      "hadiths": [
+        {
+          "id": 1155,
+          "originalReference": "Nasa'i (related in Abu Dawud 2178)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2178",
+          "sourceUrl": "https://sunnah.com/abudawud:2178",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1156,
+          "originalReference": "Nasa'i (related in Bukhari 5273)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5273",
+          "sourceUrl": "https://sunnah.com/bukhari:5273",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1157,
+          "originalReference": "Nasa'i (related in Bukhari 5251)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5251",
+          "sourceUrl": "https://sunnah.com/bukhari:5251",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1158,
+          "originalReference": "Nasa'i (related in Abu Dawud 2226)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2226",
+          "sourceUrl": "https://sunnah.com/abudawud:2226",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1159,
+          "originalReference": "Nasa'i (related in Bukhari 5151)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5151",
+          "sourceUrl": "https://sunnah.com/bukhari:5151",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1160,
+          "originalReference": "Nasa'i (related in Abu Dawud 2194)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2194",
+          "sourceUrl": "https://sunnah.com/abudawud:2194",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Horses",
+      "arabicName": "كتاب الخيل",
+      "hadiths": [
+        {
+          "id": 1161,
+          "originalReference": "Nasa'i 3563 (related in Bukhari 2860)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 3563",
+          "sourceUrl": "https://sunnah.com/nasai:3563",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1162,
+          "originalReference": "Nasa'i 3572 (related in Bukhari 2852)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 3572",
+          "sourceUrl": "https://sunnah.com/nasai:3572",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1163,
+          "originalReference": "Nasa'i (related in Bukhari 2851)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2851",
+          "sourceUrl": "https://sunnah.com/bukhari:2851",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1164,
+          "originalReference": "Nasa'i (related in Muslim 1873)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1873",
+          "sourceUrl": "https://sunnah.com/muslim:1873",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1165,
+          "originalReference": "Nasa'i (related in Bukhari 420)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 420",
+          "sourceUrl": "https://sunnah.com/bukhari:420",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Oaths and Vows",
+      "arabicName": "كتاب الأيمان والنذور",
+      "hadiths": [
+        {
+          "id": 1167,
+          "originalReference": "Nasa'i 3781 (related in Bukhari 6622)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 3781",
+          "sourceUrl": "https://sunnah.com/nasai:3781",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1168,
+          "originalReference": "Nasa'i (related in Bukhari 6646)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6646",
+          "sourceUrl": "https://sunnah.com/bukhari:6646",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1169,
+          "originalReference": "Nasa'i (related in Bukhari 6692)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6692",
+          "sourceUrl": "https://sunnah.com/bukhari:6692",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1170,
+          "originalReference": "Nasa'i (related in Bukhari 6696)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6696",
+          "sourceUrl": "https://sunnah.com/bukhari:6696",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1171,
+          "originalReference": "Nasa'i (related in Bukhari 6623)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6623",
+          "sourceUrl": "https://sunnah.com/bukhari:6623",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1172,
+          "originalReference": "Nasa'i (related in Abu Dawud 3251)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3251",
+          "sourceUrl": "https://sunnah.com/abudawud:3251",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Drinks",
+      "arabicName": "كتاب الأشربة",
+      "hadiths": [
+        {
+          "id": 1173,
+          "originalReference": "Nasa'i 5585 (related in Muslim 2003)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 5585",
+          "sourceUrl": "https://sunnah.com/nasai:5585",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1174,
+          "originalReference": "Nasa'i 5607 (related in Abu Dawud 3681)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 5607",
+          "sourceUrl": "https://sunnah.com/nasai:5607",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1175,
+          "originalReference": "Nasa'i (related in Muslim 2028)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2028",
+          "sourceUrl": "https://sunnah.com/muslim:2028",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1176,
+          "originalReference": "Nasa'i (related in Bukhari 5628)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5628",
+          "sourceUrl": "https://sunnah.com/bukhari:5628",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1177,
+          "originalReference": "Nasa'i (related in Muslim 2065)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2065",
+          "sourceUrl": "https://sunnah.com/muslim:2065",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1178,
+          "originalReference": "Nasa'i 5588 (related)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 5588",
+          "sourceUrl": "https://sunnah.com/nasai:5588",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Hunting and Slaughter",
+      "arabicName": "كتاب الصيد والذبائح",
+      "hadiths": [
+        {
+          "id": 1179,
+          "originalReference": "Nasa'i 4405 (related in Muslim 1955)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 4405",
+          "sourceUrl": "https://sunnah.com/nasai:4405",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1180,
+          "originalReference": "Nasa'i (related in Bukhari 5475)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5475",
+          "sourceUrl": "https://sunnah.com/bukhari:5475",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1181,
+          "originalReference": "Nasa'i (related in Bukhari 5498)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 5498",
+          "sourceUrl": "https://sunnah.com/bukhari:5498",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1182,
+          "originalReference": "Nasa'i (related in Muslim 1574)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1574",
+          "sourceUrl": "https://sunnah.com/muslim:1574",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1183,
+          "originalReference": "Nasa'i (related in Muslim 1934)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1934",
+          "sourceUrl": "https://sunnah.com/muslim:1934",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1184,
+          "originalReference": "Nasa'i (related in Muslim 1941)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1941",
+          "sourceUrl": "https://sunnah.com/muslim:1941",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Faith and its Signs",
+      "arabicName": "كتاب الإيمان وشرائعه",
+      "hadiths": [
+        {
+          "id": 1185,
+          "originalReference": "Nasa'i 5005 (related in Muslim 35)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 5005",
+          "sourceUrl": "https://sunnah.com/nasai:5005",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1186,
+          "originalReference": "Nasa'i 5017 (related in Bukhari 13)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 5017",
+          "sourceUrl": "https://sunnah.com/nasai:5017",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1187,
+          "originalReference": "Nasa'i (related in Bukhari 6018)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6018",
+          "sourceUrl": "https://sunnah.com/bukhari:6018",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1188,
+          "originalReference": "Nasa'i 5020 (related in Muslim 59)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 5020",
+          "sourceUrl": "https://sunnah.com/nasai:5020",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1189,
+          "originalReference": "Nasa'i (related in Abu Dawud 4833)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4833",
+          "sourceUrl": "https://sunnah.com/abudawud:4833",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 1190,
+          "originalReference": "Nasa'i 4996 (related in Bukhari 10)",
+          "sourceCollectionId": "nasai",
+          "sourceCollectionName": "Sunan an-Nasa'i",
+          "sourceReference": "Sunan an-Nasa'i 4996",
+          "sourceUrl": "https://sunnah.com/nasai:4996",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    }
+  ]
+}

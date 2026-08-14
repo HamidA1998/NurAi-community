@@ -1,0 +1,21 @@
+{
+  "extends": "expo/tsconfig.base.json",
+  "compilerOptions": {
+    "strict": true,
+    "esModuleInterop": true,
+    "paths": {
+      "@/*": ["./client/*"],
+      "@shared/*": ["./shared/*"]
+    },
+    "types": ["node"]
+  },
+  "include": ["**/*.ts", "**/*.tsx", "client/types/*.d.ts"],
+  "exclude": [
+    "node_modules",
+    "build",
+    "dist",
+    "tmp",
+    "marketing/tiktok/remotion",
+    "**/*.test.ts"
+  ]
+}

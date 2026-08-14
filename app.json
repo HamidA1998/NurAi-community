@@ -1,0 +1,141 @@
+{
+  "expo": {
+    "name": "NurAI",
+    "slug": "nurai",
+    "version": "1.1.8",
+    "orientation": "portrait",
+    "icon": "./assets/images/nurai-app-icon.png",
+    "scheme": "nurai",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "usesAppleSignIn": true,
+      "bundleIdentifier": "uk.co.eliteautomations.nurai",
+      "buildNumber": "145",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false,
+        "NSAlarmKitUsageDescription": "Allow NurAI to play your selected Athan at prayer time, even when Silent Mode or Focus is on.",
+        "NSLocationWhenInUseUsageDescription": "NurAI uses your location while you use the app to calculate prayer times, show Qibla direction, and find nearby mosques.",
+        "NSCameraUsageDescription": "NurAI uses your camera to scan QR codes, boarding pass barcodes, and to share content.",
+        "NSPhotoLibraryUsageDescription": "NurAI lets you choose a private profile photo and share Islamic content when you ask.",
+        "NSPhotoLibraryAddUsageDescription": "NurAI may save shareable Islamic content or health reflection cards when you choose to export them.",
+        "NSFaceIDUsageDescription": "NurAI uses Face ID to protect your privacy and secure app access.",
+        "NSHealthShareUsageDescription": "NurAI reads selected Apple Health data, such as steps, sleep, heart rate, workouts, active energy, and mindful minutes, only with your permission to build gentle Muslim self-care reminders.",
+        "NSHealthUpdateUsageDescription": "NurAI writes selected wellbeing actions only when you explicitly allow it, such as mindful minutes or workout-related self-care records.",
+        "UIBackgroundModes": [
+          "remote-notification",
+          "audio",
+          "fetch"
+        ],
+        "BGTaskSchedulerPermittedIdentifiers": [
+          "uk.co.eliteautomations.nurai.widget-refresh"
+        ]
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#071A1A",
+        "foregroundImage": "./assets/images/nurai-app-icon.png"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "package": "uk.co.eliteautomations.nurai",
+      "versionCode": 49,
+      "permissions": [
+        "android.permission.USE_BIOMETRIC",
+        "android.permission.USE_FINGERPRINT",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.health.READ_STEPS",
+        "android.permission.health.READ_ACTIVE_CALORIES_BURNED",
+        "android.permission.health.READ_BASAL_METABOLIC_RATE",
+        "android.permission.health.READ_HEART_RATE",
+        "android.permission.health.READ_SLEEP",
+        "android.permission.health.READ_EXERCISE"
+      ]
+    },
+    "web": {
+      "output": "single",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/nurai-app-icon.png",
+          "imageWidth": 260,
+          "resizeMode": "contain",
+          "backgroundColor": "#080F1D",
+          "dark": {
+            "image": "./assets/images/nurai-app-icon.png",
+            "imageWidth": 260,
+            "resizeMode": "contain",
+            "backgroundColor": "#080F1D"
+          }
+        }
+      ],
+      "expo-web-browser",
+      [
+        "@kingstinct/react-native-healthkit",
+        {
+          "NSHealthShareUsageDescription": "NurAI reads selected Apple Health data, such as steps, sleep, heart rate, workouts, active energy, and mindful minutes, only with your permission to build gentle Muslim self-care reminders.",
+          "NSHealthUpdateUsageDescription": "NurAI writes selected wellbeing actions only when you explicitly allow it, such as mindful minutes or workout-related self-care records.",
+          "background": false
+        }
+      ],
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "minSdkVersion": 26
+          }
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "NurAI lets you choose a private profile photo or a meal photo when you ask.",
+          "cameraPermission": "NurAI uses your camera to scan a meal and estimate dish, ingredients, and calories."
+        }
+      ],
+      "expo-secure-store",
+      "expo-local-authentication",
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/images/nurai-logo-refined.png",
+          "color": "#56B394",
+          "sounds": [
+            "./assets/audio/notifications/athan-alert.wav",
+            "./assets/audio/notifications/takbir-alert.wav",
+            "./assets/audio/notifications/athan-classic-full.caf",
+            "./assets/audio/notifications/athan-clear-full.caf",
+            "./assets/audio/notifications/athan-traditional-full.caf",
+            "./assets/audio/notifications/athan-heritage-full.caf",
+            "./assets/audio/notifications/athan-casablanca-full.caf",
+            "./assets/audio/notifications/athan-levantine-full.caf",
+            "./assets/audio/notifications/athan-shalqar-full.caf",
+            "./assets/audio/notifications/athan-mosque-archive-full.caf",
+            "./assets/audio/notifications/athan-open-call-full.caf",
+            "./assets/audio/notifications/athan-marylebone-call-full.caf"
+          ]
+        }
+      ],
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": false
+        }
+      ],
+      "expo-apple-authentication",
+      "expo-asset",
+      "expo-font",
+      "react-native-health-connect",
+      "expo-maps"
+    ],
+    "experiments": {
+      "reactCompiler": true
+    }
+  }
+}

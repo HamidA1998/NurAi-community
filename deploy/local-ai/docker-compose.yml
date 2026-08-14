@@ -1,0 +1,29 @@
+services:
+  ollama:
+    image: ollama/ollama:latest
+    restart: unless-stopped
+    environment:
+      OLLAMA_HOST: 0.0.0.0:11434
+    volumes:
+      - ollama-models:/root/.ollama
+    # On GPU hosts with NVIDIA Container Toolkit, uncomment:
+    # gpus: all
+
+  auth-proxy:
+    image: node:22-alpine
+    restart: unless-stopped
+    working_dir: /app
+    command: ["node", "auth-proxy.mjs"]
+    environment:
+      PORT: 8080
+      OLLAMA_UPSTREAM_URL: http://ollama:11434
+      NURAI_LOCAL_AI_API_KEY: ${NURAI_LOCAL_AI_API_KEY}
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./auth-proxy.mjs:/app/auth-proxy.mjs:ro
+    depends_on:
+      - ollama
+
+volumes:
+  ollama-models:

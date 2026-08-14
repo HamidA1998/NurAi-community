@@ -1,0 +1,45 @@
+appId: uk.co.eliteautomations.nurai
+name: NurAI Quran and daily context visual regression
+---
+- launchApp:
+    clearState: false
+
+- extendedWaitUntil:
+    visible:
+      id: tab-home
+    timeout: 30000
+- tapOn:
+    id: tab-home
+- scrollUntilVisible:
+    element:
+      id: home-personal-ai
+    direction: DOWN
+    timeout: 20000
+- takeScreenshot: /tmp/nurai-home-daily-context
+- tapOn:
+    id: button-home-personal-ai-details
+- assertVisible: WHY THIS NOW
+- takeScreenshot: /tmp/nurai-home-daily-context-expanded
+
+- tapOn:
+    id: tab-quran
+- extendedWaitUntil:
+    visible:
+      id: input-search-surah
+    timeout: 20000
+- scrollUntilVisible:
+    element:
+      id: surah-1
+    direction: DOWN
+    timeout: 20000
+- assertVisible:
+    id: surah-1
+- takeScreenshot: /tmp/nurai-quran-index-width
+
+- tapOn:
+    id: tab-explore
+- extendedWaitUntil:
+    visible:
+      id: explore-search
+    timeout: 15000
+- takeScreenshot: /tmp/nurai-explore-bottom-clearance

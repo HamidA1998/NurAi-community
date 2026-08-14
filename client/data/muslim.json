@@ -1,0 +1,3035 @@
+{
+  "id": "muslim",
+  "name": "Sahih Muslim",
+  "arabicName": "صحيح مسلم",
+  "compiler": "Imam Muslim ibn al-Hajjaj",
+  "totalHadiths": 7500,
+  "description": "The second most authentic collection of hadith after Sahih al-Bukhari, compiled by Imam Muslim ibn al-Hajjaj. Known for its systematic arrangement and strict methodology.",
+  "sourcePolicy": "source_index_only_no_local_hadith_text",
+  "originalLocalRows": 317,
+  "verifiedSourceRows": 311,
+  "omittedUnverifiedRows": 6,
+  "chapters": [
+    {
+      "name": "Book of Faith",
+      "arabicName": "كتاب الإيمان",
+      "hadiths": [
+        {
+          "id": 412,
+          "originalReference": "Muslim 8",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 8",
+          "sourceUrl": "https://sunnah.com/muslim:8",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 413,
+          "originalReference": "Muslim 35",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 35",
+          "sourceUrl": "https://sunnah.com/muslim:35",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 414,
+          "originalReference": "Muslim 44",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 44",
+          "sourceUrl": "https://sunnah.com/muslim:44",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 415,
+          "originalReference": "Muslim 45",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 45",
+          "sourceUrl": "https://sunnah.com/muslim:45",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 416,
+          "originalReference": "Muslim 31",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 31",
+          "sourceUrl": "https://sunnah.com/muslim:31",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 417,
+          "originalReference": "Muslim 145",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 145",
+          "sourceUrl": "https://sunnah.com/muslim:145",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 418,
+          "originalReference": "Muslim (related in Abu Dawud 4833)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4833",
+          "sourceUrl": "https://sunnah.com/abudawud:4833",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 419,
+          "originalReference": "Muslim 91",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 91",
+          "sourceUrl": "https://sunnah.com/muslim:91",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 420,
+          "originalReference": "Muslim 2564",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2564",
+          "sourceUrl": "https://sunnah.com/muslim:2564",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 421,
+          "originalReference": "Muslim 55",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 55",
+          "sourceUrl": "https://sunnah.com/muslim:55",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 422,
+          "originalReference": "Muslim 59",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 59",
+          "sourceUrl": "https://sunnah.com/muslim:59",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 423,
+          "originalReference": "Muslim 1877",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1877",
+          "sourceUrl": "https://sunnah.com/muslim:1877",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 424,
+          "originalReference": "Muslim 43",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 43",
+          "sourceUrl": "https://sunnah.com/muslim:43",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 425,
+          "originalReference": "Muslim 2640",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2640",
+          "sourceUrl": "https://sunnah.com/muslim:2640",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 426,
+          "originalReference": "Muslim 83",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 83",
+          "sourceUrl": "https://sunnah.com/muslim:83",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Purification",
+      "arabicName": "كتاب الطهارة",
+      "hadiths": [
+        {
+          "id": 427,
+          "originalReference": "Muslim 223",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 223",
+          "sourceUrl": "https://sunnah.com/muslim:223",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 428,
+          "originalReference": "Muslim 244",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 244",
+          "sourceUrl": "https://sunnah.com/muslim:244",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 429,
+          "originalReference": "Muslim 245",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 245",
+          "sourceUrl": "https://sunnah.com/muslim:245",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 430,
+          "originalReference": "Muslim 251",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 251",
+          "sourceUrl": "https://sunnah.com/muslim:251",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 431,
+          "originalReference": "Muslim 224",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 224",
+          "sourceUrl": "https://sunnah.com/muslim:224",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 432,
+          "originalReference": "Muslim 261",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 261",
+          "sourceUrl": "https://sunnah.com/muslim:261",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 433,
+          "originalReference": "Muslim 257",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 257",
+          "sourceUrl": "https://sunnah.com/muslim:257",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 434,
+          "originalReference": "Muslim 252",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 252",
+          "sourceUrl": "https://sunnah.com/muslim:252",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 435,
+          "originalReference": "Muslim 258",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 258",
+          "sourceUrl": "https://sunnah.com/muslim:258",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 436,
+          "originalReference": "Muslim 278",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 278",
+          "sourceUrl": "https://sunnah.com/muslim:278",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 437,
+          "originalReference": "Muslim (related in Abu Dawud 142)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 142",
+          "sourceUrl": "https://sunnah.com/abudawud:142",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 438,
+          "originalReference": "Muslim 230",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 230",
+          "sourceUrl": "https://sunnah.com/muslim:230",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Prayer",
+      "arabicName": "كتاب الصلاة",
+      "hadiths": [
+        {
+          "id": 439,
+          "originalReference": "Muslim 82",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 82",
+          "sourceUrl": "https://sunnah.com/muslim:82",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 440,
+          "originalReference": "Muslim (related in Tirmidhi 413)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 413",
+          "sourceUrl": "https://sunnah.com/tirmidhi:413",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 441,
+          "originalReference": "Muslim 667",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 667",
+          "sourceUrl": "https://sunnah.com/muslim:667",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 442,
+          "originalReference": "Muslim 650",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 650",
+          "sourceUrl": "https://sunnah.com/muslim:650",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 443,
+          "originalReference": "Muslim 725",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 725",
+          "sourceUrl": "https://sunnah.com/muslim:725",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 444,
+          "originalReference": "Muslim 551",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 551",
+          "sourceUrl": "https://sunnah.com/muslim:551",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 445,
+          "originalReference": "Muslim 482",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 482",
+          "sourceUrl": "https://sunnah.com/muslim:482",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 446,
+          "originalReference": "Muslim 489",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 489",
+          "sourceUrl": "https://sunnah.com/muslim:489",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 447,
+          "originalReference": "Muslim 551",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 551",
+          "sourceUrl": "https://sunnah.com/muslim:551",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 448,
+          "originalReference": "Muslim 736",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 736",
+          "sourceUrl": "https://sunnah.com/muslim:736",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 449,
+          "originalReference": "Muslim 649",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 649",
+          "sourceUrl": "https://sunnah.com/muslim:649",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 450,
+          "originalReference": "Muslim 437",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 437",
+          "sourceUrl": "https://sunnah.com/muslim:437",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Mosques and Places of Prayer",
+      "arabicName": "كتاب المساجد",
+      "hadiths": [
+        {
+          "id": 451,
+          "originalReference": "Muslim 671",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 671",
+          "sourceUrl": "https://sunnah.com/muslim:671",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 452,
+          "originalReference": "Muslim 669",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 669",
+          "sourceUrl": "https://sunnah.com/muslim:669",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 453,
+          "originalReference": "Muslim 649",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 649",
+          "sourceUrl": "https://sunnah.com/muslim:649",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 454,
+          "originalReference": "Muslim 533",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 533",
+          "sourceUrl": "https://sunnah.com/muslim:533",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 455,
+          "originalReference": "Muslim 521",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 521",
+          "sourceUrl": "https://sunnah.com/muslim:521",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 456,
+          "originalReference": "Muslim 442",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 442",
+          "sourceUrl": "https://sunnah.com/muslim:442",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 457,
+          "originalReference": "Muslim 564",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 564",
+          "sourceUrl": "https://sunnah.com/muslim:564",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 458,
+          "originalReference": "Muslim 714",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 714",
+          "sourceUrl": "https://sunnah.com/muslim:714",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 459,
+          "originalReference": "Muslim 649",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 649",
+          "sourceUrl": "https://sunnah.com/muslim:649",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 460,
+          "originalReference": "Muslim 714",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 714",
+          "sourceUrl": "https://sunnah.com/muslim:714",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Travellers' Prayers",
+      "arabicName": "كتاب صلاة المسافرين",
+      "hadiths": [
+        {
+          "id": 461,
+          "originalReference": "Muslim 685",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 685",
+          "sourceUrl": "https://sunnah.com/muslim:685",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 462,
+          "originalReference": "Muslim 700",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 700",
+          "sourceUrl": "https://sunnah.com/muslim:700",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 463,
+          "originalReference": "Muslim (related in Abu Dawud 1044)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 1044",
+          "sourceUrl": "https://sunnah.com/abudawud:1044",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 464,
+          "originalReference": "Muslim 835",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 835",
+          "sourceUrl": "https://sunnah.com/muslim:835",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 465,
+          "originalReference": "Muslim 738",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 738",
+          "sourceUrl": "https://sunnah.com/muslim:738",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 466,
+          "originalReference": "Muslim 758",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 758",
+          "sourceUrl": "https://sunnah.com/muslim:758",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 467,
+          "originalReference": "Muslim 756",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 756",
+          "sourceUrl": "https://sunnah.com/muslim:756",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 468,
+          "originalReference": "Muslim 787",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 787",
+          "sourceUrl": "https://sunnah.com/muslim:787",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 469,
+          "originalReference": "Muslim 787",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 787",
+          "sourceUrl": "https://sunnah.com/muslim:787",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 470,
+          "originalReference": "Muslim 744",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 744",
+          "sourceUrl": "https://sunnah.com/muslim:744",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Friday Prayer",
+      "arabicName": "كتاب الجمعة",
+      "hadiths": [
+        {
+          "id": 471,
+          "originalReference": "Muslim 854",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 854",
+          "sourceUrl": "https://sunnah.com/muslim:854",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 472,
+          "originalReference": "Muslim 852",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 852",
+          "sourceUrl": "https://sunnah.com/muslim:852",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 473,
+          "originalReference": "Muslim 850",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 850",
+          "sourceUrl": "https://sunnah.com/muslim:850",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 474,
+          "originalReference": "Muslim 850",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 850",
+          "sourceUrl": "https://sunnah.com/muslim:850",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 475,
+          "originalReference": "Muslim 857",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 857",
+          "sourceUrl": "https://sunnah.com/muslim:857",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 476,
+          "originalReference": "Muslim 844",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 844",
+          "sourceUrl": "https://sunnah.com/muslim:844",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 477,
+          "originalReference": "Muslim 229",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 229",
+          "sourceUrl": "https://sunnah.com/muslim:229",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 478,
+          "originalReference": "Muslim 2551 (related)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2551",
+          "sourceUrl": "https://sunnah.com/muslim:2551",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 479,
+          "originalReference": "Muslim 233",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 233",
+          "sourceUrl": "https://sunnah.com/muslim:233",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 480,
+          "originalReference": "Muslim 861",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 861",
+          "sourceUrl": "https://sunnah.com/muslim:861",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Eid Prayers",
+      "arabicName": "كتاب صلاة العيدين",
+      "hadiths": [
+        {
+          "id": 481,
+          "originalReference": "Muslim 1252 (related in Bukhari 986)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1252",
+          "sourceUrl": "https://sunnah.com/muslim:1252",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 482,
+          "originalReference": "Muslim 890",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 890",
+          "sourceUrl": "https://sunnah.com/muslim:890",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 483,
+          "originalReference": "Muslim 889",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 889",
+          "sourceUrl": "https://sunnah.com/muslim:889",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 484,
+          "originalReference": "Muslim (related in Bukhari 953)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 953",
+          "sourceUrl": "https://sunnah.com/bukhari:953",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 485,
+          "originalReference": "Muslim 1141",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1141",
+          "sourceUrl": "https://sunnah.com/muslim:1141",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 486,
+          "originalReference": "Muslim (related in Ibn Majah 1782)",
+          "sourceCollectionId": "ibn_majah",
+          "sourceCollectionName": "Sunan Ibn Majah",
+          "sourceReference": "Sunan Ibn Majah 1782",
+          "sourceUrl": "https://sunnah.com/ibnmajah:1782",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 487,
+          "originalReference": "Muslim 888",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 888",
+          "sourceUrl": "https://sunnah.com/muslim:888",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 488,
+          "originalReference": "Muslim (related in Bukhari 986)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 986",
+          "sourceUrl": "https://sunnah.com/bukhari:986",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Funeral Prayer",
+      "arabicName": "كتاب الجنائز",
+      "hadiths": [
+        {
+          "id": 489,
+          "originalReference": "Muslim 944",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 944",
+          "sourceUrl": "https://sunnah.com/muslim:944",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 490,
+          "originalReference": "Muslim 945",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 945",
+          "sourceUrl": "https://sunnah.com/muslim:945",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 491,
+          "originalReference": "Muslim 2564 (related)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2564",
+          "sourceUrl": "https://sunnah.com/muslim:2564",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 492,
+          "originalReference": "Muslim 2658",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2658",
+          "sourceUrl": "https://sunnah.com/muslim:2658",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 493,
+          "originalReference": "Muslim (related in Tirmidhi 2307)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2307",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2307",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 494,
+          "originalReference": "Muslim 941",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 941",
+          "sourceUrl": "https://sunnah.com/muslim:941",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 495,
+          "originalReference": "Muslim 945",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 945",
+          "sourceUrl": "https://sunnah.com/muslim:945",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 496,
+          "originalReference": "Muslim 951",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 951",
+          "sourceUrl": "https://sunnah.com/muslim:951",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 497,
+          "originalReference": "Muslim 2870",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2870",
+          "sourceUrl": "https://sunnah.com/muslim:2870",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 498,
+          "originalReference": "Muslim 1631",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1631",
+          "sourceUrl": "https://sunnah.com/muslim:1631",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Zakat",
+      "arabicName": "كتاب الزكاة",
+      "hadiths": [
+        {
+          "id": 499,
+          "originalReference": "Muslim 1014",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1014",
+          "sourceUrl": "https://sunnah.com/muslim:1014",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 500,
+          "originalReference": "Muslim 2588",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2588",
+          "sourceUrl": "https://sunnah.com/muslim:2588",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 501,
+          "originalReference": "Muslim 1033",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1033",
+          "sourceUrl": "https://sunnah.com/muslim:1033",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 502,
+          "originalReference": "Muslim 2311",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2311",
+          "sourceUrl": "https://sunnah.com/muslim:2311",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 503,
+          "originalReference": "Muslim 1010",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1010",
+          "sourceUrl": "https://sunnah.com/muslim:1010",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 504,
+          "originalReference": "Muslim 1032",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1032",
+          "sourceUrl": "https://sunnah.com/muslim:1032",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 505,
+          "originalReference": "Muslim 1016",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1016",
+          "sourceUrl": "https://sunnah.com/muslim:1016",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 506,
+          "originalReference": "Muslim 1024",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1024",
+          "sourceUrl": "https://sunnah.com/muslim:1024",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 507,
+          "originalReference": "Muslim 1022",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1022",
+          "sourceUrl": "https://sunnah.com/muslim:1022",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 508,
+          "originalReference": "Muslim 1010",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1010",
+          "sourceUrl": "https://sunnah.com/muslim:1010",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Fasting",
+      "arabicName": "كتاب الصيام",
+      "hadiths": [
+        {
+          "id": 509,
+          "originalReference": "Muslim 1079",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1079",
+          "sourceUrl": "https://sunnah.com/muslim:1079",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 510,
+          "originalReference": "Muslim 760",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 760",
+          "sourceUrl": "https://sunnah.com/muslim:760",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 511,
+          "originalReference": "Muslim 1151",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1151",
+          "sourceUrl": "https://sunnah.com/muslim:1151",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 512,
+          "originalReference": "Muslim 1151",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1151",
+          "sourceUrl": "https://sunnah.com/muslim:1151",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 513,
+          "originalReference": "Muslim 1152",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1152",
+          "sourceUrl": "https://sunnah.com/muslim:1152",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 514,
+          "originalReference": "Muslim 1144",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1144",
+          "sourceUrl": "https://sunnah.com/muslim:1144",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 515,
+          "originalReference": "Muslim 1147",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1147",
+          "sourceUrl": "https://sunnah.com/muslim:1147",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 516,
+          "originalReference": "Muslim 1156",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1156",
+          "sourceUrl": "https://sunnah.com/muslim:1156",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 517,
+          "originalReference": "Muslim 1155",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1155",
+          "sourceUrl": "https://sunnah.com/muslim:1155",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 518,
+          "originalReference": "Muslim 1164",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1164",
+          "sourceUrl": "https://sunnah.com/muslim:1164",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Pilgrimage",
+      "arabicName": "كتاب الحج",
+      "hadiths": [
+        {
+          "id": 519,
+          "originalReference": "Muslim 1350",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1350",
+          "sourceUrl": "https://sunnah.com/muslim:1350",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 520,
+          "originalReference": "Muslim 1349",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1349",
+          "sourceUrl": "https://sunnah.com/muslim:1349",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 521,
+          "originalReference": "Muslim 1348",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1348",
+          "sourceUrl": "https://sunnah.com/muslim:1348",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 522,
+          "originalReference": "Muslim 1297",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1297",
+          "sourceUrl": "https://sunnah.com/muslim:1297",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 523,
+          "originalReference": "Muslim 1337",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1337",
+          "sourceUrl": "https://sunnah.com/muslim:1337",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 524,
+          "originalReference": "Muslim 1184",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1184",
+          "sourceUrl": "https://sunnah.com/muslim:1184",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 525,
+          "originalReference": "Muslim 1341",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1341",
+          "sourceUrl": "https://sunnah.com/muslim:1341",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 526,
+          "originalReference": "Muslim 1218",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1218",
+          "sourceUrl": "https://sunnah.com/muslim:1218",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 527,
+          "originalReference": "Muslim 1256",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1256",
+          "sourceUrl": "https://sunnah.com/muslim:1256",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 528,
+          "originalReference": "Muslim (related in Tirmidhi 961)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 961",
+          "sourceUrl": "https://sunnah.com/tirmidhi:961",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Marriage",
+      "arabicName": "كتاب النكاح",
+      "hadiths": [
+        {
+          "id": 529,
+          "originalReference": "Muslim 1400",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1400",
+          "sourceUrl": "https://sunnah.com/muslim:1400",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 530,
+          "originalReference": "Muslim 1466",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1466",
+          "sourceUrl": "https://sunnah.com/muslim:1466",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 531,
+          "originalReference": "Muslim 1469",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1469",
+          "sourceUrl": "https://sunnah.com/muslim:1469",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 532,
+          "originalReference": "Muslim 1218",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1218",
+          "sourceUrl": "https://sunnah.com/muslim:1218",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 533,
+          "originalReference": "Muslim (related in Tirmidhi 3895)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 3895",
+          "sourceUrl": "https://sunnah.com/tirmidhi:3895",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 534,
+          "originalReference": "Muslim (related in Tirmidhi 3895)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 3895",
+          "sourceUrl": "https://sunnah.com/tirmidhi:3895",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 535,
+          "originalReference": "Muslim 1469",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1469",
+          "sourceUrl": "https://sunnah.com/muslim:1469",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 536,
+          "originalReference": "Muslim 1218",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1218",
+          "sourceUrl": "https://sunnah.com/muslim:1218",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 537,
+          "originalReference": "Muslim 2328",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2328",
+          "sourceUrl": "https://sunnah.com/muslim:2328",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 538,
+          "originalReference": "Muslim 1468",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1468",
+          "sourceUrl": "https://sunnah.com/muslim:1468",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Transactions",
+      "arabicName": "كتاب البيوع",
+      "hadiths": [
+        {
+          "id": 539,
+          "originalReference": "Muslim 1525",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1525",
+          "sourceUrl": "https://sunnah.com/muslim:1525",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 540,
+          "originalReference": "Muslim 1536",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1536",
+          "sourceUrl": "https://sunnah.com/muslim:1536",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 541,
+          "originalReference": "Muslim 1519",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1519",
+          "sourceUrl": "https://sunnah.com/muslim:1519",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 542,
+          "originalReference": "Muslim 1514 (related in Abu Dawud 3503)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1514",
+          "sourceUrl": "https://sunnah.com/muslim:1514",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 543,
+          "originalReference": "Muslim 1516",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1516",
+          "sourceUrl": "https://sunnah.com/muslim:1516",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 544,
+          "originalReference": "Muslim 1531",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1531",
+          "sourceUrl": "https://sunnah.com/muslim:1531",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 545,
+          "originalReference": "Muslim 1598",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1598",
+          "sourceUrl": "https://sunnah.com/muslim:1598",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 546,
+          "originalReference": "Muslim 2699",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2699",
+          "sourceUrl": "https://sunnah.com/muslim:2699",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Inheritance",
+      "arabicName": "كتاب الفرائض",
+      "hadiths": [
+        {
+          "id": 547,
+          "originalReference": "Muslim 1615",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1615",
+          "sourceUrl": "https://sunnah.com/muslim:1615",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 548,
+          "originalReference": "Muslim 1614",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1614",
+          "sourceUrl": "https://sunnah.com/muslim:1614",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 549,
+          "originalReference": "Muslim 1619",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1619",
+          "sourceUrl": "https://sunnah.com/muslim:1619",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 550,
+          "originalReference": "Muslim 1628",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1628",
+          "sourceUrl": "https://sunnah.com/muslim:1628",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 551,
+          "originalReference": "Muslim 1147",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1147",
+          "sourceUrl": "https://sunnah.com/muslim:1147",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 552,
+          "originalReference": "Muslim 1631",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1631",
+          "sourceUrl": "https://sunnah.com/muslim:1631",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 553,
+          "originalReference": "Muslim (related in Abu Dawud 2891)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2891",
+          "sourceUrl": "https://sunnah.com/abudawud:2891",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 554,
+          "originalReference": "Muslim 1619",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1619",
+          "sourceUrl": "https://sunnah.com/muslim:1619",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Gifts",
+      "arabicName": "كتاب الهبات",
+      "hadiths": [
+        {
+          "id": 555,
+          "originalReference": "Muslim (related in Tirmidhi 2130)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2130",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2130",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 556,
+          "originalReference": "Muslim (related in Bukhari 2585)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2585",
+          "sourceUrl": "https://sunnah.com/bukhari:2585",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 557,
+          "originalReference": "Muslim 1623",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1623",
+          "sourceUrl": "https://sunnah.com/muslim:1623",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 558,
+          "originalReference": "Muslim 1622",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1622",
+          "sourceUrl": "https://sunnah.com/muslim:1622",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 559,
+          "originalReference": "Muslim 1030",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1030",
+          "sourceUrl": "https://sunnah.com/muslim:1030",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 560,
+          "originalReference": "Muslim 2253",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2253",
+          "sourceUrl": "https://sunnah.com/muslim:2253",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 562,
+          "originalReference": "Muslim (related in Bukhari 2568)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2568",
+          "sourceUrl": "https://sunnah.com/bukhari:2568",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Bequests",
+      "arabicName": "كتاب الوصية",
+      "hadiths": [
+        {
+          "id": 563,
+          "originalReference": "Muslim 1627",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1627",
+          "sourceUrl": "https://sunnah.com/muslim:1627",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 564,
+          "originalReference": "Muslim 1628",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1628",
+          "sourceUrl": "https://sunnah.com/muslim:1628",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 565,
+          "originalReference": "Muslim 1631",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1631",
+          "sourceUrl": "https://sunnah.com/muslim:1631",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 566,
+          "originalReference": "Muslim 1635",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1635",
+          "sourceUrl": "https://sunnah.com/muslim:1635",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 568,
+          "originalReference": "Muslim (related in Abu Dawud 2870)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2870",
+          "sourceUrl": "https://sunnah.com/abudawud:2870",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 569,
+          "originalReference": "Muslim 998",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 998",
+          "sourceUrl": "https://sunnah.com/muslim:998",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 570,
+          "originalReference": "Muslim 1631",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1631",
+          "sourceUrl": "https://sunnah.com/muslim:1631",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Vows",
+      "arabicName": "كتاب النذر",
+      "hadiths": [
+        {
+          "id": 571,
+          "originalReference": "Muslim 1639",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1639",
+          "sourceUrl": "https://sunnah.com/muslim:1639",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 572,
+          "originalReference": "Muslim 1640",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1640",
+          "sourceUrl": "https://sunnah.com/muslim:1640",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 573,
+          "originalReference": "Muslim 1641",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1641",
+          "sourceUrl": "https://sunnah.com/muslim:1641",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 574,
+          "originalReference": "Muslim 2535",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2535",
+          "sourceUrl": "https://sunnah.com/muslim:2535",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 575,
+          "originalReference": "Muslim 1640",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1640",
+          "sourceUrl": "https://sunnah.com/muslim:1640",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 576,
+          "originalReference": "Muslim 1645",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1645",
+          "sourceUrl": "https://sunnah.com/muslim:1645",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Oaths",
+      "arabicName": "كتاب الأيمان",
+      "hadiths": [
+        {
+          "id": 577,
+          "originalReference": "Muslim 1650",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1650",
+          "sourceUrl": "https://sunnah.com/muslim:1650",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 578,
+          "originalReference": "Muslim 1649",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1649",
+          "sourceUrl": "https://sunnah.com/muslim:1649",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 579,
+          "originalReference": "Muslim (related in Abu Dawud 3251)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3251",
+          "sourceUrl": "https://sunnah.com/abudawud:3251",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 580,
+          "originalReference": "Muslim 1646 (related)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1646",
+          "sourceUrl": "https://sunnah.com/muslim:1646",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 581,
+          "originalReference": "Muslim 1648",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1648",
+          "sourceUrl": "https://sunnah.com/muslim:1648",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 582,
+          "originalReference": "Muslim 1653",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1653",
+          "sourceUrl": "https://sunnah.com/muslim:1653",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Judicial Punishments",
+      "arabicName": "كتاب القسامة",
+      "hadiths": [
+        {
+          "id": 583,
+          "originalReference": "Muslim 1676",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1676",
+          "sourceUrl": "https://sunnah.com/muslim:1676",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 584,
+          "originalReference": "Muslim 1691",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1691",
+          "sourceUrl": "https://sunnah.com/muslim:1691",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 585,
+          "originalReference": "Muslim 1684",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1684",
+          "sourceUrl": "https://sunnah.com/muslim:1684",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 586,
+          "originalReference": "Muslim 89",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 89",
+          "sourceUrl": "https://sunnah.com/muslim:89",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 587,
+          "originalReference": "Muslim 2563",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2563",
+          "sourceUrl": "https://sunnah.com/muslim:2563",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 588,
+          "originalReference": "Muslim (related in Tirmidhi 1424)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1424",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1424",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Jihad and Expeditions",
+      "arabicName": "كتاب الجهاد والسير",
+      "hadiths": [
+        {
+          "id": 589,
+          "originalReference": "Muslim 1910",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1910",
+          "sourceUrl": "https://sunnah.com/muslim:1910",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 590,
+          "originalReference": "Muslim 1880",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1880",
+          "sourceUrl": "https://sunnah.com/muslim:1880",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 591,
+          "originalReference": "Muslim 1742",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1742",
+          "sourceUrl": "https://sunnah.com/muslim:1742",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 592,
+          "originalReference": "Muslim 1884",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1884",
+          "sourceUrl": "https://sunnah.com/muslim:1884",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 593,
+          "originalReference": "Muslim 1878",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1878",
+          "sourceUrl": "https://sunnah.com/muslim:1878",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 594,
+          "originalReference": "Muslim 1877",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1877",
+          "sourceUrl": "https://sunnah.com/muslim:1877",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 595,
+          "originalReference": "Muslim 1904",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1904",
+          "sourceUrl": "https://sunnah.com/muslim:1904",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 596,
+          "originalReference": "Muslim 1913",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1913",
+          "sourceUrl": "https://sunnah.com/muslim:1913",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Government",
+      "arabicName": "كتاب الإمارة",
+      "hadiths": [
+        {
+          "id": 597,
+          "originalReference": "Muslim 1829",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1829",
+          "sourceUrl": "https://sunnah.com/muslim:1829",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 598,
+          "originalReference": "Muslim 1826",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1826",
+          "sourceUrl": "https://sunnah.com/muslim:1826",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 599,
+          "originalReference": "Muslim (related in Abu Dawud 2932)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 2932",
+          "sourceUrl": "https://sunnah.com/abudawud:2932",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 600,
+          "originalReference": "Muslim 142",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 142",
+          "sourceUrl": "https://sunnah.com/muslim:142",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 601,
+          "originalReference": "Muslim (related in Bukhari 7148)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 7148",
+          "sourceUrl": "https://sunnah.com/bukhari:7148",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 602,
+          "originalReference": "Muslim 1855",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1855",
+          "sourceUrl": "https://sunnah.com/muslim:1855",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 603,
+          "originalReference": "Muslim 1835",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1835",
+          "sourceUrl": "https://sunnah.com/muslim:1835",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 604,
+          "originalReference": "Muslim 1839",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1839",
+          "sourceUrl": "https://sunnah.com/muslim:1839",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Hunting and Slaughter",
+      "arabicName": "كتاب الصيد والذبائح",
+      "hadiths": [
+        {
+          "id": 605,
+          "originalReference": "Muslim 1955",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1955",
+          "sourceUrl": "https://sunnah.com/muslim:1955",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 606,
+          "originalReference": "Muslim 1957",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1957",
+          "sourceUrl": "https://sunnah.com/muslim:1957",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 607,
+          "originalReference": "Muslim 1929",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1929",
+          "sourceUrl": "https://sunnah.com/muslim:1929",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 608,
+          "originalReference": "Muslim 1574",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1574",
+          "sourceUrl": "https://sunnah.com/muslim:1574",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 609,
+          "originalReference": "Muslim 1968",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1968",
+          "sourceUrl": "https://sunnah.com/muslim:1968",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 610,
+          "originalReference": "Muslim 1941",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1941",
+          "sourceUrl": "https://sunnah.com/muslim:1941",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Sacrifices",
+      "arabicName": "كتاب الأضاحي",
+      "hadiths": [
+        {
+          "id": 611,
+          "originalReference": "Muslim 1966",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1966",
+          "sourceUrl": "https://sunnah.com/muslim:1966",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 612,
+          "originalReference": "Muslim 1963",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1963",
+          "sourceUrl": "https://sunnah.com/muslim:1963",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 613,
+          "originalReference": "Muslim 1977",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1977",
+          "sourceUrl": "https://sunnah.com/muslim:1977",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 614,
+          "originalReference": "Muslim 1317",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1317",
+          "sourceUrl": "https://sunnah.com/muslim:1317",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 615,
+          "originalReference": "Muslim (related in Tirmidhi 1493)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1493",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1493",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 616,
+          "originalReference": "Muslim (related in Ibn Majah 3123)",
+          "sourceCollectionId": "ibn_majah",
+          "sourceCollectionName": "Sunan Ibn Majah",
+          "sourceReference": "Sunan Ibn Majah 3123",
+          "sourceUrl": "https://sunnah.com/ibnmajah:3123",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Drinks",
+      "arabicName": "كتاب الأشربة",
+      "hadiths": [
+        {
+          "id": 617,
+          "originalReference": "Muslim 2003",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2003",
+          "sourceUrl": "https://sunnah.com/muslim:2003",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 618,
+          "originalReference": "Muslim (related in Tirmidhi 1862)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1862",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1862",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 619,
+          "originalReference": "Muslim (related in Abu Dawud 3681)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3681",
+          "sourceUrl": "https://sunnah.com/abudawud:3681",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 620,
+          "originalReference": "Muslim 2065",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2065",
+          "sourceUrl": "https://sunnah.com/muslim:2065",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 621,
+          "originalReference": "Muslim 2023",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2023",
+          "sourceUrl": "https://sunnah.com/muslim:2023",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 622,
+          "originalReference": "Muslim (related in Tirmidhi 1885)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1885",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1885",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 623,
+          "originalReference": "Muslim 2028",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2028",
+          "sourceUrl": "https://sunnah.com/muslim:2028",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 624,
+          "originalReference": "Muslim 267 (related)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 267",
+          "sourceUrl": "https://sunnah.com/muslim:267",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Clothing and Adornment",
+      "arabicName": "كتاب اللباس والزينة",
+      "hadiths": [
+        {
+          "id": 625,
+          "originalReference": "Muslim 2085",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2085",
+          "sourceUrl": "https://sunnah.com/muslim:2085",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 626,
+          "originalReference": "Muslim 2085",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2085",
+          "sourceUrl": "https://sunnah.com/muslim:2085",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 627,
+          "originalReference": "Muslim 2078",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2078",
+          "sourceUrl": "https://sunnah.com/muslim:2078",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 628,
+          "originalReference": "Muslim 2067",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2067",
+          "sourceUrl": "https://sunnah.com/muslim:2067",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 629,
+          "originalReference": "Muslim 2073",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2073",
+          "sourceUrl": "https://sunnah.com/muslim:2073",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 630,
+          "originalReference": "Muslim 268",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 268",
+          "sourceUrl": "https://sunnah.com/muslim:268",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 631,
+          "originalReference": "Muslim (related in Abu Dawud 4061)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 4061",
+          "sourceUrl": "https://sunnah.com/abudawud:4061",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Manners and Etiquette",
+      "arabicName": "كتاب الآداب",
+      "hadiths": [
+        {
+          "id": 633,
+          "originalReference": "Muslim 2247",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2247",
+          "sourceUrl": "https://sunnah.com/muslim:2247",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 634,
+          "originalReference": "Muslim 2309",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2309",
+          "sourceUrl": "https://sunnah.com/muslim:2309",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 635,
+          "originalReference": "Muslim 2609",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2609",
+          "sourceUrl": "https://sunnah.com/muslim:2609",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 636,
+          "originalReference": "Muslim 2563",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2563",
+          "sourceUrl": "https://sunnah.com/muslim:2563",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 637,
+          "originalReference": "Muslim 2578",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2578",
+          "sourceUrl": "https://sunnah.com/muslim:2578",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 638,
+          "originalReference": "Muslim 2553",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2553",
+          "sourceUrl": "https://sunnah.com/muslim:2553",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 639,
+          "originalReference": "Muslim (related in Tirmidhi 1987)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1987",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1987",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 640,
+          "originalReference": "Muslim (related in Tirmidhi 1162)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 1162",
+          "sourceUrl": "https://sunnah.com/tirmidhi:1162",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 641,
+          "originalReference": "Muslim 2594",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2594",
+          "sourceUrl": "https://sunnah.com/muslim:2594",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 642,
+          "originalReference": "Muslim 2559",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2559",
+          "sourceUrl": "https://sunnah.com/muslim:2559",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Greetings",
+      "arabicName": "كتاب السلام",
+      "hadiths": [
+        {
+          "id": 643,
+          "originalReference": "Muslim 54",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 54",
+          "sourceUrl": "https://sunnah.com/muslim:54",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 644,
+          "originalReference": "Muslim 2160",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2160",
+          "sourceUrl": "https://sunnah.com/muslim:2160",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 645,
+          "originalReference": "Muslim 2163",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2163",
+          "sourceUrl": "https://sunnah.com/muslim:2163",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 646,
+          "originalReference": "Muslim (related in Tirmidhi 2698)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2698",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2698",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 647,
+          "originalReference": "Muslim 2162",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2162",
+          "sourceUrl": "https://sunnah.com/muslim:2162",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 648,
+          "originalReference": "Muslim 2992 (related)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2992",
+          "sourceUrl": "https://sunnah.com/muslim:2992",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 649,
+          "originalReference": "Muslim 2160",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2160",
+          "sourceUrl": "https://sunnah.com/muslim:2160",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 650,
+          "originalReference": "Muslim (related in Abu Dawud 5197)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 5197",
+          "sourceUrl": "https://sunnah.com/abudawud:5197",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Words of Kindness",
+      "arabicName": "كتاب البر والصلة",
+      "hadiths": [
+        {
+          "id": 651,
+          "originalReference": "Muslim 2548",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2548",
+          "sourceUrl": "https://sunnah.com/muslim:2548",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 652,
+          "originalReference": "Muslim 2551",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2551",
+          "sourceUrl": "https://sunnah.com/muslim:2551",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 653,
+          "originalReference": "Muslim 2699",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2699",
+          "sourceUrl": "https://sunnah.com/muslim:2699",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 654,
+          "originalReference": "Muslim 2586",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2586",
+          "sourceUrl": "https://sunnah.com/muslim:2586",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 656,
+          "originalReference": "Muslim 1005",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1005",
+          "sourceUrl": "https://sunnah.com/muslim:1005",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 657,
+          "originalReference": "Muslim 2699",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2699",
+          "sourceUrl": "https://sunnah.com/muslim:2699",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 658,
+          "originalReference": "Muslim 2564",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2564",
+          "sourceUrl": "https://sunnah.com/muslim:2564",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Destiny",
+      "arabicName": "كتاب القدر",
+      "hadiths": [
+        {
+          "id": 659,
+          "originalReference": "Muslim 2664",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2664",
+          "sourceUrl": "https://sunnah.com/muslim:2664",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 660,
+          "originalReference": "Muslim 2878",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2878",
+          "sourceUrl": "https://sunnah.com/muslim:2878",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 661,
+          "originalReference": "Muslim (related in Tirmidhi 2398)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2398",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2398",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 662,
+          "originalReference": "Muslim 2664",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2664",
+          "sourceUrl": "https://sunnah.com/muslim:2664",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 663,
+          "originalReference": "Muslim 2999",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2999",
+          "sourceUrl": "https://sunnah.com/muslim:2999",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 665,
+          "originalReference": "Muslim 2647",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2647",
+          "sourceUrl": "https://sunnah.com/muslim:2647",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Knowledge",
+      "arabicName": "كتاب العلم",
+      "hadiths": [
+        {
+          "id": 667,
+          "originalReference": "Muslim 2699",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2699",
+          "sourceUrl": "https://sunnah.com/muslim:2699",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 668,
+          "originalReference": "Muslim 1631",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1631",
+          "sourceUrl": "https://sunnah.com/muslim:1631",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 669,
+          "originalReference": "Muslim 2674",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2674",
+          "sourceUrl": "https://sunnah.com/muslim:2674",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 670,
+          "originalReference": "Muslim (related in Ibn Majah 224)",
+          "sourceCollectionId": "ibn_majah",
+          "sourceCollectionName": "Sunan Ibn Majah",
+          "sourceReference": "Sunan Ibn Majah 224",
+          "sourceUrl": "https://sunnah.com/ibnmajah:224",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 671,
+          "originalReference": "Muslim 2638",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2638",
+          "sourceUrl": "https://sunnah.com/muslim:2638",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 672,
+          "originalReference": "Muslim (related in Abu Dawud 3658)",
+          "sourceCollectionId": "abu_dawud",
+          "sourceCollectionName": "Sunan Abi Dawud",
+          "sourceReference": "Sunan Abi Dawud 3658",
+          "sourceUrl": "https://sunnah.com/abudawud:3658",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 673,
+          "originalReference": "Muslim (related in Bukhari 71)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 71",
+          "sourceUrl": "https://sunnah.com/bukhari:71",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 674,
+          "originalReference": "Muslim (related in Tirmidhi 2322)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2322",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2322",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Remembrance of Allah",
+      "arabicName": "كتاب الذكر",
+      "hadiths": [
+        {
+          "id": 675,
+          "originalReference": "Muslim 2675",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2675",
+          "sourceUrl": "https://sunnah.com/muslim:2675",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 676,
+          "originalReference": "Muslim 2694",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2694",
+          "sourceUrl": "https://sunnah.com/muslim:2694",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 677,
+          "originalReference": "Muslim 2691",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2691",
+          "sourceUrl": "https://sunnah.com/muslim:2691",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 678,
+          "originalReference": "Muslim (related in Bukhari 6407)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 6407",
+          "sourceUrl": "https://sunnah.com/bukhari:6407",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 679,
+          "originalReference": "Muslim 2693",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2693",
+          "sourceUrl": "https://sunnah.com/muslim:2693",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 680,
+          "originalReference": "Muslim (related in Tirmidhi 3383)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 3383",
+          "sourceUrl": "https://sunnah.com/tirmidhi:3383",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 681,
+          "originalReference": "Muslim (related in Tirmidhi 3377)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 3377",
+          "sourceUrl": "https://sunnah.com/tirmidhi:3377",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 682,
+          "originalReference": "Muslim 2731",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2731",
+          "sourceUrl": "https://sunnah.com/muslim:2731",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Repentance",
+      "arabicName": "كتاب التوبة",
+      "hadiths": [
+        {
+          "id": 683,
+          "originalReference": "Muslim 2749",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2749",
+          "sourceUrl": "https://sunnah.com/muslim:2749",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 684,
+          "originalReference": "Muslim 2747",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2747",
+          "sourceUrl": "https://sunnah.com/muslim:2747",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 685,
+          "originalReference": "Muslim 2759",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2759",
+          "sourceUrl": "https://sunnah.com/muslim:2759",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 686,
+          "originalReference": "Muslim 2758",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2758",
+          "sourceUrl": "https://sunnah.com/muslim:2758",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 687,
+          "originalReference": "Muslim 2749",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2749",
+          "sourceUrl": "https://sunnah.com/muslim:2749",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 688,
+          "originalReference": "Muslim 2702",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2702",
+          "sourceUrl": "https://sunnah.com/muslim:2702",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 689,
+          "originalReference": "Muslim 758",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 758",
+          "sourceUrl": "https://sunnah.com/muslim:758",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 690,
+          "originalReference": "Muslim (related in Tirmidhi 2499)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2499",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2499",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Characteristics of Hypocrites",
+      "arabicName": "كتاب صفات المنافقين",
+      "hadiths": [
+        {
+          "id": 691,
+          "originalReference": "Muslim 59",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 59",
+          "sourceUrl": "https://sunnah.com/muslim:59",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 692,
+          "originalReference": "Muslim 58",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 58",
+          "sourceUrl": "https://sunnah.com/muslim:58",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 693,
+          "originalReference": "Muslim 2668",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2668",
+          "sourceUrl": "https://sunnah.com/muslim:2668",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 694,
+          "originalReference": "Muslim 91",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 91",
+          "sourceUrl": "https://sunnah.com/muslim:91",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 695,
+          "originalReference": "Muslim 1910",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1910",
+          "sourceUrl": "https://sunnah.com/muslim:1910",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 696,
+          "originalReference": "Muslim 651",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 651",
+          "sourceUrl": "https://sunnah.com/muslim:651",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of the Day of Judgment",
+      "arabicName": "كتاب صفة القيامة",
+      "hadiths": [
+        {
+          "id": 697,
+          "originalReference": "Muslim 2859",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2859",
+          "sourceUrl": "https://sunnah.com/muslim:2859",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 698,
+          "originalReference": "Muslim 1905",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1905",
+          "sourceUrl": "https://sunnah.com/muslim:1905",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 699,
+          "originalReference": "Muslim 2864",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2864",
+          "sourceUrl": "https://sunnah.com/muslim:2864",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 700,
+          "originalReference": "Muslim 2569",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2569",
+          "sourceUrl": "https://sunnah.com/muslim:2569",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 701,
+          "originalReference": "Muslim (related in Tirmidhi 2336)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2336",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2336",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 702,
+          "originalReference": "Muslim (related in Bukhari 2449)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 2449",
+          "sourceUrl": "https://sunnah.com/bukhari:2449",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 703,
+          "originalReference": "Muslim 2876",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2876",
+          "sourceUrl": "https://sunnah.com/muslim:2876",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 704,
+          "originalReference": "Muslim (related in Tirmidhi 413)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 413",
+          "sourceUrl": "https://sunnah.com/tirmidhi:413",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Paradise",
+      "arabicName": "كتاب الجنة",
+      "hadiths": [
+        {
+          "id": 705,
+          "originalReference": "Muslim 2824",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2824",
+          "sourceUrl": "https://sunnah.com/muslim:2824",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 706,
+          "originalReference": "Muslim 2834",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2834",
+          "sourceUrl": "https://sunnah.com/muslim:2834",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 707,
+          "originalReference": "Muslim 2826",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2826",
+          "sourceUrl": "https://sunnah.com/muslim:2826",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 708,
+          "originalReference": "Muslim 2825",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2825",
+          "sourceUrl": "https://sunnah.com/muslim:2825",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 709,
+          "originalReference": "Muslim 2831",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2831",
+          "sourceUrl": "https://sunnah.com/muslim:2831",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 710,
+          "originalReference": "Muslim (related in Tirmidhi 2562)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2562",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2562",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 711,
+          "originalReference": "Muslim 2835",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2835",
+          "sourceUrl": "https://sunnah.com/muslim:2835",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 712,
+          "originalReference": "Muslim 2826 (related in Bukhari 3250)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2826",
+          "sourceUrl": "https://sunnah.com/muslim:2826",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Tribulations",
+      "arabicName": "كتاب الفتن",
+      "hadiths": [
+        {
+          "id": 713,
+          "originalReference": "Muslim 144",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 144",
+          "sourceUrl": "https://sunnah.com/muslim:144",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 714,
+          "originalReference": "Muslim 118",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 118",
+          "sourceUrl": "https://sunnah.com/muslim:118",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 715,
+          "originalReference": "Muslim 157",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 157",
+          "sourceUrl": "https://sunnah.com/muslim:157",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 716,
+          "originalReference": "Muslim 2937",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2937",
+          "sourceUrl": "https://sunnah.com/muslim:2937",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 717,
+          "originalReference": "Muslim 157",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 157",
+          "sourceUrl": "https://sunnah.com/muslim:157",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 718,
+          "originalReference": "Muslim (related in Bukhari 1036)",
+          "sourceCollectionId": "bukhari",
+          "sourceCollectionName": "Sahih al-Bukhari",
+          "sourceReference": "Sahih al-Bukhari 1036",
+          "sourceUrl": "https://sunnah.com/bukhari:1036",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 719,
+          "originalReference": "Muslim 1847",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1847",
+          "sourceUrl": "https://sunnah.com/muslim:1847",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 720,
+          "originalReference": "Muslim 157 (related)",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 157",
+          "sourceUrl": "https://sunnah.com/muslim:157",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "name": "Book of Asceticism",
+      "arabicName": "كتاب الزهد",
+      "hadiths": [
+        {
+          "id": 721,
+          "originalReference": "Muslim 2956",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2956",
+          "sourceUrl": "https://sunnah.com/muslim:2956",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 722,
+          "originalReference": "Muslim 2963",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2963",
+          "sourceUrl": "https://sunnah.com/muslim:2963",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 723,
+          "originalReference": "Muslim 2965",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2965",
+          "sourceUrl": "https://sunnah.com/muslim:2965",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 724,
+          "originalReference": "Muslim 2999",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2999",
+          "sourceUrl": "https://sunnah.com/muslim:2999",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 725,
+          "originalReference": "Muslim 1048",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 1048",
+          "sourceUrl": "https://sunnah.com/muslim:1048",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 726,
+          "originalReference": "Muslim (related in Tirmidhi 2450)",
+          "sourceCollectionId": "tirmidhi",
+          "sourceCollectionName": "Jami at-Tirmidhi",
+          "sourceReference": "Jami at-Tirmidhi 2450",
+          "sourceUrl": "https://sunnah.com/tirmidhi:2450",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 727,
+          "originalReference": "Muslim 2564",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2564",
+          "sourceUrl": "https://sunnah.com/muslim:2564",
+          "sourceReviewStatus": "source_link_verified"
+        },
+        {
+          "id": 728,
+          "originalReference": "Muslim 2965",
+          "sourceCollectionId": "muslim",
+          "sourceCollectionName": "Sahih Muslim",
+          "sourceReference": "Sahih Muslim 2965",
+          "sourceUrl": "https://sunnah.com/muslim:2965",
+          "sourceReviewStatus": "source_link_verified"
+        }
+      ]
+    }
+  ]
+}
